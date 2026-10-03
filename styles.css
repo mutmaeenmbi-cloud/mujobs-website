@@ -100,13 +100,3 @@
 .method-track{background:var(--lime);border:1px solid var(--ink)!important;padding:24px!important;box-shadow:8px 8px 0 var(--ink);transform:rotate(-.7deg)}
 .method-track span{font-size:13px}.method-track b{color:var(--ink)}
 @media(max-width:540px){.market-detail-hero:before{font-size:100px;right:-60px}.market-detail-hero:after{bottom:58px}.market-detail-hero h1{text-shadow:3px 3px 0 rgba(215,255,69,.55)}.role-map-section:before{display:none}.role-map-grid article,.role-map-grid article:nth-child(n){transform:none}.method-track{transform:none}}
-
-/* Real Estate territory — architectural image crop */
-.t-real{isolation:isolate}
-.t-real .territory-photo{position:absolute;z-index:0;right:0;top:0;bottom:0;width:39%;background-image:linear-gradient(90deg,var(--paper) 0%,rgba(243,240,232,.72) 16%,rgba(9,20,30,.08) 48%),url("MuJobs_%20People%20for%20What%E2%80%99s%20Next.png");background-size:auto 100%;background-position:right center;background-repeat:no-repeat;filter:saturate(.82) contrast(1.04);transition:transform .45s cubic-bezier(.2,.8,.2,1),filter .3s;transform-origin:right center}
-.t-real:hover .territory-photo{transform:scale(1.035);filter:saturate(1) contrast(1.06)}
-.t-real .territory-main{padding-right:31%}
-.t-real .territory-side{background:rgba(243,240,232,.78);backdrop-filter:blur(2px)}
-.t-real:hover .territory-side{background:rgba(255,99,52,.78)}
-@media(max-width:850px){.t-real .territory-photo{width:45%}.t-real .territory-main{padding-right:28%}}
-@media(max-width:540px){.t-real .territory-photo{width:48%;opacity:.5}.t-real .territory-main{padding-right:17px}.t-real:after{content:"";position:absolute;z-index:0;inset:0;background:linear-gradient(90deg,var(--paper) 15%,rgba(243,240,232,.86) 55%,rgba(243,240,232,.18) 100%)}}
