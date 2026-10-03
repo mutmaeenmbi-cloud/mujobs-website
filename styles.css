@@ -25,3 +25,39 @@
 .market-card:hover .market-arrow{transform:translate(4px,-4px)}
 @media(max-width:850px){.markets-head{grid-template-columns:1fr;gap:20px}.market-wall-v2{grid-template-columns:1fr 1fr}}
 @media(max-width:540px){.markets-head{grid-template-columns:1fr}.markets-head h2{font-size:44px;letter-spacing:-3px}.market-wall-v2{grid-template-columns:1fr}.market-card{min-height:340px;padding:23px}.market-top span{font-size:34px}.market-card h3{font-size:40px;letter-spacing:-2px}.role-tags{padding-right:0}.market-arrow{right:20px;bottom:18px}}
+
+/* 03 Markets v3 — talent territories */
+.markets-v3{padding-top:90px;padding-bottom:100px}
+.market-kicker{display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid var(--ink);padding-bottom:15px}
+.market-kicker>span{font-size:9px;font-weight:900;letter-spacing:1.6px}
+.markets-v3-head{display:grid;grid-template-columns:1.3fr .7fr;gap:80px;align-items:end;padding:55px 0 60px}
+.markets-v3-head h2{font-size:clamp(55px,7vw,94px);line-height:.86;letter-spacing:-6px;margin:0}
+.markets-v3-head h2 em{font-style:normal;color:var(--orange)}
+.markets-v3-head p{font-size:19px;line-height:1.55;color:var(--muted);margin:0;max-width:430px}
+.market-stack{border-top:1px solid var(--ink)}
+.territory{display:grid;grid-template-columns:105px minmax(0,1fr) 165px;min-height:245px;border-bottom:1px solid var(--ink);text-decoration:none;position:relative;transition:.28s cubic-bezier(.2,.8,.2,1);overflow:hidden}
+.territory:before{content:"";position:absolute;inset:0;background:var(--lime);transform:scaleY(0);transform-origin:bottom;transition:transform .28s cubic-bezier(.2,.8,.2,1);z-index:0}
+.territory:nth-child(1):before{background:var(--orange)}
+.territory:nth-child(3):before{background:#fff}
+.territory:nth-child(4):before{background:var(--ink)}
+.territory>*{position:relative;z-index:1}
+.territory:hover:before{transform:scaleY(1)}
+.territory:hover{min-height:285px}
+.territory-no{font-size:14px;font-weight:900;padding:30px 0;border-right:1px solid var(--ink)}
+.territory-main{padding:28px 34px}
+.territory-label{font-size:9px;font-weight:900;letter-spacing:1.7px;opacity:.6}
+.territory h3{font-size:clamp(42px,5vw,68px);letter-spacing:-4px;line-height:.9;margin:18px 0 27px}
+.role-stream{display:flex;flex-wrap:wrap;gap:7px}
+.role-stream i{font-style:normal;border:1px solid currentColor;border-radius:100px;padding:8px 11px;font-size:10px;font-weight:800;transition:.2s}
+.territory:hover .role-stream i{background:rgba(243,240,232,.55)}
+.territory-side{border-left:1px solid var(--ink);padding:27px 22px;display:flex;flex-direction:column;justify-content:space-between;align-items:flex-start}
+.territory-side>span{font-size:8px;font-weight:900;letter-spacing:1.2px}
+.territory-side>b{font-size:48px;line-height:.65;letter-spacing:-3px}
+.territory-side>b small{font-size:7px;letter-spacing:1.3px}
+.territory-side>strong{font-size:32px;align-self:flex-end;transition:.2s}
+.territory:hover .territory-side>strong{transform:translate(5px,-5px)}
+.t-sales:hover{color:white}.t-sales:hover .territory-no,.t-sales:hover .territory-side{border-color:#53606a}.t-sales:hover .role-stream i{background:rgba(255,255,255,.06)}
+.markets-foot{display:flex;justify-content:space-between;gap:25px;padding-top:18px;font-size:9px;letter-spacing:1.3px}
+.markets-foot span{font-weight:900;color:var(--orange)}.markets-foot b{font-weight:800}
+@media(max-width:850px){.markets-v3-head{grid-template-columns:1fr;gap:25px}.territory{grid-template-columns:75px minmax(0,1fr) 120px}.territory-main{padding:25px}.territory h3{font-size:48px}}
+@media(max-width:540px){.markets-v3{padding-left:18px;padding-right:18px}.markets-v3-head{padding:42px 0}.markets-v3-head h2{font-size:51px;letter-spacing:-4px}.markets-v3-head p{font-size:16px}.territory{grid-template-columns:48px 1fr;min-height:290px}.territory:hover{min-height:290px}.territory-no{padding:23px 0}.territory-main{padding:22px 17px}.territory h3{font-size:38px;letter-spacing:-2.5px;margin:16px 0 22px}.territory-side{display:none}.role-stream{gap:6px}.role-stream i{font-size:9px;padding:7px 9px}.markets-foot{flex-direction:column}.market-kicker>span{display:none}}
