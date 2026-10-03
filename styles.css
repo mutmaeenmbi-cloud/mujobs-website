@@ -78,3 +78,25 @@
 .method-track{display:flex!important;grid-template-columns:none!important;gap:15px!important;align-items:center!important;justify-content:space-between;margin:55px 0 20px;border-top:1px solid var(--ink);border-bottom:1px solid var(--ink);padding:24px 0}.method-track span{font-size:11px;font-weight:900;letter-spacing:1.5px}.method-track b{color:var(--orange);font-size:25px}
 @media(max-width:850px){.market-detail-hero h1{letter-spacing:-6px}.role-map-head,.market-method>div:first-of-type{grid-template-columns:1fr}.role-map-grid{grid-template-columns:1fr}.role-map-grid article:nth-child(odd){border-right:0}}
 @media(max-width:540px){.market-detail-hero{min-height:580px}.detail-top{left:18px;right:18px}.market-detail-hero h1{font-size:55px;letter-spacing:-4px}.detail-scroll{right:18px}.role-map-section{padding-left:18px;padding-right:18px}.role-map-head h2,.market-method h2{font-size:44px;letter-spacing:-3px}.role-map-grid h3{font-size:29px}.method-track{overflow:auto;justify-content:flex-start;white-space:nowrap}}
+
+/* Market detail v2 — editorial / kinetic treatment */
+.market-detail-hero{overflow:hidden;background:var(--paper)}
+.market-detail-hero:before{content:"TALENT\A MARKET";white-space:pre;position:absolute;right:-18px;top:105px;font-size:clamp(100px,16vw,215px);font-weight:900;line-height:.67;letter-spacing:-13px;color:transparent;-webkit-text-stroke:1px rgba(9,20,30,.12);transform:rotate(-4deg);pointer-events:none}
+.market-detail-hero:after{content:"●  SEARCHING BEYOND THE INBOX  ●  SEARCHING BEYOND THE INBOX";position:absolute;left:-30px;bottom:74px;width:115%;padding:10px 0;background:var(--orange);color:var(--ink);font-size:9px;font-weight:900;letter-spacing:2px;white-space:nowrap;transform:rotate(-2deg)}
+.market-detail-hero h1{position:relative;z-index:2;text-shadow:5px 5px 0 rgba(215,255,69,.55)}
+.market-detail-hero h1 em{display:inline-block;background:var(--ink);color:var(--lime);padding:3px 14px 10px;transform:rotate(-1deg);text-shadow:none}
+.detail-scroll{z-index:4;box-shadow:5px 5px 0 var(--ink)}
+.role-map-section{position:relative;overflow:hidden}
+.role-map-section:before{content:"ROLE MAP";position:absolute;right:-35px;top:20px;font-size:145px;font-weight:900;letter-spacing:-10px;color:#101f2b;transform:rotate(90deg);transform-origin:right top;pointer-events:none}
+.role-map-grid{position:relative;z-index:2;gap:10px;border:0}
+.role-map-grid article{border:1px solid #46515a!important;min-height:220px;overflow:hidden}
+.role-map-grid article:after{content:"↗";position:absolute;right:22px;top:20px;font-size:25px;color:var(--lime);transition:.2s}
+.role-map-grid article:hover:after{color:var(--ink);transform:translate(5px,-5px)}
+.role-map-grid article:nth-child(3n+1){transform:rotate(-.6deg)}.role-map-grid article:nth-child(3n+2){transform:translateY(13px) rotate(.4deg)}.role-map-grid article:nth-child(3n){transform:rotate(.6deg)}
+.role-map-grid article:hover{transform:translate(-6px,-7px) rotate(0)}
+.role-map-grid h3:after{content:"";display:block;width:42px;height:5px;background:var(--orange);margin-top:15px}
+.market-method{background:var(--paper);overflow:hidden}
+.market-method:after{content:"MUJOBS / DIRECT SEARCH / CH + DE";position:absolute;right:-50px;top:100px;font-size:70px;font-weight:900;letter-spacing:-4px;color:rgba(9,20,30,.035);transform:rotate(8deg);pointer-events:none}
+.method-track{background:var(--lime);border:1px solid var(--ink)!important;padding:24px!important;box-shadow:8px 8px 0 var(--ink);transform:rotate(-.7deg)}
+.method-track span{font-size:13px}.method-track b{color:var(--ink)}
+@media(max-width:540px){.market-detail-hero:before{font-size:100px;right:-60px}.market-detail-hero:after{bottom:58px}.market-detail-hero h1{text-shadow:3px 3px 0 rgba(215,255,69,.55)}.role-map-section:before{display:none}.role-map-grid article,.role-map-grid article:nth-child(n){transform:none}.method-track{transform:none}}
