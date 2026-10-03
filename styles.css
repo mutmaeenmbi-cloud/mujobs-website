@@ -100,8 +100,3 @@
 .method-track{background:var(--lime);border:1px solid var(--ink)!important;padding:24px!important;box-shadow:8px 8px 0 var(--ink);transform:rotate(-.7deg)}
 .method-track span{font-size:13px}.method-track b{color:var(--ink)}
 @media(max-width:540px){.market-detail-hero:before{font-size:100px;right:-60px}.market-detail-hero:after{bottom:58px}.market-detail-hero h1{text-shadow:3px 3px 0 rgba(215,255,69,.55)}.role-map-section:before{display:none}.role-map-grid article,.role-map-grid article:nth-child(n){transform:none}.method-track{transform:none}}
-
-/* Homepage brand visual */
-.brand-visual{max-width:1200px;margin:0 auto;padding:34px 28px 10px}
-.brand-visual img{display:block;width:100%;height:auto;border:1px solid var(--ink);box-shadow:10px 10px 0 var(--ink);object-fit:cover}
-@media(max-width:540px){.brand-visual{padding:22px 18px 4px}.brand-visual img{box-shadow:6px 6px 0 var(--ink)}}
