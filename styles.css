@@ -651,3 +651,61 @@
  .v11-clientnote{padding:14px 18px 0}
  .v11-clientnote a{width:100%;margin:5px 0 0}
 }
+
+
+/* =========================================================
+   mujobs V12 — clearer section hierarchy + recruitment hero
+   ========================================================= */
+
+/* Keep supporting copy with its section instead of floating at the side. */
+.home-v10 .v10-sectionhead{display:block;max-width:980px;margin-bottom:36px}
+.home-v10 .v10-sectionhead h2{max-width:850px}
+.home-v10 .v10-sectionhead>p{display:inline-block;max-width:720px;margin:18px 0 0;padding:13px 16px 13px 18px;border-left:3px solid #c9f13b;background:#f0f3eb;border-radius:0 9px 9px 0;color:#4f5c64;font-size:12px;line-height:1.55}
+.home-v10 .v10-kicker{margin-bottom:17px}
+
+/* First-screen visual: a mujobs talent map, not a generic team photograph. */
+.home-v10 .v10-hero-visual{background:#0b1520}
+.home-v10 .v10-hero-visual:before{content:"";position:absolute;inset:0;background:radial-gradient(circle at 72% 30%,rgba(201,241,59,.12),transparent 28%),linear-gradient(rgba(255,255,255,.025) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.025) 1px,transparent 1px);background-size:auto,34px 34px,34px 34px}
+.home-v10 .v10-hero-photo{display:none!important}
+.v12-talentmap{position:absolute;inset:42px 38px 38px;border:1px solid rgba(255,255,255,.12);border-radius:18px;background:rgba(15,29,40,.88);overflow:hidden;box-shadow:0 30px 70px rgba(0,0,0,.24)}
+.v12-maphead{height:64px;padding:17px 20px;border-bottom:1px solid rgba(255,255,255,.1);display:flex;justify-content:space-between;align-items:center;color:#fff}
+.v12-maphead span{font-size:8px;font-weight:950;letter-spacing:1.2px;color:#c9f13b}.v12-maphead b{font-size:8px;font-weight:700;color:#aeb9bf}
+.v12-searchbar{position:absolute;left:20px;right:20px;top:81px;height:43px;border:1px solid rgba(255,255,255,.12);border-radius:9px;background:#111f2a;color:#d7dde0;padding:14px 15px;font-size:9px;font-weight:700}
+.v12-nodes{position:absolute;left:8%;right:8%;top:155px;bottom:72px}
+.v12-nodes span{position:absolute;width:48px;height:48px;border-radius:50%;display:grid;place-items:center;background:#f7f8f5;border:5px solid #25343e;color:#0b1520;font-size:11px;font-weight:950;z-index:3;box-shadow:0 8px 22px rgba(0,0,0,.22)}
+.v12-nodes span:after{content:"";position:absolute;inset:-10px;border:1px solid rgba(201,241,59,.13);border-radius:50%}
+.v12-nodes .n1{left:3%;top:17%}.v12-nodes .n2{left:29%;top:0}.v12-nodes .n3{left:59%;top:11%;background:#c9f13b}.v12-nodes .n4{right:0;top:31%}.v12-nodes .n5{left:13%;bottom:4%}.v12-nodes .n6{left:42%;bottom:15%}.v12-nodes .n7{right:20%;bottom:0}.v12-nodes .n8{left:71%;top:48%}
+.v12-nodes i{position:absolute;height:1px;background:linear-gradient(90deg,transparent,rgba(201,241,59,.4),transparent);transform-origin:left center;z-index:1}.v12-nodes .l1{width:58%;left:10%;top:34%;transform:rotate(-8deg)}.v12-nodes .l2{width:49%;left:32%;top:23%;transform:rotate(28deg)}.v12-nodes .l3{width:60%;left:18%;top:70%;transform:rotate(-16deg)}.v12-nodes .l4{width:42%;left:50%;top:65%;transform:rotate(17deg)}
+.v12-mapnote{position:absolute;left:20px;bottom:18px;display:flex;gap:7px;align-items:center;font-size:9px}.v12-mapnote strong{color:#fff}.v12-mapnote span{color:#c9f13b}
+
+/* Put the real search funnel over the market map. */
+.home-v10 .v10-funnelcard{left:auto;right:7%;top:31%;width:218px;z-index:6}
+.home-v10 .v10-funnelcard>div{height:63px}
+.home-v10 .v10-pipeline-card{left:7%;right:auto;top:auto;bottom:7%;width:215px;z-index:7;background:#c9f13b;color:#0b1520}
+.home-v10 .v10-pipeline-card span{color:#4b5b24}
+.home-v10 .v10-handnote{display:none}
+
+/* Company section uses the same hierarchy. */
+.home-v10 .v11-clients-head{display:block;max-width:980px;padding-bottom:30px}
+.home-v10 .v11-clients-head small{display:block;margin-bottom:16px}
+.home-v10 .v11-clients-head h2{max-width:850px}
+.home-v10 .v11-clients-head p{display:inline-block;max-width:720px;margin:17px 0 0;padding:12px 16px 12px 18px;border-left:3px solid #c9f13b;background:#f0f3eb;border-radius:0 9px 9px 0;color:#4f5c64;font-size:11px;line-height:1.55}
+
+/* Mobile: preserve the hierarchy and make the talent map readable. */
+@media(max-width:600px){
+ .home-v10 .v10-sectionhead{margin-bottom:27px}
+ .home-v10 .v10-sectionhead>p{display:block;max-width:none;margin-top:14px;padding:12px 13px 12px 14px;font-size:11px}
+ .home-v10 .v10-hero-visual{min-height:475px;margin:0 12px 26px}
+ .v12-talentmap{inset:14px;border-radius:15px}
+ .v12-maphead{height:55px;padding:14px}.v12-maphead b{display:none}
+ .v12-searchbar{left:14px;right:14px;top:68px;height:39px;padding:12px;font-size:8px}
+ .v12-nodes{left:7%;right:7%;top:125px;bottom:110px}
+ .v12-nodes span{width:39px;height:39px;border-width:4px;font-size:9px}
+ .home-v10 .v10-funnelcard{left:27px;right:27px;top:184px;width:auto}
+ .home-v10 .v10-funnelcard>div{height:52px;grid-template-columns:46px 42px 1fr}
+ .home-v10 .v10-funnelcard strong{font-size:18px}
+ .home-v10 .v10-pipeline-card{left:27px;right:27px;bottom:27px;width:auto;top:auto}
+ .v12-mapnote{display:none}
+ .home-v10 .v11-clients-head{padding:0 18px 24px}
+ .home-v10 .v11-clients-head p{display:block;margin-top:14px;font-size:10px}
+}
