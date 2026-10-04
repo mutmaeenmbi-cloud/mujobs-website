@@ -624,3 +624,30 @@
  .cs-v2 .cs-metrics div{min-height:96px;padding:15px}
  .cs-v2 .cs-metrics strong{font-size:31px}
 }
+
+
+/* mujobs company wordmark rail */
+.v11-brandtrack{gap:30px}
+.v11-brandtrack .brand{display:inline-flex;align-items:center;justify-content:center;min-width:max-content;height:42px;padding:0 8px;font-size:19px;font-weight:800;letter-spacing:-.7px;color:#1b2730;white-space:nowrap;opacity:.82}
+.v11-brandtrack .brand b{font-weight:950}
+.v11-brandtrack .equipe{font-weight:500;letter-spacing:-1px}.v11-brandtrack .equipe b{font-weight:950}
+.v11-brandtrack .volare{letter-spacing:1.3px;font-size:17px}.v11-brandtrack .volare b{font-size:8px;margin-left:5px;letter-spacing:1px}
+.v11-brandtrack .soldnow{font-weight:700}.v11-brandtrack .soldnow span{font-weight:950;margin-left:1px}
+.v11-brandtrack .amarox{font-size:17px;letter-spacing:.4px}.v11-brandtrack .amarox b{font-size:9px;margin-left:5px;letter-spacing:1px}
+.v11-brandtrack .igc{font-size:14px;letter-spacing:1.6px}
+.v11-brandtrack .aldi{font-size:20px;letter-spacing:1.8px;font-weight:950}
+.v11-brandtrack .edeka{font-size:20px;letter-spacing:1.5px;font-weight:950}
+.v11-brandtrack .intercontinental{font-family:Georgia,serif;font-size:15px;letter-spacing:1.1px;font-weight:700}
+.v11-brandtrack .emlen{font-size:22px;letter-spacing:-1.5px}
+.v11-brandtrack .techhive{font-size:19px;letter-spacing:-1px;font-weight:850}
+.v11-clientnote{padding:17px 28px 0;display:flex;gap:9px;align-items:center;flex-wrap:wrap}
+.v11-clientnote span{font-size:7px;font-weight:850;letter-spacing:.5px;text-transform:uppercase;color:#7e898e;border:1px solid #dfe2dc;border-radius:999px;padding:6px 9px}
+.v11-clientnote a{margin-left:auto;font-size:8px;font-weight:900;text-decoration:none;color:#0b1520}
+@media(max-width:600px){
+ .v11-brandtrack{gap:20px}
+ .v11-brandtrack .brand{font-size:16px;height:35px}
+ .v11-brandtrack .volare,.v11-brandtrack .amarox{font-size:15px}
+ .v11-brandtrack .igc,.v11-brandtrack .intercontinental{font-size:12px}
+ .v11-clientnote{padding:14px 18px 0}
+ .v11-clientnote a{width:100%;margin:5px 0 0}
+}
