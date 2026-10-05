@@ -122,3 +122,20 @@ body.playbook-home{font-size:16px}
  .pb-cta-card{padding:27px 21px}
  .pb-cta h2{font-size:42px;line-height:.93;letter-spacing:-2.7px}
 }
+
+
+/* Inbound vs MuJobs Way */
+.pb-contrast{padding:92px 0;background:#fffdf8;border-top:1px solid var(--mj-line);border-bottom:1px solid var(--mj-line)}
+.pb-vs{display:grid;grid-template-columns:1fr 1fr;border:1px solid var(--mj-line);border-radius:18px;overflow:hidden}
+.pb-vs article{padding:34px;min-height:400px;display:flex;flex-direction:column}
+.pb-inbound{background:#f5f3ed;border-right:1px solid var(--mj-line)}
+.pb-way{background:var(--mj-ink);color:#fff}
+.pb-vs-label{font-size:9px;font-weight:900;letter-spacing:1.2px;color:#7b8580}
+.pb-way .pb-vs-label{color:var(--mj-lime)}
+.pb-vs h3{font-size:31px;line-height:1.02;letter-spacing:-1.8px;margin:20px 0 36px}
+.pb-funnel{display:flex;align-items:center;justify-content:space-between;gap:9px;margin:auto 0}
+.pb-funnel div{text-align:center;min-width:64px}.pb-funnel strong{display:block;font-size:30px;letter-spacing:-1.7px}.pb-funnel span{display:block;font-size:8px;line-height:1.25;color:#7a8480;margin-top:5px}.pb-funnel i{font-style:normal;color:#9aa19c;font-size:12px}.pb-funnel .hire strong{color:var(--mj-green)}
+.pb-way-flow{display:flex;align-items:center;flex-wrap:wrap;gap:10px;margin:auto 0}.pb-way-flow span{border:1px solid rgba(255,255,255,.22);border-radius:999px;padding:11px 13px;font-size:10px;font-weight:800}.pb-way-flow i{font-style:normal;color:var(--mj-lime);font-size:11px}
+.pb-vs-note{font-size:12px;line-height:1.6;color:#737d79;margin:32px 0 0}.pb-way .pb-vs-note{color:#aeb9bd}
+@media(max-width:900px){.pb-vs{grid-template-columns:1fr}.pb-inbound{border-right:0;border-bottom:1px solid var(--mj-line)}}
+@media(max-width:600px){.pb-contrast{padding:66px 0}.pb-vs{border-radius:14px}.pb-vs article{padding:22px;min-height:0}.pb-vs h3{font-size:27px;margin-bottom:28px}.pb-funnel{display:grid;grid-template-columns:1fr 20px 1fr 20px 1fr;row-gap:18px}.pb-funnel i:nth-of-type(3){display:none}.pb-funnel div:nth-of-type(4){grid-column:2/4}.pb-funnel i:nth-of-type(4){grid-column:4}.pb-funnel div:nth-of-type(5){grid-column:5}.pb-way-flow{margin:0}.pb-vs-note{margin-top:25px}}
