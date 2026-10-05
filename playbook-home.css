@@ -139,3 +139,15 @@ body.playbook-home{font-size:16px}
 .pb-vs-note{font-size:12px;line-height:1.6;color:#737d79;margin:32px 0 0}.pb-way .pb-vs-note{color:#aeb9bd}
 @media(max-width:900px){.pb-vs{grid-template-columns:1fr}.pb-inbound{border-right:0;border-bottom:1px solid var(--mj-line)}}
 @media(max-width:600px){.pb-contrast{padding:66px 0}.pb-vs{border-radius:14px}.pb-vs article{padding:22px;min-height:0}.pb-vs h3{font-size:27px;margin-bottom:28px}.pb-funnel{display:grid;grid-template-columns:1fr 20px 1fr 20px 1fr;row-gap:18px}.pb-funnel i:nth-of-type(3){display:none}.pb-funnel div:nth-of-type(4){grid-column:2/4}.pb-funnel i:nth-of-type(4){grid-column:4}.pb-funnel div:nth-of-type(5){grid-column:5}.pb-way-flow{margin:0}.pb-vs-note{margin-top:25px}}
+
+
+/* MuJobs Method — proof in numbers */
+.pb-method-proof{margin:0 0 18px;background:var(--mj-ink);color:#fff;border-radius:14px;padding:24px 25px}
+.pb-method-proof-head{display:flex;justify-content:space-between;gap:30px;align-items:end;padding-bottom:19px;border-bottom:1px solid rgba(255,255,255,.16)}
+.pb-method-proof-head span{font-size:8px;font-weight:900;letter-spacing:1.1px;color:var(--mj-lime)}
+.pb-method-proof-head strong{font-size:17px;letter-spacing:-.6px}
+.pb-method-metrics{display:grid;grid-template-columns:1fr 24px 1fr 24px 1fr 24px .8fr 1fr;align-items:center;gap:6px;padding:24px 0 20px}
+.pb-method-metrics div{min-width:0}.pb-method-metrics b{display:block;font-size:35px;line-height:1;letter-spacing:-2px}.pb-method-metrics span{display:block;font-size:9px;color:#aeb8bc;margin-top:6px}.pb-method-metrics i{font-style:normal;color:var(--mj-lime);text-align:center}.pb-method-metrics .won b,.pb-method-metrics .time b{color:var(--mj-lime)}
+.pb-method-metrics .time{border-left:1px solid rgba(255,255,255,.16);padding-left:22px}
+.pb-pipeline-retained{display:flex;gap:10px;align-items:baseline;background:rgba(215,255,69,.08);border:1px solid rgba(215,255,69,.18);border-radius:9px;padding:13px 15px}.pb-pipeline-retained strong{font-size:13px;color:var(--mj-lime)}.pb-pipeline-retained span{font-size:11px;color:#bdc6ca}
+@media(max-width:800px){.pb-method-proof-head{display:block}.pb-method-proof-head strong{display:block;margin-top:8px}.pb-method-metrics{grid-template-columns:1fr 18px 1fr 18px 1fr}.pb-method-metrics i:nth-of-type(3){display:none}.pb-method-metrics .won{grid-column:1/3;margin-top:8px}.pb-method-metrics .time{grid-column:3/6;margin-top:8px}.pb-pipeline-retained{display:block}.pb-pipeline-retained span{display:block;margin-top:4px}}
