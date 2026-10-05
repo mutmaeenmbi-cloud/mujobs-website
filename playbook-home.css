@@ -22,3 +22,103 @@ body.playbook-home{margin:0;background:var(--mj-paper);color:var(--mj-ink);font-
 .pb-footer{border-top:1px solid var(--mj-line);padding:28px 0 40px}.pb-footer .pb-shell{display:flex;align-items:center;gap:28px}.pb-footer span,.pb-footer a:not(.pb-logo){font-size:9px;color:#68736f;text-decoration:none}.pb-footer .push{margin-left:auto}
 @media(max-width:900px){.pb-nav{display:none}.pb-hero-grid{grid-template-columns:1fr}.pb-belief{min-height:400px}.pb-head{grid-template-columns:1fr;gap:12px}.pb-manifesto{grid-template-columns:1fr;gap:35px}.pb-method-intro{display:block}.pb-method-intro p{margin-top:15px}.pb-case{grid-template-columns:1fr 1fr}.pb-case .result{border-left:0;padding-left:0}.pb-case i{justify-self:start}.pb-principles{grid-template-columns:1fr 1fr}.pb-principle:nth-child(2n){border-right:0}.pb-markets{grid-template-columns:1fr 1fr}.pb-cta-card{grid-template-columns:1fr}.pb-cta-card .pb-btn{justify-self:start}.pb-clients-top{display:block}.pb-clients p{margin-top:15px}}
 @media(max-width:600px){.pb-shell,.pb-header .pb-shell{width:calc(100% - 30px)}.pb-header{height:64px}.pb-logo{font-size:26px}.pb-topcta{margin-left:auto;padding:11px 13px;font-size:9px}.pb-hero{padding:62px 0 40px}.pb-hero-grid{gap:38px}.pb-hero h1{font-size:57px;line-height:.85;letter-spacing:-4.4px;margin:20px 0 26px}.pb-lead{font-size:16px}.pb-actions{display:grid;grid-template-columns:1fr 1fr}.pb-belief{min-height:360px;padding:25px;border-radius:17px}.pb-belief blockquote{font-size:34px;letter-spacing:-2px}.pb-truthbar{margin-top:42px}.pb-truthbar div{padding:18px 12px}.pb-truthbar div:first-child{padding-left:0}.pb-truthbar strong{font-size:18px}.pb-section{padding:76px 0}.pb-head{margin-bottom:36px}.pb-head h2{font-size:45px;letter-spacing:-3px}.pb-head p{font-size:13px}.pb-manifesto-title{font-size:30px}.pb-manifesto-copy article{grid-template-columns:35px 1fr}.pb-manifesto-copy h3{font-size:20px}.pb-method-wrap{padding:27px 20px;border-radius:17px}.pb-method-intro h3{font-size:32px}.pb-stage{grid-template-columns:35px 1fr;gap:10px 15px}.pb-stage p{grid-column:2;font-size:12px}.pb-stage h4{font-size:20px}.pb-work{padding:76px 0}.pb-case{display:block;padding:24px 0}.pb-case:hover{padding-left:0;padding-right:0;background:transparent}.pb-case .challenge{margin-top:18px}.pb-case .result{margin-top:19px;padding-top:17px;border-top:1px solid rgba(255,255,255,.18)}.pb-case i{display:block;margin-top:17px}.pb-principles{grid-template-columns:1fr}.pb-principle{min-height:0;border-right:0;border-bottom:1px solid var(--mj-line);padding:22px 0}.pb-principle:last-child{border-bottom:0}.pb-principle h3{margin:25px 0 8px;font-size:23px}.pb-principle p{font-size:12px}.pb-markets{grid-template-columns:1fr}.pb-market{min-height:220px}.pb-clients{padding:60px 0}.pb-clients h2{font-size:37px}.pb-clients-top{width:calc(100% - 30px);margin:auto}.pb-track{gap:24px;animation-duration:21s}.pb-track span{font-size:16px}.pb-cta{padding:70px 0 85px}.pb-cta-card{padding:31px 24px;border-radius:18px}.pb-cta h2{font-size:47px;letter-spacing:-3.2px}.pb-footer .pb-shell{display:grid;grid-template-columns:1fr 1fr}.pb-footer .push{margin-left:0}}
+
+
+/* =========================================================
+   CLARITY PASS — stronger hierarchy, less visual competition
+   ========================================================= */
+body.playbook-home{font-size:16px}
+.pb-hero{padding:78px 0 52px}
+.pb-hero-grid{grid-template-columns:1.18fr .82fr;gap:54px;align-items:stretch}
+.pb-hero h1{font-size:clamp(62px,6.5vw,94px);line-height:.88;letter-spacing:-5.8px;margin:22px 0 28px}
+.pb-lead{font-size:18px;line-height:1.6;max-width:650px}
+.pb-belief{min-height:390px;border-radius:18px;padding:31px}
+.pb-belief blockquote{font-size:34px;line-height:1.02;letter-spacing:-2px}
+.pb-belief p{font-size:13px;line-height:1.6}
+.pb-truthbar{margin-top:48px;background:rgba(255,255,255,.3)}
+.pb-truthbar div{padding:22px 24px}
+.pb-truthbar strong{font-size:21px;line-height:1.15}
+
+.pb-section{padding:92px 0}
+.pb-section:nth-of-type(4){background:#f7f5ef}
+.pb-head{display:block;max-width:920px;margin-bottom:44px}
+.pb-num{display:inline-block;padding:0 0 12px;border-bottom:2px solid var(--mj-lime);margin-bottom:21px}
+.pb-head h2{font-size:clamp(45px,4.6vw,65px);line-height:.94;letter-spacing:-3.6px;max-width:880px}
+.pb-head p{font-size:15px;line-height:1.65;max-width:720px;margin-top:18px}
+
+.pb-manifesto{grid-template-columns:.78fr 1.22fr;gap:60px}
+.pb-manifesto-title{font-size:31px;line-height:1.08;letter-spacing:-1.7px;position:sticky;top:120px}
+.pb-manifesto-copy article{padding:21px 0}
+.pb-manifesto-copy h3{font-size:21px}
+.pb-manifesto-copy p{font-size:13px}
+
+.pb-method-wrap{padding:38px;background:#e8ece1;border-radius:18px}
+.pb-method-intro{margin-bottom:28px;align-items:start}
+.pb-method-intro h3{font-size:34px}
+.pb-method{display:grid;grid-template-columns:1fr 1fr;gap:10px;border:0}
+.pb-stage{display:block;background:rgba(255,255,255,.58);border:1px solid #cfd5c7;border-radius:12px;padding:20px;min-height:175px}
+.pb-stage b{display:inline-grid;place-items:center;width:29px;height:29px;border-radius:50%;background:var(--mj-ink);color:var(--mj-lime);font-size:9px}
+.pb-stage h4{font-size:20px;margin:26px 0 9px}
+.pb-stage p{font-size:12px;line-height:1.6}
+.pb-stage:last-child{grid-column:1/-1;min-height:140px;display:grid;grid-template-columns:45px .8fr 1.2fr;align-items:center;gap:18px}
+.pb-stage:last-child h4{margin:0}
+
+.pb-work{padding:92px 0}
+.pb-work .pb-head{margin-bottom:40px}
+.pb-case{grid-template-columns:1.05fr 1.25fr .72fr 76px;padding:25px 0;gap:28px}
+.pb-case h3{font-size:28px}
+.pb-case .challenge{font-size:13px}
+.pb-case .result strong{font-size:31px}
+
+.pb-principles{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;border:0}
+.pb-principle{background:#faf9f5;border:1px solid #d8dad3!important;border-radius:14px;padding:23px;min-height:210px}
+.pb-principle h3{font-size:23px;line-height:1.02;margin:48px 0 11px}
+.pb-principle p{font-size:12px;line-height:1.6}
+.pb-principle:nth-child(4),.pb-principle:nth-child(5){min-height:190px}
+
+.pb-markets{gap:12px}
+.pb-market{min-height:250px;padding:24px}
+.pb-market h3{font-size:28px}
+.pb-market p{font-size:12px}
+
+.pb-clients{padding:64px 0}
+.pb-cta{padding:88px 0 100px}
+.pb-cta-card{padding:46px;border-radius:18px}
+.pb-cta h2{font-size:clamp(47px,4.8vw,68px);letter-spacing:-3.8px}
+
+@media(max-width:900px){
+ .pb-hero-grid{grid-template-columns:1fr;gap:34px}
+ .pb-belief{min-height:330px}
+ .pb-manifesto-title{position:static}
+ .pb-method{grid-template-columns:1fr}
+ .pb-stage:last-child{grid-column:auto;display:block;min-height:175px}
+ .pb-stage:last-child h4{margin:26px 0 9px}
+ .pb-principles{grid-template-columns:1fr 1fr}
+}
+@media(max-width:600px){
+ .pb-hero{padding-top:50px}
+ .pb-hero h1{font-size:52px;line-height:.9;letter-spacing:-3.7px}
+ .pb-belief{min-height:300px;padding:23px}
+ .pb-belief blockquote{font-size:30px}
+ .pb-truthbar{display:block}
+ .pb-truthbar div:first-child{border-right:0;border-bottom:1px solid var(--mj-line);padding-left:16px}
+ .pb-truthbar div{padding:17px 16px}
+ .pb-section{padding:66px 0}
+ .pb-head{margin-bottom:30px}
+ .pb-head h2{font-size:40px;line-height:.96;letter-spacing:-2.5px}
+ .pb-head p{font-size:13px}
+ .pb-manifesto{gap:28px}
+ .pb-manifesto-title{font-size:27px}
+ .pb-method-wrap{padding:18px;border-radius:14px}
+ .pb-method-intro h3{font-size:29px}
+ .pb-stage{min-height:0;padding:17px}
+ .pb-stage h4,.pb-stage:last-child h4{margin:18px 0 8px;font-size:19px}
+ .pb-work{padding:66px 0}
+ .pb-principles{grid-template-columns:1fr}
+ .pb-principle,.pb-principle:nth-child(4),.pb-principle:nth-child(5){min-height:0;padding:19px}
+ .pb-principle h3{margin:25px 0 8px}
+ .pb-market{min-height:205px}
+ .pb-cta{padding:65px 0 78px}
+ .pb-cta-card{padding:27px 21px}
+ .pb-cta h2{font-size:42px;line-height:.93;letter-spacing:-2.7px}
+}
