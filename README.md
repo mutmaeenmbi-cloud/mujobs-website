@@ -19,3 +19,18 @@ The homepage follows the founder's decision: mission → business understanding 
 ## Validation
 
 The 20 active pages were rendered at 375px, 768px and 1440px, checked for horizontal overflow, unique main headings and JavaScript errors. Mobile menu open/Escape and internal page/anchor links were checked. Contact buttons open email; no message-sending backend exists.
+
+## English and German
+
+English pages retain their existing root URLs. German equivalents live under `/de/`.
+All 20 active pages have an EN / DE switch to the equivalent page, reciprocal
+hreflang links, a self-canonical URL and translated accessible labels. The switch
+works without JavaScript; JavaScript preserves the selected section anchor.
+The historical `concept.html` is excluded. Existing case-study claims are translated
+without changing their meaning or independently validating them.
+
+Edit English page content and the reviewed text dictionary in `locales/de.json`,
+then run `python3 scripts/build-languages.py`. The dependency-free generator fails
+on untranslated text, builds German pages and refreshes the bilingual sitemap.
+`languages.css` supplements both the current homepage (`clean-preview.css`) and
+inner pages (`mujobs.css`). There are no automatic language redirects.
