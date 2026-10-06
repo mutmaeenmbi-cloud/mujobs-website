@@ -1,0 +1,140 @@
+[
+  {
+    "slug": "passive-candidate-sourcing",
+    "locales": {
+      "en": {
+        "title": "The best candidates are often the hardest to reach.",
+        "intro": "Why strong people disappear from traditional applicant funnels — and what changes when the search starts outside the inbox.",
+        "opening": [
+          "The strongest candidate for a role is not always the person actively applying. Often, they are already employed, performing well and not scrolling through job boards.",
+          "A job ad asks people to come to you. Direct search means going to the market yourself: mapping relevant companies, alternative titles and adjacent profiles, then approaching the right people with a reason to have a conversation.",
+          "Good recruitment is not about convincing everyone to leave. It is about understanding what could genuinely matter to the right person. When a role is difficult to fill, the answer is rarely simply more applications. Sometimes you need to search beyond the inbox."
+        ]
+      },
+      "de": {
+        "title": "Die besten Kandidaten sind oft am schwersten zu erreichen.",
+        "intro": "Warum starke Fachkräfte in klassischen Bewerbungsprozessen fehlen – und was sich ändert, wenn die Suche außerhalb des Posteingangs beginnt.",
+        "opening": [
+          "Die stärkste Person für eine Rolle ist nicht immer diejenige, die sich aktiv bewirbt. Oft ist sie bereits angestellt, erfolgreich in ihrer Arbeit und nicht auf Stellenportalen unterwegs.",
+          "Eine Stellenanzeige bittet Menschen, zu Ihnen zu kommen. Direktsuche bedeutet, selbst in den Markt zu gehen: passende Unternehmen, alternative Titel und verwandte Profile zu identifizieren und geeigneten Menschen einen konkreten Anlass für ein Gespräch zu geben.",
+          "Gutes Recruiting bedeutet nicht, alle zu einem Wechsel zu überreden. Es geht darum zu verstehen, was für die passende Person wirklich relevant sein könnte. Bei schwer zu besetzenden Rollen sind mehr Bewerbungen selten die einzige Antwort. Manchmal muss die Suche über den Posteingang hinausgehen."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "active-sourcing-vs-job-advertising",
+    "locales": {
+      "en": {
+        "title": "Job ads create applicants. Search creates access.",
+        "intro": "When proactive market mapping becomes more useful than waiting for another application.",
+        "opening": [
+          "A job advertisement shows you who is looking. It does not show you everyone who could be right for the role.",
+          "Proactive sourcing turns the brief into a market map: relevant companies, titles, locations, career paths and adjacent talent pools. The aim is not more messages. It is fewer, more relevant conversations with people the application funnel may never reach.",
+          "Applications still matter. But when the right people are not entering the funnel, waiting longer does not necessarily improve it. Search creates access to the market outside the inbox."
+        ]
+      },
+      "de": {
+        "title": "Stellenanzeigen bringen Bewerbungen. Direktsuche schafft Zugang.",
+        "intro": "Wann eine gezielte Marktanalyse mehr bringt als das Warten auf die nächste Bewerbung.",
+        "opening": [
+          "Eine Stellenanzeige zeigt Ihnen, wer gerade sucht. Sie zeigt nicht alle Menschen, die für die Rolle geeignet wären.",
+          "Proaktives Sourcing übersetzt das Briefing in eine Marktübersicht: relevante Unternehmen, Titel, Standorte, Karrierewege und angrenzende Kandidatenpools. Ziel sind nicht mehr Nachrichten, sondern weniger und passendere Gespräche mit Menschen, die der Bewerbungsprozess möglicherweise nie erreicht.",
+          "Bewerbungen bleiben wichtig. Doch wenn die passenden Menschen nicht darunter sind, verbessert längeres Warten den Prozess nicht automatisch. Direktsuche eröffnet Zugang zum Markt außerhalb des Posteingangs."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "specialist-real-estate-recruitment",
+    "locales": {
+      "en": {
+        "title": "Hiring inside a small specialist talent market.",
+        "intro": "How geography, project type, ownership and adjacent experience shape a real-estate search.",
+        "opening": [
+          "Real-estate recruitment becomes difficult quickly because a familiar title can describe very different work. Two project developers can have completely different exposure depending on their employer, projects and stage of development.",
+          "A useful search goes below the title: acquisition, feasibility, approvals, development concepts, commercial evaluation, project scale and whether the experience comes from a developer, investor, planner or execution environment.",
+          "Geography matters too. Local relationships with municipalities, owners and stakeholders can be part of a candidate’s value. Strong shortlists combine role evidence, project context, geography and adjacent experience rather than treating matching titles as interchangeable."
+        ]
+      },
+      "de": {
+        "title": "Recruiting in einem kleinen Spezialistenmarkt.",
+        "intro": "Wie Region, Projekttyp, Verantwortung und verwandte Erfahrung die Suche im Immobilienmarkt prägen.",
+        "opening": [
+          "Recruiting im Immobilienbereich wird schnell anspruchsvoll, weil derselbe Titel sehr unterschiedliche Aufgaben beschreiben kann. Zwei Projektentwickler können je nach Arbeitgeber, Projekten und Entwicklungsphase völlig verschiedene Erfahrungen mitbringen.",
+          "Eine fundierte Suche blickt hinter den Titel: Akquisition, Machbarkeit, Genehmigungen, Entwicklungskonzepte, Wirtschaftlichkeitsprüfung und Projektgröße. Sie berücksichtigt auch, ob die Erfahrung von einem Entwickler, Investor, Planungsbüro oder aus der Ausführung stammt.",
+          "Auch die Region zählt. Lokale Beziehungen zu Gemeinden, Eigentümern und weiteren Beteiligten können zum Wert eines Kandidaten beitragen. Eine starke Vorauswahl verbindet nachweisbare Aufgaben, Projektkontext, Region und verwandte Erfahrung, statt gleiche Titel als austauschbar zu behandeln."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "building-candidate-pipelines",
+    "locales": {
+      "en": {
+        "title": "The hire is not the only asset a search creates.",
+        "intro": "A qualified passive pipeline can make the next hiring problem significantly easier.",
+        "opening": [
+          "A successful search ends with a hire, but the work completed before that point has value beyond one placement. The market has already been mapped and relevant people have already been identified.",
+          "Some candidates are interested but not ready. Others are strong but slightly wrong for the current brief. Keeping that knowledge means the next vacancy does not have to begin from zero.",
+          "A useful pipeline captures relevance, experience, location and previous conversations. Over time, sourcing becomes reusable market knowledge rather than a one-off list of names."
+        ]
+      },
+      "de": {
+        "title": "Eine Suche schafft mehr als eine Besetzung.",
+        "intro": "Ein qualifizierter Pool passiver Kandidaten kann die nächste Besetzung deutlich erleichtern.",
+        "opening": [
+          "Eine erfolgreiche Suche endet mit einer Einstellung. Doch die zuvor geleistete Arbeit hat einen Wert über diese einzelne Besetzung hinaus: Der Markt wurde bereits analysiert und relevante Menschen wurden identifiziert.",
+          "Manche Kandidaten sind interessiert, aber noch nicht bereit. Andere sind stark, passen jedoch nicht ganz zum aktuellen Profil. Wenn dieses Wissen erhalten bleibt, muss die nächste Suche nicht bei null beginnen.",
+          "Eine nützliche Pipeline hält Eignung, Erfahrung, Standort und bisherige Gespräche fest. So wird Sourcing mit der Zeit zu wiederverwendbarem Marktwissen statt zu einer einmaligen Namensliste."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "evidence-led-candidate-shortlists",
+    "locales": {
+      "en": {
+        "title": "Titles match. Evidence decides.",
+        "intro": "Why responsibilities, project context and outcomes matter more than a familiar job title.",
+        "opening": [
+          "Searching by title is useful for finding people. It is much less useful for deciding whether they are actually right for the role.",
+          "The same title can represent different levels of ownership between companies. Qualification therefore needs evidence: what did the person own, which projects did they work on, what decisions were they responsible for and how close is that experience to the new employer’s problem?",
+          "The title helps build the first search. The evidence determines who belongs on the shortlist. That distinction removes many false positives before outreach begins."
+        ]
+      },
+      "de": {
+        "title": "Titel passen. Erfahrung entscheidet.",
+        "intro": "Warum Verantwortung, Projektkontext und Ergebnisse wichtiger sind als eine vertraute Stellenbezeichnung.",
+        "opening": [
+          "Die Suche nach Titeln hilft, Menschen zu finden. Sie hilft deutlich weniger bei der Entscheidung, ob diese tatsächlich zur Rolle passen.",
+          "Derselbe Titel kann in verschiedenen Unternehmen sehr unterschiedliche Verantwortung bedeuten. Deshalb braucht die Eignungsprüfung konkrete Nachweise: Wofür war die Person verantwortlich? An welchen Projekten hat sie gearbeitet? Welche Entscheidungen hat sie getroffen? Wie nah liegt diese Erfahrung an der Aufgabe beim neuen Arbeitgeber?",
+          "Der Titel hilft bei der ersten Suche. Die nachweisbare Erfahrung entscheidet über die Vorauswahl. Diese Unterscheidung entfernt viele unpassende Treffer bereits vor der Ansprache."
+        ]
+      }
+    }
+  },
+  {
+    "slug": "recruitment-germany-switzerland",
+    "locales": {
+      "en": {
+        "title": "One region, different talent markets.",
+        "intro": "Why a search in Switzerland cannot simply be copied and pasted into Germany.",
+        "opening": [
+          "Germany and Switzerland share a language across large parts of the market and often use similar job titles. That can make a cross-border search look easier than it is.",
+          "Company structures, terminology, salary expectations, geography, commuting patterns and the importance of local networks can change the candidate pool. The target companies, title variations and search radius therefore need to change with the market.",
+          "DACH is useful as a commercial label. For sourcing, it is better treated as connected but distinct talent markets. The search becomes stronger when the map reflects those differences."
+        ]
+      },
+      "de": {
+        "title": "Eine Region, unterschiedliche Talentmärkte.",
+        "intro": "Warum sich eine Suche in der Schweiz nicht einfach auf Deutschland übertragen lässt.",
+        "opening": [
+          "Deutschland und die Schweiz teilen in großen Teilen des Marktes eine Sprache und verwenden oft ähnliche Stellenbezeichnungen. Dadurch kann eine grenzüberschreitende Suche einfacher wirken, als sie ist.",
+          "Unternehmensstrukturen, Begriffe, Gehaltsvorstellungen, Geografie, Pendelwege und die Bedeutung lokaler Netzwerke verändern den Kandidatenkreis. Zielunternehmen, Titelvarianten und Suchradius müssen deshalb zum jeweiligen Markt passen.",
+          "DACH ist als wirtschaftliche Bezeichnung nützlich. Beim Sourcing sollte man die Region jedoch als verbundene, aber unterschiedliche Talentmärkte betrachten. Die Suche wird stärker, wenn die Marktübersicht diese Unterschiede abbildet."
+        ]
+      }
+    }
+  }
+]

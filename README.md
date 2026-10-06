@@ -1,36 +1,33 @@
-# mujobs website
+# MuJobs bilingual website
 
-Static website published via the existing GitHub → Vercel integration.
+Static English/German recruitment website. Production remains on the existing main
+branch; this redesign is prepared on codex/mujobs-english-german for review.
 
-## Brand direction
+## Build and edit
 
-The original mujobs identity is retained: warm paper, dark navy, lime highlights and an orange wordmark dot. The October 2026 mujobs playbook informs the mission and copy: help founders build exceptional companies through exceptional people; protect founder time; prioritise judgement, trust and long-term value.
+Run `python3 scripts/build-site.py` (Python standard library only).
 
-## Active design system
+- `content/cases.json`: existing bilingual case records. Figures are preserved,
+  not independently verified. Pipeline projects and the broker scenario are
+  labelled separately from completed hires.
+- `content/articles.json`: original bilingual article openings.
+- `content/editorial.py`: expanded bilingual expertise, role context and articles.
+- `scripts/build-site.py`: shared shell, pages, metadata and sitemap generation.
+- `editorial.css` and `site.js`: active design and progressive enhancement.
 
-All 20 active pages load **only `mujobs.css`**. Older stylesheets are retained as historical source and must not be added back to these pages. `mujobs-navigation.js` handles the native mobile menu's link, outside-click and Escape behaviour.
+There are 28 pages per language: homepage, work directory, 12 case studies,
+7 expertise pages, Insights directory and 6 individual articles. English URLs
+remain at the root; equivalent German pages live under /de/. Existing page URLs
+are preserved. The work directory filters without hiding content from non-JS
+visitors. Language links point to equivalent pages and preserve section anchors.
 
-Use the shared content width, gutters, spacing variables, navigation and footer. Section labels and headings align on a 260px + flexible-column grid; mobile stacks in reading order. Case studies and market pages use the same shell and typography.
+Titles, descriptions, canonical links, reciprocal hreflang, Open Graph metadata,
+Article structured data and the sitemap are generated from visible content.
+The old concept page and historical styles are not part of the active navigation.
+No client/company strip is displayed. No new client results were invented.
+Keyword choices describe the actual roles and services; search volumes and ranking
+improvements have not been validated. Open Graph supports shared-link previews,
+not a promise of visibility within LinkedIn search.
 
-The homepage follows the founder's decision: mission → business understanding → value of search → method → evidence → principles → markets → conversation. Case-study figures and narratives are retained from the existing website; the design work does not independently verify those claims.
-
-`concept.html` is a historical concept, not linked from the active website.
-
-## Validation
-
-The 20 active pages were rendered at 375px, 768px and 1440px, checked for horizontal overflow, unique main headings and JavaScript errors. Mobile menu open/Escape and internal page/anchor links were checked. Contact buttons open email; no message-sending backend exists.
-
-## English and German
-
-English pages retain their existing root URLs. German equivalents live under `/de/`.
-All 20 active pages have an EN / DE switch to the equivalent page, reciprocal
-hreflang links, a self-canonical URL and translated accessible labels. The switch
-works without JavaScript; JavaScript preserves the selected section anchor.
-The historical `concept.html` is excluded. Existing case-study claims are translated
-without changing their meaning or independently validating them.
-
-Edit English page content and the reviewed text dictionary in `locales/de.json`,
-then run `python3 scripts/build-languages.py`. The dependency-free generator fails
-on untranslated text, builds German pages and refreshes the bilingual sitemap.
-`languages.css` supplements both the current homepage (`clean-preview.css`) and
-inner pages (`mujobs.css`). There are no automatic language redirects.
+Contact links open email; there is no contact-form backend. No analytics or new
+third-party embeds were added. Images reuse the existing site assets.
