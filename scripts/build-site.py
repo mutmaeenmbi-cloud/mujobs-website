@@ -98,7 +98,7 @@ def case_pages():
 def market_pages():
     for m in MARKETS:
         body=hero(t(m['kicker']),t(m['title']),t(m['intro']),('index.html#markets',t(P('All industries & roles','Alle Branchen & Rollen'))))
-        roles_intro='<section id="roles"><span class="eyebrow">POSITIONEN</span><h2>'+tx('Positions we recruit for','Positionen, die wir besetzen')+'</h2><div class="role-list">'+''.join('<div>'+e(r)+'</div>' for r in t(m['roles']))+'</div></section>'
+        roles_intro='<section id="roles"><span class="eyebrow">'+tx('ROLES AT A GLANCE','POSITIONEN IM ÜBERBLICK')+'</span><h2>'+tx('Positions we recruit for','Positionen, die wir besetzen')+'</h2><div class="role-list">'+''.join('<div>'+e(r)+'</div>' for r in t(m['roles']))+'</div></section>'
         body+='<div class="wrap sector-roles">'+roles_intro+'</div>'
         body+='<div class="wrap reading-layout"><aside class="contents"><span class="eyebrow">'+tx('IN THIS PRACTICE','IN DIESEM FACHBEREICH')+'</span>'+''.join(f'<a href="#{id}">{e(t(label))}</a>' for id,label in [('challenge',P('The hiring challenge','Die Besetzungsaufgabe')),('roles',P('Roles we cover','Unsere Rollenfelder')),('assessment',P('What we assess','Was wir prüfen')),('approach',P('How we search','Wie wir suchen'))])+'</aside><article class="reading">'
         body+='<section id="challenge"><span class="eyebrow">01</span><h2>'+tx('Where the search becomes difficult','Wo die Suche anspruchsvoll wird')+'</h2>'+p(t(m['problem']))+'</section>'
