@@ -7,6 +7,7 @@ ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/'content'))
 from editorial import MARKETS,ARTICLE_SECTIONS,CASE_DETAIL,P
 cases=json.loads((ROOT/'content/cases.json').read_text()); articles=json.loads((ROOT/'content/articles.json').read_text())
+dated_articles=json.loads((ROOT/'content/dated-articles.json').read_text()) if (ROOT/'content/dated-articles.json').exists() else []
 BASE='https://www.mujobs.de'; LANG='en'; built=[]
 def t(pair):return pair[0 if LANG=='en' else 1]
 def e(x):return esc(str(x),quote=True)
@@ -115,7 +116,7 @@ def market_pages():
         body+=cta();page(m['slug']+'.html',t(m['title']).rstrip('.')+' | MuJobs',t(m['intro']),body)
 def insight_pages():
     intro=t(P('Practical thinking on active sourcing, real estate recruitment, candidate assessment and hiring in Germany and Switzerland. Choose a topic for the full article.','Praktische Gedanken zu Active Sourcing, Immobilien-Recruiting, Eignungsprüfung und Personalsuche in Deutschland und der Schweiz. Wählen Sie ein Thema für den vollständigen Artikel.'))
-    body=hero(t(P('MUJOBS / INSIGHTS','MUJOBS / EINBLICKE')),t(P('A closer look at the search.','Ein genauerer Blick auf die Personalsuche.')),intro)+'<section class="wrap section compact insight-list">'+''.join(insight_card(x,i) for i,x in enumerate(articles))+'</section>'+cta()
+    body=hero(t(P('MUJOBS / INSIGHTS','MUJOBS / EINBLICKE')),t(P('A closer look at the search.','Ein genauerer Blick auf die Personalsuche.')),intro)+'<section class="wrap section compact insight-list">'+''.join(dated_card(x) for x in dated_articles)+''.join(insight_card(x,i) for i,x in enumerate(articles))+'</section>'+cta()
     page('insights.html',t(P('Recruitment Insights & Active Sourcing Guides | MuJobs','Recruiting-Einblicke & Active-Sourcing-Praxis | MuJobs')),intro,body)
     for i,ar in enumerate(articles):
         d=ar['locales'][LANG];sections=ARTICLE_SECTIONS[i];file='insight-'+ar['slug']+'.html'
@@ -127,12 +128,27 @@ def insight_pages():
         body+='<section class="wrap section"><div class="section-heading"><span class="eyebrow">'+tx('CONTINUE READING','WEITERLESEN')+'</span><h2>'+tx('Another angle on hiring.','Ein weiterer Blick auf Recruiting.')+'</h2></div>'+insight_card(articles[(i+1)%len(articles)],(i+1)%len(articles))+'</section>'+cta()
         schema={'@context':'https://schema.org','@type':'Article','headline':d['title'],'description':d['intro'],'inLanguage':LANG,'author':{'@type':'Organization','name':'MuJobs','url':BASE},'publisher':{'@type':'Organization','name':'MuJobs'},'mainEntityOfPage':BASE+url(file),'wordCount':len(words)}
         page(file,d['title'].rstrip('.')+' | MuJobs',d['intro'],body,'article',schema)
+def dated_card(ar):
+    d=ar['locales'][LANG]
+    return '<article class="insight-card"><span class="article-number">NEW</span><div><span class="eyebrow">'+e(d['category'])+'</span><h2>'+a('insight-'+ar['slug']+'.html',d['title'])+'</h2>'+p(d['intro'])+a('insight-'+ar['slug']+'.html',t(P('Read article','Artikel lesen')),'text-link')+'</div></article>'
+def dated_pages():
+    for ar in dated_articles:
+        d=ar['locales'][LANG]; file='insight-'+ar['slug']+'.html'
+        body=hero(d['category'],d['title'],d['intro'],('insights.html',t(P('All insights','Alle Einblicke'))))
+        body+='<div class="wrap article-meta"><span>'+tx('By MuJobs','Von MuJobs')+'</span><time datetime="'+e(ar['published'])+'">'+e(ar['published'])+'</time></div><div class="wrap reading-layout"><aside class="contents">'+''.join('<a href="#part-'+str(i)+'">'+e(sec['title'])+'</a>' for i,sec in enumerate(d['sections']))+'</aside><article class="reading">'+''.join(p(x) for x in d['opening'])
+        for i,sec in enumerate(d['sections']):
+            body+='<section id="part-'+str(i)+'"><h2>'+e(sec['title'])+'</h2>'+''.join(p(x) for x in sec.get('paragraphs',[]))+bullets(sec.get('items',[]))+''.join(p(x) for x in sec.get('paragraphs_after',[]))+'</section>'
+        body+='<section><h2>'+tx('Sources and context','Quellen und Kontext')+'</h2>'+p(d['source_note'])+''.join('<p><a href="'+e(x['url'])+'">'+e(x['label'])+'</a></p>' for x in ar['sources'])+'</section><aside class="takeaway"><h2>'+e(d['cta_title'])+'</h2>'+p(d['cta_text'])+'<a class="button" href="mailto:mujtaba@mujobs.de">'+e(d['cta_label'])+'</a><p>'+a('real-estate.html',d['related_label'])+'</p></aside></article></div>'
+        schema={'@context':'https://schema.org','@type':'Article','headline':d['title'],'description':d['intro'],'inLanguage':LANG,'datePublished':ar['published'],'dateModified':ar['modified'],'author':{'@type':'Organization','name':'MuJobs','url':BASE},'publisher':{'@type':'Organization','name':'MuJobs'},'mainEntityOfPage':BASE+url(file)}
+        page(file,d['title']+' | MuJobs',d['intro'],body,'article',schema)
 for LANG in ['en','de']:
-    home();works();case_pages();market_pages();insight_pages()
+    home();works();case_pages();market_pages();insight_pages();dated_pages()
 ET.register_namespace('','http://www.sitemaps.org/schemas/sitemap/0.9');ET.register_namespace('xhtml','http://www.w3.org/1999/xhtml')
 root=ET.Element('{http://www.sitemaps.org/schemas/sitemap/0.9}urlset')
 for file,lang in built:
     node=ET.SubElement(root,'url');ET.SubElement(node,'loc').text=BASE+url(file,lang)
+    for ar in dated_articles:
+        if file == 'insight-'+ar['slug']+'.html' or file == 'insights.html': ET.SubElement(node,'lastmod').text=ar['modified']
     for alt in ['en','de','x-default']:ET.SubElement(node,'{http://www.w3.org/1999/xhtml}link',{'rel':'alternate','hreflang':alt,'href':BASE+url(file,'en' if alt=='x-default' else alt)})
 ET.ElementTree(root).write(ROOT/'sitemap.xml',encoding='utf-8',xml_declaration=True)
 print('Built',len(built),'pages in English and German')
