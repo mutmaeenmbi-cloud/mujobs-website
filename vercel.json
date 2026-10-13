@@ -1,0 +1,525 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/de/",
+      "permanent": false
+    },
+    {
+      "source": "/index.html",
+      "destination": "/en/",
+      "permanent": true
+    },
+    {
+      "source": "/work.html",
+      "destination": "/work",
+      "permanent": true
+    },
+    {
+      "source": "/case-study-creative-director.html",
+      "destination": "/case-study-creative-director",
+      "permanent": true
+    },
+    {
+      "source": "/case-study-key-account-manager-uk.html",
+      "destination": "/case-study-key-account-manager-uk",
+      "permanent": true
+    },
+    {
+      "source": "/case-study-leiter-vermarktung.html",
+      "destination": "/case-study-leiter-vermarktung",
+      "permanent": true
+    },
+    {
+      "source": "/case-study-marketing-strategist.html",
+      "destination": "/case-study-marketing-strategist",
+      "permanent": true
+    },
+    {
+      "source": "/case-study-performance-marketer.html",
+      "destination": "/case-study-performance-marketer",
+      "permanent": true
+    },
+    {
+      "source": "/case-study-project-developer.html",
+      "destination": "/case-study-project-developer",
+      "permanent": true
+    },
+    {
+      "source": "/case-study-real-estate-acquisition.html",
+      "destination": "/case-study-real-estate-acquisition",
+      "permanent": true
+    },
+    {
+      "source": "/case-study-real-estate-sales-broker.html",
+      "destination": "/case-study-real-estate-sales-broker",
+      "permanent": true
+    },
+    {
+      "source": "/case-study-sales-leader.html",
+      "destination": "/case-study-sales-leader",
+      "permanent": true
+    },
+    {
+      "source": "/case-study-senior-pharma-qa.html",
+      "destination": "/case-study-senior-pharma-qa",
+      "permanent": true
+    },
+    {
+      "source": "/case-study-senior-software-developer.html",
+      "destination": "/case-study-senior-software-developer",
+      "permanent": true
+    },
+    {
+      "source": "/case-study-videographer.html",
+      "destination": "/case-study-videographer",
+      "permanent": true
+    },
+    {
+      "source": "/real-estate.html",
+      "destination": "/real-estate",
+      "permanent": true
+    },
+    {
+      "source": "/technology.html",
+      "destination": "/technology",
+      "permanent": true
+    },
+    {
+      "source": "/creative-marketing.html",
+      "destination": "/creative-marketing",
+      "permanent": true
+    },
+    {
+      "source": "/sales.html",
+      "destination": "/sales",
+      "permanent": true
+    },
+    {
+      "source": "/finance.html",
+      "destination": "/finance",
+      "permanent": true
+    },
+    {
+      "source": "/executive-support.html",
+      "destination": "/executive-support",
+      "permanent": true
+    },
+    {
+      "source": "/pharma-healthcare.html",
+      "destination": "/pharma-healthcare",
+      "permanent": true
+    },
+    {
+      "source": "/insights.html",
+      "destination": "/insights",
+      "permanent": true
+    },
+    {
+      "source": "/insight-passive-candidate-sourcing.html",
+      "destination": "/insight-passive-candidate-sourcing",
+      "permanent": true
+    },
+    {
+      "source": "/insight-active-sourcing-vs-job-advertising.html",
+      "destination": "/insight-active-sourcing-vs-job-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/insight-specialist-real-estate-recruitment.html",
+      "destination": "/insight-specialist-real-estate-recruitment",
+      "permanent": true
+    },
+    {
+      "source": "/insight-building-candidate-pipelines.html",
+      "destination": "/insight-building-candidate-pipelines",
+      "permanent": true
+    },
+    {
+      "source": "/insight-evidence-led-candidate-shortlists.html",
+      "destination": "/insight-evidence-led-candidate-shortlists",
+      "permanent": true
+    },
+    {
+      "source": "/insight-recruitment-germany-switzerland.html",
+      "destination": "/insight-recruitment-germany-switzerland",
+      "permanent": true
+    },
+    {
+      "source": "/insight-projektentwickler-hiring-checklist.html",
+      "destination": "/insight-projektentwickler-hiring-checklist",
+      "permanent": true
+    },
+    {
+      "source": "/de/index.html",
+      "destination": "/de/",
+      "permanent": true
+    },
+    {
+      "source": "/de/work.html",
+      "destination": "/de/projekte",
+      "permanent": true
+    },
+    {
+      "source": "/de/case-study-creative-director.html",
+      "destination": "/de/case-study-creative-director",
+      "permanent": true
+    },
+    {
+      "source": "/de/case-study-key-account-manager-uk.html",
+      "destination": "/de/case-study-key-account-manager-uk",
+      "permanent": true
+    },
+    {
+      "source": "/de/case-study-leiter-vermarktung.html",
+      "destination": "/de/case-study-leiter-vermarktung",
+      "permanent": true
+    },
+    {
+      "source": "/de/case-study-marketing-strategist.html",
+      "destination": "/de/case-study-marketing-strategist",
+      "permanent": true
+    },
+    {
+      "source": "/de/case-study-performance-marketer.html",
+      "destination": "/de/case-study-performance-marketer",
+      "permanent": true
+    },
+    {
+      "source": "/de/case-study-project-developer.html",
+      "destination": "/de/case-study-project-developer",
+      "permanent": true
+    },
+    {
+      "source": "/de/case-study-real-estate-acquisition.html",
+      "destination": "/de/case-study-real-estate-acquisition",
+      "permanent": true
+    },
+    {
+      "source": "/de/case-study-real-estate-sales-broker.html",
+      "destination": "/de/case-study-real-estate-sales-broker",
+      "permanent": true
+    },
+    {
+      "source": "/de/case-study-sales-leader.html",
+      "destination": "/de/case-study-sales-leader",
+      "permanent": true
+    },
+    {
+      "source": "/de/case-study-senior-pharma-qa.html",
+      "destination": "/de/case-study-senior-pharma-qa",
+      "permanent": true
+    },
+    {
+      "source": "/de/case-study-senior-software-developer.html",
+      "destination": "/de/case-study-senior-software-developer",
+      "permanent": true
+    },
+    {
+      "source": "/de/case-study-videographer.html",
+      "destination": "/de/case-study-videographer",
+      "permanent": true
+    },
+    {
+      "source": "/de/real-estate.html",
+      "destination": "/de/immobilien",
+      "permanent": true
+    },
+    {
+      "source": "/de/technology.html",
+      "destination": "/de/technologie",
+      "permanent": true
+    },
+    {
+      "source": "/de/creative-marketing.html",
+      "destination": "/de/marketing-kreation",
+      "permanent": true
+    },
+    {
+      "source": "/de/sales.html",
+      "destination": "/de/vertrieb",
+      "permanent": true
+    },
+    {
+      "source": "/de/finance.html",
+      "destination": "/de/finanzen",
+      "permanent": true
+    },
+    {
+      "source": "/de/executive-support.html",
+      "destination": "/de/operations-personal",
+      "permanent": true
+    },
+    {
+      "source": "/de/pharma-healthcare.html",
+      "destination": "/de/pharma-gesundheit",
+      "permanent": true
+    },
+    {
+      "source": "/de/insights.html",
+      "destination": "/de/einblicke",
+      "permanent": true
+    },
+    {
+      "source": "/de/insight-passive-candidate-sourcing.html",
+      "destination": "/de/insight-passive-candidate-sourcing",
+      "permanent": true
+    },
+    {
+      "source": "/de/insight-active-sourcing-vs-job-advertising.html",
+      "destination": "/de/insight-active-sourcing-vs-job-advertising",
+      "permanent": true
+    },
+    {
+      "source": "/de/insight-specialist-real-estate-recruitment.html",
+      "destination": "/de/insight-specialist-real-estate-recruitment",
+      "permanent": true
+    },
+    {
+      "source": "/de/insight-building-candidate-pipelines.html",
+      "destination": "/de/insight-building-candidate-pipelines",
+      "permanent": true
+    },
+    {
+      "source": "/de/insight-evidence-led-candidate-shortlists.html",
+      "destination": "/de/insight-evidence-led-candidate-shortlists",
+      "permanent": true
+    },
+    {
+      "source": "/de/insight-recruitment-germany-switzerland.html",
+      "destination": "/de/insight-recruitment-germany-switzerland",
+      "permanent": true
+    },
+    {
+      "source": "/de/insight-projektentwickler-hiring-checklist.html",
+      "destination": "/de/insight-projektentwickler-hiring-checklist",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/work",
+      "destination": "/work.html"
+    },
+    {
+      "source": "/case-study-creative-director",
+      "destination": "/case-study-creative-director.html"
+    },
+    {
+      "source": "/case-study-key-account-manager-uk",
+      "destination": "/case-study-key-account-manager-uk.html"
+    },
+    {
+      "source": "/case-study-leiter-vermarktung",
+      "destination": "/case-study-leiter-vermarktung.html"
+    },
+    {
+      "source": "/case-study-marketing-strategist",
+      "destination": "/case-study-marketing-strategist.html"
+    },
+    {
+      "source": "/case-study-performance-marketer",
+      "destination": "/case-study-performance-marketer.html"
+    },
+    {
+      "source": "/case-study-project-developer",
+      "destination": "/case-study-project-developer.html"
+    },
+    {
+      "source": "/case-study-real-estate-acquisition",
+      "destination": "/case-study-real-estate-acquisition.html"
+    },
+    {
+      "source": "/case-study-real-estate-sales-broker",
+      "destination": "/case-study-real-estate-sales-broker.html"
+    },
+    {
+      "source": "/case-study-sales-leader",
+      "destination": "/case-study-sales-leader.html"
+    },
+    {
+      "source": "/case-study-senior-pharma-qa",
+      "destination": "/case-study-senior-pharma-qa.html"
+    },
+    {
+      "source": "/case-study-senior-software-developer",
+      "destination": "/case-study-senior-software-developer.html"
+    },
+    {
+      "source": "/case-study-videographer",
+      "destination": "/case-study-videographer.html"
+    },
+    {
+      "source": "/real-estate",
+      "destination": "/real-estate.html"
+    },
+    {
+      "source": "/technology",
+      "destination": "/technology.html"
+    },
+    {
+      "source": "/creative-marketing",
+      "destination": "/creative-marketing.html"
+    },
+    {
+      "source": "/sales",
+      "destination": "/sales.html"
+    },
+    {
+      "source": "/finance",
+      "destination": "/finance.html"
+    },
+    {
+      "source": "/executive-support",
+      "destination": "/executive-support.html"
+    },
+    {
+      "source": "/pharma-healthcare",
+      "destination": "/pharma-healthcare.html"
+    },
+    {
+      "source": "/insights",
+      "destination": "/insights.html"
+    },
+    {
+      "source": "/insight-passive-candidate-sourcing",
+      "destination": "/insight-passive-candidate-sourcing.html"
+    },
+    {
+      "source": "/insight-active-sourcing-vs-job-advertising",
+      "destination": "/insight-active-sourcing-vs-job-advertising.html"
+    },
+    {
+      "source": "/insight-specialist-real-estate-recruitment",
+      "destination": "/insight-specialist-real-estate-recruitment.html"
+    },
+    {
+      "source": "/insight-building-candidate-pipelines",
+      "destination": "/insight-building-candidate-pipelines.html"
+    },
+    {
+      "source": "/insight-evidence-led-candidate-shortlists",
+      "destination": "/insight-evidence-led-candidate-shortlists.html"
+    },
+    {
+      "source": "/insight-recruitment-germany-switzerland",
+      "destination": "/insight-recruitment-germany-switzerland.html"
+    },
+    {
+      "source": "/insight-projektentwickler-hiring-checklist",
+      "destination": "/insight-projektentwickler-hiring-checklist.html"
+    },
+    {
+      "source": "/de/projekte",
+      "destination": "/de/work.html"
+    },
+    {
+      "source": "/de/case-study-creative-director",
+      "destination": "/de/case-study-creative-director.html"
+    },
+    {
+      "source": "/de/case-study-key-account-manager-uk",
+      "destination": "/de/case-study-key-account-manager-uk.html"
+    },
+    {
+      "source": "/de/case-study-leiter-vermarktung",
+      "destination": "/de/case-study-leiter-vermarktung.html"
+    },
+    {
+      "source": "/de/case-study-marketing-strategist",
+      "destination": "/de/case-study-marketing-strategist.html"
+    },
+    {
+      "source": "/de/case-study-performance-marketer",
+      "destination": "/de/case-study-performance-marketer.html"
+    },
+    {
+      "source": "/de/case-study-project-developer",
+      "destination": "/de/case-study-project-developer.html"
+    },
+    {
+      "source": "/de/case-study-real-estate-acquisition",
+      "destination": "/de/case-study-real-estate-acquisition.html"
+    },
+    {
+      "source": "/de/case-study-real-estate-sales-broker",
+      "destination": "/de/case-study-real-estate-sales-broker.html"
+    },
+    {
+      "source": "/de/case-study-sales-leader",
+      "destination": "/de/case-study-sales-leader.html"
+    },
+    {
+      "source": "/de/case-study-senior-pharma-qa",
+      "destination": "/de/case-study-senior-pharma-qa.html"
+    },
+    {
+      "source": "/de/case-study-senior-software-developer",
+      "destination": "/de/case-study-senior-software-developer.html"
+    },
+    {
+      "source": "/de/case-study-videographer",
+      "destination": "/de/case-study-videographer.html"
+    },
+    {
+      "source": "/de/immobilien",
+      "destination": "/de/real-estate.html"
+    },
+    {
+      "source": "/de/technologie",
+      "destination": "/de/technology.html"
+    },
+    {
+      "source": "/de/marketing-kreation",
+      "destination": "/de/creative-marketing.html"
+    },
+    {
+      "source": "/de/vertrieb",
+      "destination": "/de/sales.html"
+    },
+    {
+      "source": "/de/finanzen",
+      "destination": "/de/finance.html"
+    },
+    {
+      "source": "/de/operations-personal",
+      "destination": "/de/executive-support.html"
+    },
+    {
+      "source": "/de/pharma-gesundheit",
+      "destination": "/de/pharma-healthcare.html"
+    },
+    {
+      "source": "/de/einblicke",
+      "destination": "/de/insights.html"
+    },
+    {
+      "source": "/de/insight-passive-candidate-sourcing",
+      "destination": "/de/insight-passive-candidate-sourcing.html"
+    },
+    {
+      "source": "/de/insight-active-sourcing-vs-job-advertising",
+      "destination": "/de/insight-active-sourcing-vs-job-advertising.html"
+    },
+    {
+      "source": "/de/insight-specialist-real-estate-recruitment",
+      "destination": "/de/insight-specialist-real-estate-recruitment.html"
+    },
+    {
+      "source": "/de/insight-building-candidate-pipelines",
+      "destination": "/de/insight-building-candidate-pipelines.html"
+    },
+    {
+      "source": "/de/insight-evidence-led-candidate-shortlists",
+      "destination": "/de/insight-evidence-led-candidate-shortlists.html"
+    },
+    {
+      "source": "/de/insight-recruitment-germany-switzerland",
+      "destination": "/de/insight-recruitment-germany-switzerland.html"
+    },
+    {
+      "source": "/de/insight-projektentwickler-hiring-checklist",
+      "destination": "/de/insight-projektentwickler-hiring-checklist.html"
+    }
+  ]
+}
