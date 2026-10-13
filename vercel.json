@@ -146,6 +146,11 @@
       "permanent": true
     },
     {
+      "source": "/insight-leiter-immobilienvermarktung-auswahl.html",
+      "destination": "/insight-leiter-immobilienvermarktung-auswahl",
+      "permanent": true
+    },
+    {
       "source": "/insight-projektentwickler-hiring-checklist.html",
       "destination": "/insight-projektentwickler-hiring-checklist",
       "permanent": true
@@ -291,6 +296,11 @@
       "permanent": true
     },
     {
+      "source": "/de/insight-leiter-immobilienvermarktung-auswahl.html",
+      "destination": "/de/insight-leiter-immobilienvermarktung-auswahl",
+      "permanent": true
+    },
+    {
       "source": "/de/insight-projektentwickler-hiring-checklist.html",
       "destination": "/de/insight-projektentwickler-hiring-checklist",
       "permanent": true
@@ -406,6 +416,10 @@
       "destination": "/insight-recruitment-germany-switzerland.html"
     },
     {
+      "source": "/insight-leiter-immobilienvermarktung-auswahl",
+      "destination": "/insight-leiter-immobilienvermarktung-auswahl.html"
+    },
+    {
       "source": "/insight-projektentwickler-hiring-checklist",
       "destination": "/insight-projektentwickler-hiring-checklist.html"
     },
@@ -516,6 +530,10 @@
     {
       "source": "/de/insight-recruitment-germany-switzerland",
       "destination": "/de/insight-recruitment-germany-switzerland.html"
+    },
+    {
+      "source": "/de/insight-leiter-immobilienvermarktung-auswahl",
+      "destination": "/de/insight-leiter-immobilienvermarktung-auswahl.html"
     },
     {
       "source": "/de/insight-projektentwickler-hiring-checklist",

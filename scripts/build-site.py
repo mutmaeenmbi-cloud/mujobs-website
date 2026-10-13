@@ -157,8 +157,8 @@ ET.register_namespace('','http://www.sitemaps.org/schemas/sitemap/0.9');ET.regis
 root=ET.Element('{http://www.sitemaps.org/schemas/sitemap/0.9}urlset')
 for file,lang in built:
     node=ET.SubElement(root,'url');ET.SubElement(node,'loc').text=BASE+url(file,lang)
-    for ar in dated_articles:
-        if file == 'insight-'+ar['slug']+'.html' or file == 'insights.html': ET.SubElement(node,'lastmod').text=ar['modified']
+    modification_dates=[ar['modified'] for ar in dated_articles if file == 'insight-'+ar['slug']+'.html' or file == 'insights.html']
+    if modification_dates: ET.SubElement(node,'lastmod').text=max(modification_dates)
     for alt in ['en','de','x-default']:ET.SubElement(node,'{http://www.w3.org/1999/xhtml}link',{'rel':'alternate','hreflang':alt,'href':BASE+url(file,'de' if alt=='x-default' else alt)})
 ET.ElementTree(root).write(ROOT/'sitemap.xml',encoding='utf-8',xml_declaration=True)
 # Explicit routes preserve static source files while exposing clean public URLs.
