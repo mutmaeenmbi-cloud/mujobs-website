@@ -146,6 +146,11 @@
       "permanent": true
     },
     {
+      "source": "/insight-wenige-bewerbungen-immobilien-recruiting.html",
+      "destination": "/insight-wenige-bewerbungen-immobilien-recruiting",
+      "permanent": true
+    },
+    {
       "source": "/insight-leiter-immobilienvermarktung-auswahl.html",
       "destination": "/insight-leiter-immobilienvermarktung-auswahl",
       "permanent": true
@@ -296,6 +301,11 @@
       "permanent": true
     },
     {
+      "source": "/de/insight-wenige-bewerbungen-immobilien-recruiting.html",
+      "destination": "/de/insight-wenige-bewerbungen-immobilien-recruiting",
+      "permanent": true
+    },
+    {
       "source": "/de/insight-leiter-immobilienvermarktung-auswahl.html",
       "destination": "/de/insight-leiter-immobilienvermarktung-auswahl",
       "permanent": true
@@ -416,6 +426,10 @@
       "destination": "/insight-recruitment-germany-switzerland.html"
     },
     {
+      "source": "/insight-wenige-bewerbungen-immobilien-recruiting",
+      "destination": "/insight-wenige-bewerbungen-immobilien-recruiting.html"
+    },
+    {
       "source": "/insight-leiter-immobilienvermarktung-auswahl",
       "destination": "/insight-leiter-immobilienvermarktung-auswahl.html"
     },
@@ -530,6 +544,10 @@
     {
       "source": "/de/insight-recruitment-germany-switzerland",
       "destination": "/de/insight-recruitment-germany-switzerland.html"
+    },
+    {
+      "source": "/de/insight-wenige-bewerbungen-immobilien-recruiting",
+      "destination": "/de/insight-wenige-bewerbungen-immobilien-recruiting.html"
     },
     {
       "source": "/de/insight-leiter-immobilienvermarktung-auswahl",
