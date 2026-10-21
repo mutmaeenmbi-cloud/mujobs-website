@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192" role="img" aria-label="MuJobs">
+<rect width="192" height="192" rx="28" fill="#fff"/>
+<circle cx="82" cy="82" r="54" fill="#fff" stroke="#080909" stroke-width="16"/>
+<path d="M122 122L161 161" fill="none" stroke="#080909" stroke-width="19" stroke-linecap="round"/>
+<circle cx="56" cy="81" r="9" fill="#aab6bd"/>
+<path d="M42 110V103C42 94 49 92 56 92C63 92 70 95 70 103V113Z" fill="#aab6bd"/>
+<circle cx="108" cy="81" r="9" fill="#aab6bd"/>
+<path d="M94 113V103C94 95 101 92 108 92C115 92 122 94 122 103V110Z" fill="#aab6bd"/>
+<circle cx="82" cy="72" r="13" fill="#087cff"/>
+<path d="M60 115V105C60 93 70 89 82 89C94 89 104 93 104 105V115C90 123 74 123 60 115Z" fill="#087cff" stroke="#fff" stroke-width="3"/>
+</svg>
