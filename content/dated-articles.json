@@ -8,33 +8,76 @@
         "title": "Wenige Bewerbungen auf Ihre Immobilien-Stelle? Fünf Prüfungen vor dem nächsten Inserat",
         "intro": "Ein leeres Postfach ist noch keine Diagnose. So prüfen Immobilienunternehmen ihr Suchprofil, die Ansprache und den Auswahlprozess, bevor sie weiteres Anzeigenbudget einsetzen.",
         "category": "IMMOBILIEN · RECRUITING-PRAXIS",
-        "opening": ["Die Stelle ist ausgeschrieben, aber passende Bewerbungen bleiben aus. Der nächste Schritt muss nicht sofort eine weitere Anzeige sein. Zuerst lohnt sich ein genauer Blick darauf, welche Aufgabe besetzt werden soll, wen das Angebot erreicht und wo Interessenten im Prozess abspringen. Diese fünf Prüfungen helfen Immobilienunternehmen in Deutschland und der Schweiz, aus einer unklaren Suche einen konkreten nächsten Schritt abzuleiten."],
+        "opening": [
+          "Die Stelle ist ausgeschrieben, aber passende Bewerbungen bleiben aus. Der nächste Schritt muss nicht sofort eine weitere Anzeige sein. Zuerst lohnt sich ein genauer Blick darauf, welche Aufgabe besetzt werden soll, wen das Angebot erreicht und wo Interessenten im Prozess abspringen. Diese fünf Prüfungen helfen Immobilienunternehmen in Deutschland und der Schweiz, aus einer unklaren Suche einen konkreten nächsten Schritt abzuleiten."
+        ],
         "sections": [
           {
             "title": "1. Die Zahl richtig einordnen",
-            "paragraphs": ["Halten Sie fest, was Sie tatsächlich messen: Aufrufe, Klicks auf den Bewerbungslink, eingegangene Bewerbungen oder fachlich passende Bewerbungen. Diese Zahlen beschreiben unterschiedliche Schritte und sollten nicht gleichgesetzt werden. Wenn ein Portal nur Klicks ausweist, lässt sich daraus nicht ablesen, wie viele vollständige Bewerbungen im eigenen System eingegangen sind.", "Ergänzen Sie den Zeitraum, den Kanal und die aktuelle Projektphase. Eine einzelne Zahl erklärt nicht, ob die Reichweite fehlt, das Angebot unklar ist oder die angesprochenen Personen nicht zum Profil passen."],
-            "items": ["Wie viele vollständige Bewerbungen sind über alle Kanäle eingegangen?", "Welche davon erfüllen die vorab vereinbarten Kernanforderungen?", "An welchem Schritt fehlen Informationen oder nachvollziehbare Rückmeldungen?"]
+            "paragraphs": [
+              "Halten Sie fest, was Sie tatsächlich messen: Aufrufe, Klicks auf den Bewerbungslink, eingegangene Bewerbungen oder fachlich passende Bewerbungen. Diese Zahlen beschreiben unterschiedliche Schritte und sollten nicht gleichgesetzt werden. Wenn ein Portal nur Klicks ausweist, lässt sich daraus nicht ablesen, wie viele vollständige Bewerbungen im eigenen System eingegangen sind.",
+              "Ergänzen Sie den Zeitraum, den Kanal und die aktuelle Projektphase. Eine einzelne Zahl erklärt nicht, ob die Reichweite fehlt, das Angebot unklar ist oder die angesprochenen Personen nicht zum Profil passen."
+            ],
+            "items": [
+              "Wie viele vollständige Bewerbungen sind über alle Kanäle eingegangen?",
+              "Welche davon erfüllen die vorab vereinbarten Kernanforderungen?",
+              "An welchem Schritt fehlen Informationen oder nachvollziehbare Rückmeldungen?"
+            ]
           },
           {
             "title": "2. Die Aufgabe vor dem Titel schärfen",
-            "paragraphs": ["Immobilienmakler, Immobilienberater und Vermarktungsspezialist können je nach Unternehmen sehr unterschiedliche Aufgaben übernehmen. Schreiben Sie deshalb zuerst auf, welches Ergebnis die neue Person verantworten soll. Geht es um die Gewinnung neuer Eigentümermandate, die Betreuung vorhandener Interessenten oder die Vermarktung eines Neubauprojekts?", "Trennen Sie drei unverzichtbare Kompetenzen von Fähigkeiten, die sich im Team entwickeln lassen. Verlangen Sie nicht gleichzeitig ein belastbares Akquisitionsnetzwerk, umfassende Projektentwicklung und operative Kampagnensteuerung, ohne die Prioritäten und vorhandene Unterstützung zu erklären."],
-            "items": ["Immobilienart und Region konkret benennen.", "Akquisition, Beratung, Vermarktung und Abschlussverantwortung voneinander abgrenzen.", "Festanstellung oder selbstständige Zusammenarbeit, Präsenz und Reiseumfang klar darstellen.", "Vergütungsrahmen und gegebenenfalls die Logik variabler Bestandteile transparent erklären."]
+            "paragraphs": [
+              "Immobilienmakler, Immobilienberater und Vermarktungsspezialist können je nach Unternehmen sehr unterschiedliche Aufgaben übernehmen. Schreiben Sie deshalb zuerst auf, welches Ergebnis die neue Person verantworten soll. Geht es um die Gewinnung neuer Eigentümermandate, die Betreuung vorhandener Interessenten oder die Vermarktung eines Neubauprojekts?",
+              "Trennen Sie drei unverzichtbare Kompetenzen von Fähigkeiten, die sich im Team entwickeln lassen. Verlangen Sie nicht gleichzeitig ein belastbares Akquisitionsnetzwerk, umfassende Projektentwicklung und operative Kampagnensteuerung, ohne die Prioritäten und vorhandene Unterstützung zu erklären."
+            ],
+            "items": [
+              "Immobilienart und Region konkret benennen.",
+              "Akquisition, Beratung, Vermarktung und Abschlussverantwortung voneinander abgrenzen.",
+              "Festanstellung oder selbstständige Zusammenarbeit, Präsenz und Reiseumfang klar darstellen.",
+              "Vergütungsrahmen und gegebenenfalls die Logik variabler Bestandteile transparent erklären."
+            ]
           },
           {
             "title": "3. Das Angebot aus Kandidatensicht lesen",
-            "paragraphs": ["Eine Aufgabenliste beantwortet noch nicht, warum jemand wechseln sollte. Kandidaten möchten verstehen, welche Verantwortung sie erhalten und wie der Arbeitsalltag funktioniert. Erklären Sie, ob Kundenkontakte bereits vorhanden sind, welche Unterstützung es gibt und welche Entscheidungen die Person selbst treffen kann.", "Verwenden Sie konkrete Beschreibungen statt austauschbarer Versprechen. Ein kleines Team, direkte Abstimmung mit der Geschäftsleitung oder ein klar abgegrenztes Portfolio sind nachvollziehbarer als eine lange Reihe von Adjektiven. Beschreiben Sie nur Bedingungen, die Sie tatsächlich anbieten können."],
-            "items": ["Welche Herausforderung macht die Aufgabe fachlich interessant?", "Welche Ressourcen stehen ab dem Einstieg bereit?", "Was soll die Person in den ersten drei Monaten erreichen?", "Welche Arbeitsbedingungen sind verbindlich und welche verhandelbar?"]
+            "paragraphs": [
+              "Eine Aufgabenliste beantwortet noch nicht, warum jemand wechseln sollte. Kandidaten möchten verstehen, welche Verantwortung sie erhalten und wie der Arbeitsalltag funktioniert. Erklären Sie, ob Kundenkontakte bereits vorhanden sind, welche Unterstützung es gibt und welche Entscheidungen die Person selbst treffen kann.",
+              "Verwenden Sie konkrete Beschreibungen statt austauschbarer Versprechen. Ein kleines Team, direkte Abstimmung mit der Geschäftsleitung oder ein klar abgegrenztes Portfolio sind nachvollziehbarer als eine lange Reihe von Adjektiven. Beschreiben Sie nur Bedingungen, die Sie tatsächlich anbieten können."
+            ],
+            "items": [
+              "Welche Herausforderung macht die Aufgabe fachlich interessant?",
+              "Welche Ressourcen stehen ab dem Einstieg bereit?",
+              "Was soll die Person in den ersten drei Monaten erreichen?",
+              "Welche Arbeitsbedingungen sind verbindlich und welche verhandelbar?"
+            ]
           },
           {
             "title": "4. Die Direktansprache gezielt ergänzen",
-            "paragraphs": ["Wenn das Profil klar ist, kann persönliche Direktansprache die Anzeige ergänzen. Beginnen Sie mit einer überschaubaren, rollenbezogenen Marktübersicht: vergleichbare Unternehmen, relevante Immobilienarten und die benötigte regionale Erfahrung. Nicht jeder attraktive Lebenslauf ist ein passendes Profil.", "Eine erste Nachricht sollte erklären, warum die konkrete Erfahrung relevant sein könnte, welche Aufgabe offen ist und weshalb sich ein Gespräch lohnt. Unterstellen Sie weder Wechselbereitschaft noch Unzufriedenheit. Respektieren Sie eine Absage und nutzen Sie keine vertraulichen Kontakt- oder Kundendaten früherer Arbeitgeber."],
-            "items": ["Den Bezug zur tatsächlichen Berufserfahrung nennen.", "Aufgabe und Arbeitsmodell knapp, aber eindeutig erläutern.", "Mit einer offenen Frage zu Interesse oder passendem Zeitpunkt abschließen.", "Antworten und Absagen sauber dokumentieren, statt Kontakte mehrfach anzuschreiben."]
+            "paragraphs": [
+              "Wenn das Profil klar ist, kann persönliche Direktansprache die Anzeige ergänzen. Beginnen Sie mit einer überschaubaren, rollenbezogenen Marktübersicht: vergleichbare Unternehmen, relevante Immobilienarten und die benötigte regionale Erfahrung. Nicht jeder attraktive Lebenslauf ist ein passendes Profil.",
+              "Eine erste Nachricht sollte erklären, warum die konkrete Erfahrung relevant sein könnte, welche Aufgabe offen ist und weshalb sich ein Gespräch lohnt. Unterstellen Sie weder Wechselbereitschaft noch Unzufriedenheit. Respektieren Sie eine Absage und nutzen Sie keine vertraulichen Kontakt- oder Kundendaten früherer Arbeitgeber."
+            ],
+            "items": [
+              "Den Bezug zur tatsächlichen Berufserfahrung nennen.",
+              "Aufgabe und Arbeitsmodell knapp, aber eindeutig erläutern.",
+              "Mit einer offenen Frage zu Interesse oder passendem Zeitpunkt abschließen.",
+              "Antworten und Absagen sauber dokumentieren, statt Kontakte mehrfach anzuschreiben."
+            ]
           },
           {
             "title": "5. Den nächsten Schritt verbindlich organisieren",
-            "paragraphs": ["Auch eine gute Ansprache hilft wenig, wenn anschließend unklar bleibt, wer entscheidet. Vereinbaren Sie intern, wer Erstgespräche führt, welche Kriterien geprüft werden und wann Kandidaten eine Rückmeldung erhalten. Eine kurze, konsistente Bewertung ist hilfreicher als ein vages Bauchgefühl nach mehreren Gesprächen.", "Nutzen Sie ein anonymisiertes Projektbeispiel: Welche Ausgangslage hat die Person übernommen, was war ihr eigener Beitrag und wie hat sie Entscheidungen begründet? Fordern Sie keine vertraulichen Unterlagen oder kostenlose Arbeit an einem realen Kundenauftrag."],
-            "items": ["Eine verantwortliche Person und feste Feedbacktermine festlegen.", "Alle Kandidaten anhand derselben rollenbezogenen Kernfragen vergleichen.", "Motivation, Verfügbarkeit und gegenseitige Erwartungen früh klären.", "Offene Fragen dokumentieren und den nächsten Termin konkret vereinbaren."],
-            "paragraphs_after": ["Wenige Bewerbungen sind ein Anlass zur Prüfung, nicht automatisch ein Beleg für einen leeren Markt. Entscheiden Sie nach der Diagnose: Profil anpassen, Angebot verständlicher machen, gezielt weitere Menschen ansprechen oder den Auswahlprozess verbessern. Legen Sie für die gewählte Maßnahme einen Prüfzeitpunkt fest und bewerten Sie relevante Gespräche statt bloßer Kontaktzahlen."]
+            "paragraphs": [
+              "Auch eine gute Ansprache hilft wenig, wenn anschließend unklar bleibt, wer entscheidet. Vereinbaren Sie intern, wer Erstgespräche führt, welche Kriterien geprüft werden und wann Kandidaten eine Rückmeldung erhalten. Eine kurze, konsistente Bewertung ist hilfreicher als ein vages Bauchgefühl nach mehreren Gesprächen.",
+              "Nutzen Sie ein anonymisiertes Projektbeispiel: Welche Ausgangslage hat die Person übernommen, was war ihr eigener Beitrag und wie hat sie Entscheidungen begründet? Fordern Sie keine vertraulichen Unterlagen oder kostenlose Arbeit an einem realen Kundenauftrag."
+            ],
+            "items": [
+              "Eine verantwortliche Person und feste Feedbacktermine festlegen.",
+              "Alle Kandidaten anhand derselben rollenbezogenen Kernfragen vergleichen.",
+              "Motivation, Verfügbarkeit und gegenseitige Erwartungen früh klären.",
+              "Offene Fragen dokumentieren und den nächsten Termin konkret vereinbaren."
+            ],
+            "paragraphs_after": [
+              "Wenige Bewerbungen sind ein Anlass zur Prüfung, nicht automatisch ein Beleg für einen leeren Markt. Entscheiden Sie nach der Diagnose: Profil anpassen, Angebot verständlicher machen, gezielt weitere Menschen ansprechen oder den Auswahlprozess verbessern. Legen Sie für die gewählte Maßnahme einen Prüfzeitpunkt fest und bewerten Sie relevante Gespräche statt bloßer Kontaktzahlen."
+            ]
           }
         ],
         "source_note": "Redaktioneller Praxisleitfaden von MuJobs, veröffentlicht am 16. Oktober 2026. Die Fragen sind Empfehlungen für die Gestaltung einer Personalsuche, keine Marktstatistik und keine Garantie für Bewerbungszahlen oder Besetzungsdauer.",
@@ -47,33 +90,76 @@
         "title": "Few applications for your real estate vacancy? Five checks before another job advert",
         "intro": "An empty inbox is not a diagnosis. Review the brief, candidate proposition and selection process before putting more budget into advertising.",
         "category": "REAL ESTATE · RECRUITMENT PRACTICE",
-        "opening": ["Your vacancy is advertised, but relevant applications are not arriving. Another advert is not necessarily the next step. First examine the responsibility you need to fill, who the offer reaches and where interested people leave the process. These five checks help real estate employers in Germany and Switzerland turn an unclear search into a concrete action."],
+        "opening": [
+          "Your vacancy is advertised, but relevant applications are not arriving. Another advert is not necessarily the next step. First examine the responsibility you need to fill, who the offer reaches and where interested people leave the process. These five checks help real estate employers in Germany and Switzerland turn an unclear search into a concrete action."
+        ],
         "sections": [
           {
             "title": "1. Understand what the number measures",
-            "paragraphs": ["Separate advert views, clicks on an application link, completed applications and applications that meet the brief. They describe different stages. A platform’s click count does not tell you how many people completed an application in your own system.", "Record the timeframe and channel alongside each measure. A single number cannot explain whether the problem is reach, an unclear offer or a mismatch between the audience and the role."],
-            "items": ["How many complete applications have arrived across all channels?", "Which meet the essential criteria agreed before the search?", "Where are information or timely responses missing?"]
+            "paragraphs": [
+              "Separate advert views, clicks on an application link, completed applications and applications that meet the brief. They describe different stages. A platform’s click count does not tell you how many people completed an application in your own system.",
+              "Record the timeframe and channel alongside each measure. A single number cannot explain whether the problem is reach, an unclear offer or a mismatch between the audience and the role."
+            ],
+            "items": [
+              "How many complete applications have arrived across all channels?",
+              "Which meet the essential criteria agreed before the search?",
+              "Where are information or timely responses missing?"
+            ]
           },
           {
             "title": "2. Define the assignment before the title",
-            "paragraphs": ["A broker, property adviser or real estate marketing specialist may have quite different responsibilities in different businesses. Start with the result the new colleague will own. Is the priority winning owner mandates, advising existing prospects or marketing a new development?", "Separate three essential capabilities from skills that can develop with support. Do not combine acquisition, development and campaign delivery into one brief without explaining priorities and available resources."],
-            "items": ["Specify the property type and region.", "Separate acquisition, advice, marketing and completion responsibilities.", "Explain employment or self-employed collaboration, attendance and travel.", "Be clear about compensation and how any variable elements work."]
+            "paragraphs": [
+              "A broker, property adviser or real estate marketing specialist may have quite different responsibilities in different businesses. Start with the result the new colleague will own. Is the priority winning owner mandates, advising existing prospects or marketing a new development?",
+              "Separate three essential capabilities from skills that can develop with support. Do not combine acquisition, development and campaign delivery into one brief without explaining priorities and available resources."
+            ],
+            "items": [
+              "Specify the property type and region.",
+              "Separate acquisition, advice, marketing and completion responsibilities.",
+              "Explain employment or self-employed collaboration, attendance and travel.",
+              "Be clear about compensation and how any variable elements work."
+            ]
           },
           {
             "title": "3. Read the offer from the candidate’s perspective",
-            "paragraphs": ["A list of duties does not explain why someone should move. Candidates need to understand their authority and daily work. Explain whether customer relationships already exist, which support is available and which decisions they can make.", "Use concrete conditions rather than interchangeable promises. A small team, direct access to management or a clearly defined portfolio explains more than a string of adjectives. Describe only arrangements you can actually provide."],
-            "items": ["What makes the assignment professionally interesting?", "Which resources are available from the start?", "What should the person achieve in the first three months?", "Which conditions are fixed and which can be discussed?"]
+            "paragraphs": [
+              "A list of duties does not explain why someone should move. Candidates need to understand their authority and daily work. Explain whether customer relationships already exist, which support is available and which decisions they can make.",
+              "Use concrete conditions rather than interchangeable promises. A small team, direct access to management or a clearly defined portfolio explains more than a string of adjectives. Describe only arrangements you can actually provide."
+            ],
+            "items": [
+              "What makes the assignment professionally interesting?",
+              "Which resources are available from the start?",
+              "What should the person achieve in the first three months?",
+              "Which conditions are fixed and which can be discussed?"
+            ]
           },
           {
             "title": "4. Add focused personal outreach",
-            "paragraphs": ["Once the brief is clear, direct sourcing can complement advertising. Start with a focused market map: comparable businesses, relevant property types and the regional experience the role needs. An impressive CV is not automatically a relevant profile.", "Explain why the person’s experience may be relevant, what the assignment involves and why a conversation could be worthwhile. Do not assume they want to leave their employer. Respect refusals and do not use confidential contact or customer data from previous employers."],
-            "items": ["Refer to relevant professional experience.", "Explain the assignment and working model clearly.", "Ask an open question about interest or timing.", "Record responses and refusals to prevent duplicate approaches."]
+            "paragraphs": [
+              "Once the brief is clear, direct sourcing can complement advertising. Start with a focused market map: comparable businesses, relevant property types and the regional experience the role needs. An impressive CV is not automatically a relevant profile.",
+              "Explain why the person’s experience may be relevant, what the assignment involves and why a conversation could be worthwhile. Do not assume they want to leave their employer. Respect refusals and do not use confidential contact or customer data from previous employers."
+            ],
+            "items": [
+              "Refer to relevant professional experience.",
+              "Explain the assignment and working model clearly.",
+              "Ask an open question about interest or timing.",
+              "Record responses and refusals to prevent duplicate approaches."
+            ]
           },
           {
             "title": "5. Make the next step definite",
-            "paragraphs": ["Good outreach cannot compensate for unclear decision-making. Agree who conducts initial conversations, which evidence matters and when candidates will receive feedback. A short, consistent assessment is more useful than an unexplained impression after several interviews.", "Discuss an anonymised project: what situation did the candidate inherit, what did they personally contribute and how did they justify decisions? Do not request confidential documents or unpaid work on a real customer assignment."],
-            "items": ["Assign an owner and specific feedback dates.", "Compare candidates using the same core, role-related questions.", "Clarify motivation, availability and mutual expectations early.", "Document uncertainties and agree the next appointment."],
-            "paragraphs_after": ["Few applications justify investigation, not an automatic conclusion that the market is empty. Choose the action after diagnosing the problem: sharpen the brief, explain the offer, approach relevant people or improve selection. Set a review date and assess meaningful conversations rather than contact volume alone."]
+            "paragraphs": [
+              "Good outreach cannot compensate for unclear decision-making. Agree who conducts initial conversations, which evidence matters and when candidates will receive feedback. A short, consistent assessment is more useful than an unexplained impression after several interviews.",
+              "Discuss an anonymised project: what situation did the candidate inherit, what did they personally contribute and how did they justify decisions? Do not request confidential documents or unpaid work on a real customer assignment."
+            ],
+            "items": [
+              "Assign an owner and specific feedback dates.",
+              "Compare candidates using the same core, role-related questions.",
+              "Clarify motivation, availability and mutual expectations early.",
+              "Document uncertainties and agree the next appointment."
+            ],
+            "paragraphs_after": [
+              "Few applications justify investigation, not an automatic conclusion that the market is empty. Choose the action after diagnosing the problem: sharpen the brief, explain the offer, approach relevant people or improve selection. Set a review date and assess meaningful conversations rather than contact volume alone."
+            ]
           }
         ],
         "source_note": "MuJobs editorial practice guide, published on 16 October 2026. These questions are recruitment process recommendations, not market statistics or guarantees of application volume or hiring speed.",
@@ -91,8 +177,8 @@
     "modified": "2026-10-13",
     "locales": {
       "de": {
-        "title": "Leiter Immobilienvermarktung einstellen: Marketing, Vertrieb und Führung richtig prüfen",
-        "intro": "Kampagnenwissen allein reicht für eine Vermarktungsleitung nicht aus. So klären Immobilienunternehmen die Verantwortung und prüfen passende Erfahrung vor der Einstellung.",
+        "title": "Leiter Immobilienvermarktung rekrutieren: Erfahrung in Marketing, Vertrieb und Führung bewerten",
+        "intro": "Die Leitung der Immobilienvermarktung erfordert mehr als Kampagnenwissen. Definieren Sie die Verantwortlichkeiten und prüfen Sie relevante Projekt-, Vertriebs- und Führungserfahrung vor der Einstellung.",
         "category": "IMMOBILIEN · VERMARKTUNGSLEITUNG",
         "opening": [
           "Sie suchen eine Leitung für die Immobilienvermarktung, erhalten aber sehr unterschiedliche Profile: Makler, Marketingmanager, Vertriebsleiter und Agenturprofis. Alle können relevante Erfahrung mitbringen. Entscheidend ist, welche Aufgaben die neue Person in Ihrem Unternehmen tatsächlich übernehmen soll. Dieser Leitfaden hilft Arbeitgebern in Deutschland und der Schweiz, das Suchprofil zu schärfen und Interviews auf konkrete Verantwortung auszurichten."
@@ -118,9 +204,9 @@
               "Bitten Sie um ein anonymisiertes Beispiel aus einem vergleichbaren Projekt. Notieren Sie Immobilienart, Zielgruppe, Projektphase und persönliche Zuständigkeit. Erfahrung in der Vermietung eines Bestandsobjekts ist nicht automatisch gleichbedeutend mit Erfahrung im Verkauf eines Neubauprojekts."
             ],
             "items": [
-              "Welche Ausgangslage haben Sie übernommen und welche Entscheidung selbst getroffen?",
+              "Welche Ausgangslage haben Sie übernommen und welche Entscheidungen haben Sie selbst getroffen?",
               "Wie haben Sie Zielgruppe, Preispositionierung und Kommunikationskanäle aufeinander abgestimmt?",
-              "Wo endete Ihre Verantwortung und wer verantwortete Preisfreigaben oder Vertragsabschlüsse?",
+              "Wo endete Ihre Verantwortung, und wer war für Preisfreigaben oder Vertragsabschlüsse zuständig?",
               "Welche Annahme mussten Sie ändern und woran haben Sie erkannt, dass eine Änderung nötig war?"
             ],
             "paragraphs_after": [
@@ -145,10 +231,10 @@
           {
             "title": "4. Führung im Interview konkret machen",
             "paragraphs": [
-              "Wenn die Rolle ein Team umfasst, reichen persönliche Verkaufserfolge nicht als Führungsnachweis. Fragen Sie nach einer Situation, in der die Person Prioritäten gesetzt, Feedback gegeben oder eine schwierige Abstimmung gelöst hat."
+              "Wenn die Position ein Team umfasst, reichen persönliche Verkaufserfolge nicht als Führungsnachweis. Fragen Sie nach einer Situation, in der die Person Prioritäten gesetzt, Feedback gegeben oder eine schwierige Abstimmung gelöst hat."
             ],
             "items": [
-              "Wie groß war das Team und welche Mitarbeitenden haben direkt an Sie berichtet?",
+              "Wie groß war das Team und welche Mitarbeitenden waren Ihnen direkt unterstellt?",
               "Wie haben Sie Aufgaben zwischen Marketing, Vertrieb und externen Partnern verteilt?",
               "Wie sind Sie vorgegangen, wenn Kampagnen Anfragen erzeugten, aber die Qualifizierung stockte?",
               "Wie haben Sie unterschiedliche Erwartungen von Projektentwicklung und Geschäftsleitung geklärt?"
@@ -175,12 +261,12 @@
         "source_note": "Beruflicher Kontext geprüft am 13. Oktober 2026 anhand der Schweizer Berufsberatung. Die Auswahlfragen und Checkliste sind redaktionelle Empfehlungen von MuJobs, keine vorgeschriebenen Berufsstandards.",
         "related_label": "Personalberatung für Immobilienunternehmen",
         "cta_title": "Sie suchen eine Leitung für die Immobilienvermarktung?",
-        "cta_text": "Teilen Sie uns Projektregion, Immobilienart und die wichtigste Verantwortung mit. MuJobs unterstützt Sie dabei, ein klares Suchprofil zu entwickeln und passende Kandidaten gezielt anzusprechen.",
+        "cta_text": "Beschreiben Sie uns die Projektregion, die Immobilienart und die wichtigsten Aufgaben der Position. MuJobs unterstützt Sie dabei, ein klares Suchprofil zu entwickeln und passende Kandidaten gezielt anzusprechen.",
         "cta_label": "Vermarktungsposition besprechen"
       },
       "en": {
-        "title": "Hiring a Head of Real Estate Marketing: assess marketing, sales and leadership",
-        "intro": "Campaign expertise alone does not establish fit for a real estate marketing leadership role. Define the responsibilities and assess relevant project experience before hiring.",
+        "title": "Hiring a Head of Real Estate Marketing: assessing marketing, sales and leadership experience",
+        "intro": "Recruiting a real estate marketing leader requires more than campaign expertise. Define the responsibilities and assess relevant project, sales and leadership experience before making an appointment.",
         "category": "REAL ESTATE · MARKETING LEADERSHIP",
         "opening": [
           "A real estate marketing leadership search can attract brokers, marketing managers, sales leaders and agency specialists. Each may bring useful experience. The question is which responsibilities the person will actually own in your business. This guide helps employers in Germany and Switzerland define the brief and focus interviews on evidence."
@@ -216,7 +302,7 @@
             ]
           },
           {
-            "title": "3. Connect marketing measures to the sales process",
+            "title": "3. Connect marketing metrics to the sales process",
             "paragraphs": [
               "A large number of enquiries does not explain whether the right prospects were reached. Ask candidates how they track the journey from initial enquiry through qualification to completion. Assess whether they can explain the data rather than simply report an attractive number."
             ],
@@ -263,7 +349,7 @@
         "source_note": "Occupational context checked on 13 October 2026 using Switzerland’s official career information service. The interview questions and checklist are MuJobs editorial recommendations, not prescribed professional standards.",
         "related_label": "Explore real estate recruitment",
         "cta_title": "Hiring a real estate marketing leader?",
-        "cta_text": "Tell MuJobs the project region, property type and main responsibility. We can help define a clear brief and approach candidates with relevant experience.",
+        "cta_text": "Tell us about the project location, property type and responsibilities of the position. MuJobs will help you define the recruitment brief and approach professionals with relevant experience.",
         "cta_label": "Discuss your marketing leadership role"
       }
     },
@@ -280,15 +366,15 @@
     "modified": "2026-10-12",
     "locales": {
       "en": {
-        "title": "Hiring a Projektentwickler: an employer checklist",
+        "title": "Hiring a Real Estate Project Developer: an employer checklist",
         "intro": "Define the brief, test project ownership and compare candidates fairly: a practical hiring checklist for real estate employers in Germany and Switzerland.",
         "category": "REAL ESTATE · HIRING CHECKLIST",
         "opening": [
-          "Before you advertise for a Projektentwickler, agree which project decisions the person will own. A candidate who can secure land is not automatically the person you need to steer a development through feasibility, approvals and commercial delivery. Use this checklist to turn an open vacancy into a search brief and a consistent interview."
+          "Before you advertise for a Real Estate Project Developer, agree which project decisions the person will own. A candidate who can secure land is not automatically the person you need to steer a development through feasibility, approvals and commercial delivery. Use this checklist to turn an open vacancy into a search brief and a consistent interview."
         ],
         "sections": [
           {
-            "title": "1. Start with the next project decision",
+            "title": "1. Define the position through its key project decisions",
             "paragraphs": [
               "Write down the problem behind the vacancy in one sentence. For example: “We need someone to assess residential opportunities and present a reasoned investment recommendation.” This is an illustrative brief, not a client result. Then agree what the person should deliver in their first three months.",
               "Separate the primary assignment from supporting duties. If one person must cover acquisition, development and marketing, state the priorities and the specialist support available. Avoid a brief that asks for independent ownership of every phase without explaining the team."
@@ -316,10 +402,10 @@
             ]
           },
           {
-            "title": "3. Make Germany or Switzerland specific",
+            "title": "3. Define the requirements for the German or Swiss market",
             "paragraphs": [
               "Specify the actual project locations, working languages and expected site presence. Ask what local planning or stakeholder experience the work requires and which knowledge the team can help someone acquire. A nearby address alone does not demonstrate project experience.",
-              "For role context, Switzerland’s official career information service describes Immobilienentwicklung as spanning site and use concepts, feasibility, commercial studies and interdisciplinary coordination. The Swiss examination body also highlights team leadership and development concepts. These descriptions illustrate breadth; they are not a universal hiring requirement.",
+              "For role context, Switzerland’s official career information service describes real estate development as spanning site and use concepts, feasibility, commercial studies and interdisciplinary coordination. The Swiss examination body also highlights team leadership and development concepts. These descriptions illustrate breadth; they are not a universal hiring requirement.",
               "For your vacancy, decide whether a particular qualification is essential or whether comparable experience is suitable. Do not treat German and Swiss job titles or qualifications as interchangeable. Agree the compensation range, travel expectations, reporting line and possible start date before outreach."
             ]
           },
@@ -363,23 +449,23 @@
         ],
         "source_note": "Role context checked on 12 October 2026. The checklist, interview structure and scorecard are MuJobs editorial recommendations, not prescribed professional standards.",
         "related_label": "Explore real estate recruitment",
-        "cta_title": "Hiring a Projektentwickler in Germany or Switzerland?",
+        "cta_title": "Hiring a Real Estate Project Developer in Germany or Switzerland?",
         "cta_text": "Send MuJobs the project location, current phase and the responsibility you need to fill. We can discuss a focused search brief and suitable candidate profiles.",
-        "cta_label": "Discuss your Projektentwickler search"
+        "cta_label": "Discuss your project development vacancy"
       },
       "de": {
         "title": "Projektentwickler einstellen: Checkliste für Arbeitgeber",
-        "intro": "Anforderungsprofil klären, Projektverantwortung prüfen und Kandidaten vergleichen: eine Einstellungs-Checkliste für Immobilienunternehmen in Deutschland und der Schweiz.",
+        "intro": "Anforderungsprofil definieren, Projektverantwortung prüfen und Kandidaten strukturiert vergleichen: eine Recruiting-Checkliste für Immobilienunternehmen in Deutschland und der Schweiz.",
         "category": "IMMOBILIEN · EINSTELLUNGS-CHECKLISTE",
         "opening": [
-          "Klären Sie vor der Ausschreibung, welche Projektentscheidungen die neue Person verantworten soll. Wer Grundstücke akquirieren kann, ist nicht automatisch die richtige Besetzung für Machbarkeitsprüfung, Genehmigungskoordination und wirtschaftliche Projektsteuerung. Mit dieser Checkliste übersetzen Sie eine offene Stelle in ein konkretes Suchprofil und ein einheitliches Interview."
+          "Klären Sie vor der Ausschreibung, welche Projektentscheidungen die neue Person verantworten soll. Wer Grundstücke akquirieren kann, ist nicht automatisch die richtige Besetzung für Machbarkeitsprüfung, Genehmigungskoordination und wirtschaftliche Projektsteuerung. Mit dieser Checkliste entwickeln Sie ein konkretes Anforderungsprofil und einen einheitlichen Leitfaden für die Bewerbungsgespräche."
         ],
         "sections": [
           {
             "title": "1. Mit der nächsten Projektentscheidung beginnen",
             "paragraphs": [
               "Beschreiben Sie den Anlass der Besetzung in einem Satz. Zum Beispiel: „Wir brauchen jemanden, der Wohnbaupotenziale bewertet und eine nachvollziehbare Investitionsempfehlung vorbereitet.“ Das ist ein beispielhaftes Briefing, kein Kundenergebnis. Legen Sie anschließend fest, was die Person in den ersten drei Monaten erarbeiten soll.",
-              "Trennen Sie die Hauptaufgabe von ergänzenden Tätigkeiten. Soll eine Person Akquisition, Entwicklung und Vermarktung abdecken, benennen Sie die Prioritäten und die verfügbare fachliche Unterstützung. Vermeiden Sie ein Profil, das selbstständige Verantwortung für jede Phase fordert, ohne das Team zu erklären."
+              "Trennen Sie die Hauptaufgabe von ergänzenden Tätigkeiten. Soll eine Person Akquisition, Entwicklung und Vermarktung abdecken, benennen Sie die Prioritäten und die verfügbare fachliche Unterstützung. Vermeiden Sie ein Profil, das selbstständige Verantwortung für jede Phase fordert, ohne die Teamstruktur und verfügbare Unterstützung zu erläutern."
             ],
             "items": [
               "Projektkontext: Wohnen, Büro, gemischte Nutzung oder eine andere Nutzungsart; Neubau oder Bestand.",
@@ -394,8 +480,8 @@
               "Wählen Sie drei unverzichtbare Kompetenzen, die direkt zur Aufgabe passen. Behandeln Sie weitere Anforderungen als Wünsche, solange kein konkreter betrieblicher Grund dagegen spricht. Die folgenden Fragen sind ein Ausgangspunkt; passen Sie sie an Ihr Projekt an."
             ],
             "items": [
-              "Schwerpunkt Akquisition: Welche anonymisierte Gelegenheit hat die Person selbst identifiziert, geprüft und weiterverfolgt oder verworfen?",
-              "Schwerpunkt Entwicklung: Welche Machbarkeitsempfehlung hat sie erarbeitet, auf welchen Annahmen beruhte sie und welche Entscheidung hat sie persönlich beeinflusst?",
+              "Schwerpunkt Akquisition: Welches Akquisitionsprojekt hat die Person selbst identifiziert, geprüft und weiterverfolgt oder verworfen? Bitten Sie um ein anonymisiertes Beispiel.",
+              "Schwerpunkt Entwicklung: Welche Empfehlung zur Machbarkeit hat sie erarbeitet, auf welchen Annahmen beruhte sie und welche Entscheidung hat sie persönlich beeinflusst?",
               "Schnittstelle Realisierung: Wie hat sie Änderungen bei Umfang, Kosten oder Terminen mit Planung und Ausführung bearbeitet?",
               "Kaufmännische Schnittstelle: Wie flossen Verkaufs- oder Vermietungsannahmen in das Nutzungskonzept ein und wer verantwortete die Marktbeurteilung?"
             ],
@@ -404,9 +490,9 @@
             ]
           },
           {
-            "title": "3. Deutschland oder Schweiz konkret machen",
+            "title": "3. Anforderungen des deutschen oder Schweizer Marktes klären",
             "paragraphs": [
-              "Benennen Sie die tatsächlichen Projektstandorte, Arbeitssprachen und erwartete Präsenz vor Ort. Klären Sie, welche Erfahrung mit örtlichen Planungsabläufen oder Beteiligten erforderlich ist und welches Wissen das Team vermitteln kann. Eine nahe Wohnadresse belegt noch keine passende Projekterfahrung.",
+              "Benennen Sie die tatsächlichen Projektstandorte, Arbeitssprachen und erwartete Präsenz vor Ort. Klären Sie, welche Erfahrung mit örtlichen Planungsabläufen oder Beteiligten erforderlich ist und welches Wissen das Team vermitteln kann. Ein Wohnort in der Nähe belegt noch keine passende Projekterfahrung.",
               "Zur Einordnung: Die offizielle Schweizer Berufsberatung beschreibt Immobilienentwicklung unter anderem anhand von Standort- und Nutzungsideen, Machbarkeit, Wirtschaftlichkeitsstudien und interdisziplinärer Koordination. Die Schweizer Fachprüfungskommission betont zudem Teamführung und Entwicklungskonzepte. Diese Berufsbilder zeigen die Breite des Feldes; sie sind kein allgemeingültiges Einstellungsprofil.",
               "Entscheiden Sie für Ihre Stelle, ob ein bestimmter Abschluss erforderlich ist oder vergleichbare Erfahrung infrage kommt. Setzen Sie deutsche und schweizerische Titel oder Abschlüsse nicht automatisch gleich. Klären Sie Vergütungsrahmen, Reisen, Berichtslinie und möglichen Eintrittstermin vor der Ansprache."
             ]
@@ -429,9 +515,9 @@
           {
             "title": "5. Mit einem einfachen Bewertungsbogen vergleichen",
             "paragraphs": [
-              "Vereinbaren Sie vor den Gesprächen diese Kriterien: vergleichbare Projektphase, wirtschaftliches Urteilsvermögen, Planungs- und Beteiligtenkoordination sowie eigene Entscheidungsverantwortung. Notieren Sie zu jedem Kriterium ein konkretes Beispiel und eine offene Frage.",
+              "Vereinbaren Sie vor den Gesprächen diese Kriterien: vergleichbare Projektphase, wirtschaftliches Urteilsvermögen, Koordination von Planung und Projektbeteiligten sowie eigene Entscheidungsverantwortung. Notieren Sie zu jedem Kriterium ein konkretes Beispiel und eine offene Frage.",
               "Nutzen Sie eine gemeinsame Skala: 1 = noch kein relevantes Beispiel; 2 = vergleichbare Aufgaben unterstützt; 3 = vergleichbare Aufgaben eigenständig verantwortet; 4 = vergleichbare Aufgaben verantwortet und Zielkonflikte sowie Lernerfahrungen nachvollziehbar erläutert. Der Bogen unterstützt das Gespräch und ist kein psychometrischer Test. Ein fehlendes Beispiel bedeutet „noch nicht belegt“, nicht automatisch „nicht vorhanden“.",
-              "Lassen Sie Interviewende ihre Beobachtungen zunächst einzeln festhalten. Eine Gesamtpunktzahl darf eine Lücke bei einer unverzichtbaren Kompetenz nicht verdecken. Klären Sie wichtige offene Punkte gezielt nach; holen Sie Referenzen nur mit Zustimmung der betreffenden Person ein."
+              "Lassen Sie Interviewende ihre Beobachtungen zunächst einzeln festhalten. Eine Gesamtpunktzahl darf eine Lücke bei einer unverzichtbaren Kompetenz nicht verdecken. Klären Sie wichtige offene Punkte in einem gezielten Folgegespräch; holen Sie Referenzen nur mit Zustimmung der betreffenden Person ein."
             ]
           },
           {
@@ -452,7 +538,7 @@
         "source_note": "Beruflicher Kontext geprüft am 12. Oktober 2026. Checkliste, Interviewstruktur und Bewertungsbogen sind redaktionelle Empfehlungen von MuJobs, keine vorgeschriebenen Berufsstandards.",
         "related_label": "Personalberatung für Immobilienunternehmen",
         "cta_title": "Sie möchten einen Projektentwickler einstellen?",
-        "cta_text": "Senden Sie MuJobs den Projektstandort, die aktuelle Phase und die zu besetzende Verantwortung. Gemeinsam können wir ein gezieltes Suchprofil und passende Kandidatenprofile besprechen.",
+        "cta_text": "Senden Sie MuJobs den Projektstandort, die aktuelle Phase und die Aufgaben und Verantwortlichkeiten der Position. Gemeinsam können wir ein gezieltes Suchprofil und passende Kandidatenprofile besprechen.",
         "cta_label": "Projektentwickler-Suche besprechen"
       }
     },

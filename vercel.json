@@ -116,6 +116,21 @@
       "permanent": true
     },
     {
+      "source": "/insight-wenige-bewerbungen-immobilien-recruiting.html",
+      "destination": "/insight-wenige-bewerbungen-immobilien-recruiting",
+      "permanent": true
+    },
+    {
+      "source": "/insight-leiter-immobilienvermarktung-auswahl.html",
+      "destination": "/insight-leiter-immobilienvermarktung-auswahl",
+      "permanent": true
+    },
+    {
+      "source": "/insight-projektentwickler-hiring-checklist.html",
+      "destination": "/insight-projektentwickler-hiring-checklist",
+      "permanent": true
+    },
+    {
       "source": "/insight-passive-candidate-sourcing.html",
       "destination": "/insight-passive-candidate-sourcing",
       "permanent": true
@@ -143,21 +158,6 @@
     {
       "source": "/insight-recruitment-germany-switzerland.html",
       "destination": "/insight-recruitment-germany-switzerland",
-      "permanent": true
-    },
-    {
-      "source": "/insight-wenige-bewerbungen-immobilien-recruiting.html",
-      "destination": "/insight-wenige-bewerbungen-immobilien-recruiting",
-      "permanent": true
-    },
-    {
-      "source": "/insight-leiter-immobilienvermarktung-auswahl.html",
-      "destination": "/insight-leiter-immobilienvermarktung-auswahl",
-      "permanent": true
-    },
-    {
-      "source": "/insight-projektentwickler-hiring-checklist.html",
-      "destination": "/insight-projektentwickler-hiring-checklist",
       "permanent": true
     },
     {
@@ -271,6 +271,21 @@
       "permanent": true
     },
     {
+      "source": "/de/insight-wenige-bewerbungen-immobilien-recruiting.html",
+      "destination": "/de/insight-wenige-bewerbungen-immobilien-recruiting",
+      "permanent": true
+    },
+    {
+      "source": "/de/insight-leiter-immobilienvermarktung-auswahl.html",
+      "destination": "/de/insight-leiter-immobilienvermarktung-auswahl",
+      "permanent": true
+    },
+    {
+      "source": "/de/insight-projektentwickler-hiring-checklist.html",
+      "destination": "/de/insight-projektentwickler-hiring-checklist",
+      "permanent": true
+    },
+    {
       "source": "/de/insight-passive-candidate-sourcing.html",
       "destination": "/de/insight-passive-candidate-sourcing",
       "permanent": true
@@ -298,21 +313,6 @@
     {
       "source": "/de/insight-recruitment-germany-switzerland.html",
       "destination": "/de/insight-recruitment-germany-switzerland",
-      "permanent": true
-    },
-    {
-      "source": "/de/insight-wenige-bewerbungen-immobilien-recruiting.html",
-      "destination": "/de/insight-wenige-bewerbungen-immobilien-recruiting",
-      "permanent": true
-    },
-    {
-      "source": "/de/insight-leiter-immobilienvermarktung-auswahl.html",
-      "destination": "/de/insight-leiter-immobilienvermarktung-auswahl",
-      "permanent": true
-    },
-    {
-      "source": "/de/insight-projektentwickler-hiring-checklist.html",
-      "destination": "/de/insight-projektentwickler-hiring-checklist",
       "permanent": true
     }
   ],
@@ -402,6 +402,18 @@
       "destination": "/insights.html"
     },
     {
+      "source": "/insight-wenige-bewerbungen-immobilien-recruiting",
+      "destination": "/insight-wenige-bewerbungen-immobilien-recruiting.html"
+    },
+    {
+      "source": "/insight-leiter-immobilienvermarktung-auswahl",
+      "destination": "/insight-leiter-immobilienvermarktung-auswahl.html"
+    },
+    {
+      "source": "/insight-projektentwickler-hiring-checklist",
+      "destination": "/insight-projektentwickler-hiring-checklist.html"
+    },
+    {
       "source": "/insight-passive-candidate-sourcing",
       "destination": "/insight-passive-candidate-sourcing.html"
     },
@@ -424,18 +436,6 @@
     {
       "source": "/insight-recruitment-germany-switzerland",
       "destination": "/insight-recruitment-germany-switzerland.html"
-    },
-    {
-      "source": "/insight-wenige-bewerbungen-immobilien-recruiting",
-      "destination": "/insight-wenige-bewerbungen-immobilien-recruiting.html"
-    },
-    {
-      "source": "/insight-leiter-immobilienvermarktung-auswahl",
-      "destination": "/insight-leiter-immobilienvermarktung-auswahl.html"
-    },
-    {
-      "source": "/insight-projektentwickler-hiring-checklist",
-      "destination": "/insight-projektentwickler-hiring-checklist.html"
     },
     {
       "source": "/de/projekte",
@@ -522,6 +522,18 @@
       "destination": "/de/insights.html"
     },
     {
+      "source": "/de/insight-wenige-bewerbungen-immobilien-recruiting",
+      "destination": "/de/insight-wenige-bewerbungen-immobilien-recruiting.html"
+    },
+    {
+      "source": "/de/insight-leiter-immobilienvermarktung-auswahl",
+      "destination": "/de/insight-leiter-immobilienvermarktung-auswahl.html"
+    },
+    {
+      "source": "/de/insight-projektentwickler-hiring-checklist",
+      "destination": "/de/insight-projektentwickler-hiring-checklist.html"
+    },
+    {
       "source": "/de/insight-passive-candidate-sourcing",
       "destination": "/de/insight-passive-candidate-sourcing.html"
     },
@@ -544,18 +556,6 @@
     {
       "source": "/de/insight-recruitment-germany-switzerland",
       "destination": "/de/insight-recruitment-germany-switzerland.html"
-    },
-    {
-      "source": "/de/insight-wenige-bewerbungen-immobilien-recruiting",
-      "destination": "/de/insight-wenige-bewerbungen-immobilien-recruiting.html"
-    },
-    {
-      "source": "/de/insight-leiter-immobilienvermarktung-auswahl",
-      "destination": "/de/insight-leiter-immobilienvermarktung-auswahl.html"
-    },
-    {
-      "source": "/de/insight-projektentwickler-hiring-checklist",
-      "destination": "/de/insight-projektentwickler-hiring-checklist.html"
     }
   ]
 }
