@@ -116,6 +116,11 @@
       "permanent": true
     },
     {
+      "source": "/insight-projektentwickler-interview-scorecard.html",
+      "destination": "/insight-projektentwickler-interview-scorecard",
+      "permanent": true
+    },
+    {
       "source": "/insight-wenige-bewerbungen-immobilien-recruiting.html",
       "destination": "/insight-wenige-bewerbungen-immobilien-recruiting",
       "permanent": true
@@ -271,6 +276,11 @@
       "permanent": true
     },
     {
+      "source": "/de/insight-projektentwickler-interview-scorecard.html",
+      "destination": "/de/insight-projektentwickler-interview-scorecard",
+      "permanent": true
+    },
+    {
       "source": "/de/insight-wenige-bewerbungen-immobilien-recruiting.html",
       "destination": "/de/insight-wenige-bewerbungen-immobilien-recruiting",
       "permanent": true
@@ -402,6 +412,10 @@
       "destination": "/insights.html"
     },
     {
+      "source": "/insight-projektentwickler-interview-scorecard",
+      "destination": "/insight-projektentwickler-interview-scorecard.html"
+    },
+    {
       "source": "/insight-wenige-bewerbungen-immobilien-recruiting",
       "destination": "/insight-wenige-bewerbungen-immobilien-recruiting.html"
     },
@@ -520,6 +534,10 @@
     {
       "source": "/de/einblicke",
       "destination": "/de/insights.html"
+    },
+    {
+      "source": "/de/insight-projektentwickler-interview-scorecard",
+      "destination": "/de/insight-projektentwickler-interview-scorecard.html"
     },
     {
       "source": "/de/insight-wenige-bewerbungen-immobilien-recruiting",

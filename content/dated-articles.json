@@ -1,5 +1,192 @@
 [
   {
+    "slug": "projektentwickler-interview-scorecard",
+    "published": "2026-10-26",
+    "modified": "2026-10-26",
+    "locales": {
+      "de": {
+        "title": "Projektentwickler im Interview bewerten: eine praktische Scorecard für Immobilienunternehmen",
+        "intro": "Mit einer kurzen, einheitlichen Fallaufgabe prüfen Arbeitgeber Standortanalyse, Wirtschaftlichkeit, Stakeholder-Management und Entscheidungsqualität — ohne Kandidaten an einem echten Kundenprojekt arbeiten zu lassen.",
+        "category": "IMMOBILIEN · PROJEKTENTWICKLUNG",
+        "opening": [
+          "Ein Lebenslauf zeigt, an welchen Projekten jemand beteiligt war. Er zeigt jedoch nicht automatisch, welche Entscheidungen die Person selbst vorbereitet, verantwortet oder revidiert hat. Für die Auswahl eines Projektentwicklers brauchen Immobilienunternehmen deshalb ein Interview, das relevante Projekterfahrung in nachvollziehbare Beobachtungen übersetzt.",
+          "Die folgende Scorecard ist für ein strukturiertes Gespräch von etwa 45 Minuten gedacht. Alle Kandidaten erhalten denselben fiktiven Fall, dieselbe Vorbereitungszeit und dieselben Kernfragen. So vergleichen Sie nicht Präsentationsstil oder Sympathie, sondern die Qualität der Analyse und Begründung."
+        ],
+        "sections": [
+          {
+            "title": "1. Vor dem Gespräch fünf Kriterien festlegen",
+            "paragraphs": [
+              "Definieren Sie zuerst, welche Verantwortung die Position in Ihrem Unternehmen tatsächlich trägt. Ein Projektentwickler, der Grundstücke bis zur Baureife entwickelt, benötigt einen anderen Schwerpunkt als jemand, der bestehende Projekte durch Genehmigung, Vermarktung und Übergabe steuert.",
+              "Bewerten Sie höchstens fünf Kriterien. Schreiben Sie zu jedem Kriterium auf, welche konkrete Beobachtung eine starke Antwort ausmacht. Damit vermeiden Sie, dass ein überzeugender Gesprächsstil fachliche Lücken überdeckt."
+            ],
+            "items": [
+              "Standort und Nutzung: relevante Daten erkennen und offene Annahmen benennen.",
+              "Wirtschaftlichkeit: Erlös-, Kosten-, Zeit- und Finanzierungsrisiken sinnvoll ordnen.",
+              "Prozess: nächste Prüfschritte, Abhängigkeiten und Entscheidungspunkte strukturieren.",
+              "Stakeholder: Interessen von Eigentümern, Behörden, Planern, Investoren und Nutzern unterscheiden.",
+              "Urteil: eine Empfehlung geben und erklären, welche neue Information sie verändern würde."
+            ]
+          },
+          {
+            "title": "2. Einen fairen, fiktiven Fall verwenden",
+            "paragraphs": [
+              "Geben Sie eine kurze Ausgangslage, die zur Rolle passt, aber keine vertraulichen Daten aus einem laufenden Projekt enthält. Beispielsweise prüft das Unternehmen ein innerstädtisches Grundstück für eine gemischte Nutzung. Die planungsrechtliche Situation ist noch nicht vollständig geklärt, erste Kostenschätzungen liegen vor und zwei Nutzungskonzepte sind denkbar.",
+              "Bitten Sie nicht um eine fertige Projektkalkulation. Ziel ist, den Denkweg zu verstehen: Welche Informationen fehlen, welche Annahmen sind kritisch und welcher nächste Schritt reduziert das größte Risiko? Begrenzen Sie die Vorbereitung auf zehn Minuten und erlauben Sie Notizen."
+            ],
+            "items": [
+              "Welche drei Informationen würden Sie zuerst beschaffen?",
+              "Welche Annahme hat den größten Einfluss auf die Entscheidung?",
+              "Welche Beteiligten müssen vor einer Empfehlung eingebunden werden?",
+              "Unter welcher Bedingung würden Sie das Projekt vorerst nicht weiterverfolgen?"
+            ]
+          },
+          {
+            "title": "3. Den Gesprächsablauf für alle gleich halten",
+            "paragraphs": [
+              "Ein einheitlicher Ablauf schafft Vergleichbarkeit. Er gibt Kandidaten außerdem die gleiche Chance, ihre Erfahrung zu erklären. Halten Sie Rückfragen zunächst zurück und nutzen Sie anschließend dieselben Vertiefungsfragen.",
+              "Eine mögliche Verteilung: fünf Minuten Einführung, zehn Minuten Vorbereitung, fünfzehn Minuten Fallbesprechung, zehn Minuten Fragen zu einem realen früheren Projekt und fünf Minuten für Fragen des Kandidaten. Passen Sie die Zeiten an die Rolle an, aber verändern Sie die Kernaufgabe nicht zwischen den Gesprächen."
+            ],
+            "items": [
+              "Zu Beginn Ziel, Zeit und verfügbare Informationen erklären.",
+              "Während der Antwort Annahmen, Prioritäten und Begründungen notieren.",
+              "Bei früheren Projekten nach persönlichem Beitrag und Entscheidungsspielraum fragen.",
+              "Nicht nur das Endergebnis, sondern auch den Umgang mit Unsicherheit bewerten."
+            ]
+          },
+          {
+            "title": "4. Antworten mit einer Vier-Punkte-Skala bewerten",
+            "paragraphs": [
+              "Nutzen Sie pro Kriterium eine einfache Skala von eins bis vier. Eine gerade Anzahl zwingt nicht zu einer künstlichen Mitte. Entscheidend ist, dass jede Stufe vor dem ersten Interview beschrieben wird.",
+              "Beispiel: 1 bedeutet, dass wesentliche Risiken übersehen oder Behauptungen nicht begründet werden. 2 zeigt eine teilweise strukturierte Analyse mit relevanten Lücken. 3 steht für eine klare, begründete Vorgehensweise mit sinnvollen Prioritäten. 4 ergänzt dies um belastbare Alternativen, Abhängigkeiten und konkrete Entscheidungspunkte."
+            ],
+            "items": [
+              "Bewertungen unmittelbar nach jedem Gespräch einzeln festhalten.",
+              "Beobachtung und Interpretation getrennt notieren.",
+              "Kriterien nicht nachträglich an einen bevorzugten Kandidaten anpassen.",
+              "Abweichende Bewertungen im Team anhand konkreter Aussagen besprechen."
+            ]
+          },
+          {
+            "title": "5. Ein früheres Projekt auf Eigenanteil prüfen",
+            "paragraphs": [
+              "Nach dem Fallbeispiel wechseln Sie zu einem anonymisierten Projekt aus der Berufserfahrung. Fragen Sie nach Ausgangslage, eigener Verantwortung, einer schwierigen Entscheidung und dem tatsächlichen Ergebnis. So wird sichtbar, ob die Person Projekte nur begleitet oder zentrale Entscheidungen selbst vorbereitet und vertreten hat.",
+              "Gute Antworten machen Grenzen transparent. Kandidaten sollten sagen können, welche Daten nicht verfügbar waren, wer die Entscheidung getroffen hat und was sie rückblickend anders tun würden. Fordern Sie keine vertraulichen Kalkulationen, Verträge oder Kundendaten an."
+            ],
+            "items": [
+              "Was war Ihr persönlicher Auftrag in diesem Projekt?",
+              "Welche Entscheidung haben Sie vorbereitet oder verantwortet?",
+              "Welche Annahme erwies sich später als falsch?",
+              "Wie haben Sie den Kurs angepasst und wem gegenüber begründet?"
+            ],
+            "paragraphs_after": [
+              "Eine Scorecard ersetzt kein fachliches Urteil. Sie macht jedoch sichtbar, worauf dieses Urteil basiert. Legen Sie Muss-Kriterien, Fall, Fragen und Bewertungsanker vor dem ersten Gespräch fest. Vergleichen Sie anschließend die dokumentierte Evidenz — nicht Titel, Bauchgefühl oder den glattesten Auftritt."
+            ]
+          }
+        ],
+        "source_note": "Redaktioneller Praxisleitfaden von MuJobs, veröffentlicht am 26. Oktober 2026. Die Scorecard ist eine anpassbare Auswahlhilfe und keine Rechtsberatung. Die Antidiskriminierungsstelle des Bundes empfiehlt diskriminierungsarme, an objektiven Anforderungen ausgerichtete Personalauswahl; das Schweizer Berufsprofil Immobilienentwicklung beschreibt unter anderem Prüfung, Planung, Koordination und Umsetzung von Entwicklungsvorhaben.",
+        "related_label": "Personalberatung für Immobilienunternehmen",
+        "cta_title": "Sie suchen einen Projektentwickler?",
+        "cta_text": "Teilen Sie uns Projektart, Region und die entscheidenden Verantwortungsbereiche mit. MuJobs unterstützt Sie bei Suchprofil, Direktansprache und einer nachvollziehbaren Vorauswahl.",
+        "cta_label": "Besetzung besprechen"
+      },
+      "en": {
+        "title": "Assessing a real estate project developer: a practical interview scorecard",
+        "intro": "A short, consistent case exercise helps employers assess site analysis, commercial judgement, stakeholder management and decision quality without asking candidates to work on a live client project.",
+        "category": "REAL ESTATE · PROJECT DEVELOPMENT",
+        "opening": [
+          "A CV shows which projects a person has worked on. It does not automatically show which decisions they personally prepared, owned or revised. When hiring a project developer, real estate employers therefore need an interview that turns relevant project experience into observable evidence.",
+          "This scorecard is designed for a structured conversation of about 45 minutes. Every candidate receives the same fictional case, preparation time and core questions. The comparison then focuses on analysis and reasoning rather than presentation style or personal chemistry."
+        ],
+        "sections": [
+          {
+            "title": "1. Set five criteria before the interview",
+            "paragraphs": [
+              "First define the responsibility the role will actually hold. A project developer taking sites through planning readiness needs a different emphasis from someone managing established projects through approval, marketing and handover.",
+              "Assess no more than five criteria. For each one, write down the observable evidence that would make an answer strong. This reduces the risk that polished communication hides gaps in professional judgement."
+            ],
+            "items": [
+              "Site and use: identify relevant data and state unresolved assumptions.",
+              "Commercial judgement: prioritise revenue, cost, timing and financing risks.",
+              "Process: structure next checks, dependencies and decision points.",
+              "Stakeholders: distinguish the interests of owners, authorities, planners, investors and users.",
+              "Recommendation: take a position and explain which new information would change it."
+            ]
+          },
+          {
+            "title": "2. Use a fair, fictional case",
+            "paragraphs": [
+              "Provide a short situation relevant to the role without sharing confidential information from a live project. For example, the business is considering an urban site for mixed use. The planning position is not fully clear, an initial cost estimate is available and two use concepts are possible.",
+              "Do not ask for a finished development appraisal. The objective is to understand the reasoning: what information is missing, which assumption is critical and which next step reduces the largest risk? Limit preparation to ten minutes and allow notes."
+            ],
+            "items": [
+              "Which three pieces of information would you obtain first?",
+              "Which assumption has the greatest effect on the decision?",
+              "Who must be involved before you make a recommendation?",
+              "Under what condition would you pause the opportunity?"
+            ]
+          },
+          {
+            "title": "3. Keep the interview sequence consistent",
+            "paragraphs": [
+              "A consistent sequence makes candidates comparable and gives them an equal opportunity to explain their experience. Hold clarifying questions until the first answer is complete, then use the same follow-up questions.",
+              "One possible allocation is five minutes for context, ten for preparation, fifteen for the case discussion, ten for a past project and five for the candidate’s questions. Adjust the timing to the role, but do not change the core exercise between interviews."
+            ],
+            "items": [
+              "Explain the objective, time and available information at the start.",
+              "Record assumptions, priorities and reasoning during the answer.",
+              "For past projects, ask about personal contribution and decision authority.",
+              "Assess the treatment of uncertainty, not only the final answer."
+            ]
+          },
+          {
+            "title": "4. Score answers on a four-point scale",
+            "paragraphs": [
+              "Use a simple score from one to four for each criterion. An even scale avoids a default middle. The important step is to describe every level before the first interview.",
+              "For example, 1 means material risks are missed or claims are unsupported. A 2 shows a partly structured analysis with relevant gaps. A 3 is a clear, reasoned approach with sensible priorities. A 4 adds credible alternatives, dependencies and explicit decision points."
+            ],
+            "items": [
+              "Record scores independently immediately after each interview.",
+              "Keep observations separate from interpretation.",
+              "Do not change criteria afterwards to fit a preferred candidate.",
+              "Discuss scoring differences using the candidate’s actual statements."
+            ]
+          },
+          {
+            "title": "5. Test ownership through a past project",
+            "paragraphs": [
+              "After the case, move to an anonymised project from the candidate’s experience. Ask about the starting situation, their responsibility, a difficult decision and the actual result. This distinguishes participation from genuine ownership of key analysis and recommendations.",
+              "Strong answers are transparent about limits. Candidates should be able to explain which data was unavailable, who made the final decision and what they would now do differently. Do not request confidential appraisals, contracts or customer data."
+            ],
+            "items": [
+              "What was your personal mandate on the project?",
+              "Which decision did you prepare or own?",
+              "Which assumption later proved incorrect?",
+              "How did you adjust the course and explain it to stakeholders?"
+            ],
+            "paragraphs_after": [
+              "A scorecard does not replace professional judgement, but it makes the basis of that judgement visible. Set essential criteria, the case, questions and scoring anchors before the first conversation. Compare the documented evidence afterwards — not job titles, instinct or the most polished performance."
+            ]
+          }
+        ],
+        "source_note": "MuJobs editorial practice guide, published on 26 October 2026. The scorecard is an adaptable selection aid, not legal advice. Germany’s Federal Anti-Discrimination Agency recommends recruitment based on objective requirements, while the Swiss occupational profile for real estate development describes the examination, planning, coordination and delivery of development projects.",
+        "related_label": "Real estate recruitment",
+        "cta_title": "Hiring a project developer?",
+        "cta_text": "Tell us the project type, region and the responsibilities that matter most. MuJobs can support the search brief, direct outreach and an evidence-led shortlist.",
+        "cta_label": "Discuss the role"
+      }
+    },
+    "sources": [
+      {
+        "label": "Antidiskriminierungsstelle des Bundes: Fair in den Job!",
+        "url": "https://www.antidiskriminierungsstelle.de/SharedDocs/downloads/DE/publikationen/Leitfaeden/leitfaden_fair_in_den_job.pdf?__blob=publicationFile&v=3"
+      },
+      {
+        "label": "SFPKIW: Berufsbild Immobilienentwicklung",
+        "url": "https://www.sfpkiw.ch/deutsch/berufsbilder/entwicklung/"
+      }
+    ]
+  },
+  {
     "slug": "wenige-bewerbungen-immobilien-recruiting",
     "published": "2026-10-16",
     "modified": "2026-10-16",
@@ -554,3 +741,4 @@
     ]
   }
 ]
+
