@@ -116,6 +116,11 @@
       "permanent": true
     },
     {
+      "source": "/insight-leiter-immobilienvermarktung-onboarding-90-tage.html",
+      "destination": "/insight-leiter-immobilienvermarktung-onboarding-90-tage",
+      "permanent": true
+    },
+    {
       "source": "/insight-grundstuecksakquisition-interviewleitfaden.html",
       "destination": "/insight-grundstuecksakquisition-interviewleitfaden",
       "permanent": true
@@ -281,6 +286,11 @@
       "permanent": true
     },
     {
+      "source": "/de/insight-leiter-immobilienvermarktung-onboarding-90-tage.html",
+      "destination": "/de/insight-leiter-immobilienvermarktung-onboarding-90-tage",
+      "permanent": true
+    },
+    {
       "source": "/de/insight-grundstuecksakquisition-interviewleitfaden.html",
       "destination": "/de/insight-grundstuecksakquisition-interviewleitfaden",
       "permanent": true
@@ -422,6 +432,10 @@
       "destination": "/insights.html"
     },
     {
+      "source": "/insight-leiter-immobilienvermarktung-onboarding-90-tage",
+      "destination": "/insight-leiter-immobilienvermarktung-onboarding-90-tage.html"
+    },
+    {
       "source": "/insight-grundstuecksakquisition-interviewleitfaden",
       "destination": "/insight-grundstuecksakquisition-interviewleitfaden.html"
     },
@@ -548,6 +562,10 @@
     {
       "source": "/de/einblicke",
       "destination": "/de/insights.html"
+    },
+    {
+      "source": "/de/insight-leiter-immobilienvermarktung-onboarding-90-tage",
+      "destination": "/de/insight-leiter-immobilienvermarktung-onboarding-90-tage.html"
     },
     {
       "source": "/de/insight-grundstuecksakquisition-interviewleitfaden",
