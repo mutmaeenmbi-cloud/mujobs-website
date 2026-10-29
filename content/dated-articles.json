@@ -1,5 +1,206 @@
 [
   {
+    "slug": "projektentwickler-referenzpruefung",
+    "published": "2026-10-29",
+    "modified": "2026-10-29",
+    "locales": {
+      "de": {
+        "title": "Referenzen für Projektentwickler prüfen: Leitfaden für Immobilienunternehmen",
+        "intro": "Mit Einwilligung, klaren Projektfragen und einer einheitlichen Dokumentation prüfen Arbeitgeber persönliche Verantwortung, Entscheidungsumfang und Zusammenarbeit belastbar.",
+        "category": "IMMOBILIEN · PROJEKTENTWICKLUNG",
+        "opening": [
+          "Eine Referenzprüfung sollte keine allgemeine Frage nach Stärken und Schwächen sein. Bei Projektentwicklern ist entscheidend, welche Phase die Person selbst gesteuert hat, welche Entscheidungen sie vorbereitet oder getroffen hat und wie sie Risiken, Termine und Schnittstellen behandelt hat.",
+          "Dieser Leitfaden hilft Immobilienunternehmen, Referenzgespräche strukturiert vorzubereiten. Er ergänzt Interview und Arbeitsprobe, ersetzt aber weder die eigene Eignungsentscheidung noch eine rechtliche Prüfung des Prozesses."
+        ],
+        "sections": [
+          {
+            "title": "1. Zweck, Zeitpunkt und Zustimmung vorab klären",
+            "paragraphs": [
+              "Führen Sie Referenzgespräche erst, wenn die Rolle und die offenen Fragen klar sind. Meist ist der richtige Zeitpunkt nach den fachlichen Interviews und vor der finalen Entscheidung. Dann lässt sich gezielt prüfen, welche Aussage noch bestätigt oder eingeordnet werden muss.",
+              "Informieren Sie den Kandidaten, welche Referenz Sie aus welchem Grund kontaktieren möchten. Nutzen Sie die von ihm freigegebenen Kontaktdaten und halten Sie fest, auf welche Position und welche Projekterfahrung sich das Gespräch bezieht."
+            ],
+            "items": [
+              "Zweck und Umfang der Referenzprüfung schriftlich festlegen.",
+              "Einwilligung oder andere erforderliche Rechtsgrundlage mit HR beziehungsweise Datenschutz klären.",
+              "Name, Funktion und Verhältnis der Referenzperson zum Kandidaten bestätigen.",
+              "Keine aktuellen Arbeitgeber oder Dritte ohne vorherige Freigabe kontaktieren.",
+              "Nur Fragen stellen, die für die konkrete Position relevant sind."
+            ]
+          },
+          {
+            "title": "2. Projekt und persönliche Rolle sauber trennen",
+            "paragraphs": [
+              "Ein erfolgreiches Projekt beweist noch nicht, welchen Anteil ein einzelner Projektentwickler daran hatte. Beginnen Sie deshalb mit überprüfbaren Eckdaten: Projekttyp, Standort, Phase, Zeitraum, Teamstruktur und Berichtslinie.",
+              "Klären Sie anschließend die persönliche Verantwortung. War die Person für Standortanalyse, Wirtschaftlichkeit, Planung, Genehmigung, Vermarktung oder Übergabe zuständig? Hat sie Entscheidungen vorbereitet, selbst getroffen oder lediglich umgesetzt? Diese Trennung verhindert, dass Teamleistungen unbemerkt einer Einzelperson zugerechnet werden."
+            ],
+            "items": [
+              "In welcher Projektphase arbeiteten Sie unmittelbar mit der Person zusammen?",
+              "Welche Ergebnisse und Entscheidungen lagen in ihrer eigenen Verantwortung?",
+              "Welche Aufgaben wurden von Vorgesetzten, Fachplanern oder externen Partnern übernommen?",
+              "Wie groß waren Team, Budget- oder Koordinationsumfang?",
+              "Welche Verantwortung wurde im Verlauf des Projekts erweitert oder reduziert?"
+            ]
+          },
+          {
+            "title": "3. Acht Fragen für ein belastbares Referenzgespräch",
+            "paragraphs": [
+              "Stellen Sie allen Referenzpersonen dieselben Kernfragen. Rückfragen dürfen konkrete Beispiele vertiefen, sollten aber den Bewertungsmaßstab nicht verändern. Bitten Sie um Beobachtungen aus der direkten Zusammenarbeit statt um Vermutungen zur Persönlichkeit.",
+              "Notieren Sie, ob eine Aussage auf eigener Beobachtung, auf Projektdokumenten oder auf Informationen Dritter beruht. So bleibt die Aussagekraft der Referenz sichtbar."
+            ],
+            "items": [
+              "Welche Projektentscheidung hat die Person besonders gut vorbereitet oder gesteuert?",
+              "Wie ging sie mit unvollständigen Standort-, Kosten- oder Terminangaben um?",
+              "Wie machte sie Annahmen, Risiken und notwendige Entscheidungen sichtbar?",
+              "Wie arbeitete sie mit Planung, Behörden, Investment, Bau und Vermarktung zusammen?",
+              "Beschreiben Sie eine Situation, in der sie eine Empfehlung ändern musste.",
+              "Wie zuverlässig waren Dokumentation, Übergaben und Nachverfolgung?",
+              "Welche Art von Führung, Struktur oder Unterstützung half ihr am meisten?",
+              "Für welche Projektphase oder Verantwortung würden Sie die Person erneut einsetzen?"
+            ]
+          },
+          {
+            "title": "4. Aussagen mit der Auswahl-Scorecard verbinden",
+            "paragraphs": [
+              "Bewerten Sie eine Referenz nicht als separates Ja oder Nein. Ordnen Sie jede relevante Aussage den bereits verwendeten Auswahlkriterien zu. Widersprüche zwischen Lebenslauf, Interview und Referenz sind ein Anlass für Klärung, kein automatischer Ausschluss.",
+              "Dokumentieren Sie konkrete Aussagen knapp und sachlich. Vermerken Sie auch, wenn eine Referenzperson einen Bereich nicht beurteilen konnte. Fehlende Beobachtung ist nicht dasselbe wie fehlende Fähigkeit."
+            ],
+            "items": [
+              "Projektverantwortung: persönlicher Beitrag und Entscheidungsspielraum.",
+              "Kaufmännisches Urteil: Umgang mit Kosten, Erlös, Zeit und Risiko.",
+              "Prozesssteuerung: Prioritäten, Abhängigkeiten und nächste Schritte.",
+              "Stakeholder-Management: Zusammenarbeit und Eskalation.",
+              "Dokumentation: klare Annahmen, Entscheidungen und Übergaben."
+            ]
+          },
+          {
+            "title": "5. Datenschutz in Deutschland und der Schweiz berücksichtigen",
+            "paragraphs": [
+              "In Deutschland gelten für personenbezogene Daten unter anderem die Grundsätze der Rechtmäßigkeit, Transparenz, Zweckbindung und Datenminimierung aus Artikel 5 DSGVO. In der Schweiz weist der Eidgenössische Datenschutz- und Öffentlichkeitsbeauftragte ausdrücklich darauf hin, dass Arbeitgeber vor einer Auskunft bei früheren oder aktuellen Arbeitgebern die Zustimmung des Bewerbers einholen müssen und nur stellenrelevante Informationen erfragen dürfen.",
+              "Legen Sie deshalb vor dem ersten Referenzgespräch gemeinsam mit HR oder Datenschutz fest, wer kontaktiert werden darf, welche Fragen zulässig und erforderlich sind, wer die Notizen einsehen kann und wann sie gelöscht werden. Bei grenzüberschreitenden Prozessen sollte der konkrete Datenfluss zusätzlich geprüft werden."
+            ],
+            "items": [
+              "Kandidaten verständlich über Zweck, Kontakt und Umfang informieren.",
+              "Nur erforderliche, positionsbezogene Informationen erheben.",
+              "Zugriff auf Gesprächsnotizen auf den notwendigen Personenkreis begrenzen.",
+              "Ungeprüfte persönliche oder private Angaben nicht in die Auswahl übernehmen.",
+              "Aufbewahrung und Löschung nach dem eigenen Datenschutzprozess festlegen."
+            ],
+            "paragraphs_after": [
+              "Ein gutes Referenzgespräch bestätigt nicht nur Stationen im Lebenslauf. Es zeigt, wie ein Projektentwickler tatsächlich gearbeitet, entschieden und mit anderen Fachbereichen zusammengewirkt hat. Wenn Zweck, Zustimmung, Kernfragen und Dokumentation vorab feststehen, entsteht eine faire und nachvollziehbare zusätzliche Entscheidungsgrundlage."
+            ]
+          }
+        ],
+        "source_note": "Redaktioneller Praxisleitfaden von MuJobs, veröffentlicht am 29. Oktober 2026. Die Fragen sind anpassbare Auswahlhilfen und keine Rechtsberatung. Datenschutzprozesse und Rechtsgrundlagen sind für das konkrete Unternehmen, die Position und den jeweiligen Datenfluss zu prüfen.",
+        "related_label": "Personalberatung für Projektentwicklung",
+        "cta_title": "Sie besetzen eine Position in der Projektentwicklung?",
+        "cta_text": "Teilen Sie uns Projektphase, Region und Verantwortungsumfang mit. MuJobs unterstützt Sie bei Suchprofil, Direktansprache und einer nachvollziehbaren Vorauswahl.",
+        "cta_label": "Position besprechen"
+      },
+      "en": {
+        "title": "Reference checks for real estate project developers: an employer guide",
+        "intro": "With permission, clear project questions and consistent notes, employers can verify personal ownership, decision scope and collaboration more reliably.",
+        "category": "REAL ESTATE · PROJECT DEVELOPMENT",
+        "opening": [
+          "A reference check should go beyond a general question about strengths and weaknesses. For a project developer, employers need to understand which phase the person personally managed, which decisions they prepared or made and how they handled risk, timing and interfaces.",
+          "This guide helps real estate employers prepare structured reference conversations. It complements interviews and work samples, while the employer remains responsible for the suitability decision and the lawful design of the process."
+        ],
+        "sections": [
+          {
+            "title": "1. Set the purpose, timing and permission first",
+            "paragraphs": [
+              "Run reference conversations only after the role and remaining questions are clear. The useful point is usually after the professional interviews and before the final decision, when the employer knows which claim still needs confirmation or context.",
+              "Tell the candidate which reference you want to contact and why. Use contact details they have approved and record the role and project experience the conversation is intended to cover."
+            ],
+            "items": [
+              "Record the purpose and scope of the reference check.",
+              "Confirm consent or another required legal basis with HR or data protection.",
+              "Verify the referee’s name, role and working relationship with the candidate.",
+              "Do not contact current employers or other third parties without prior approval.",
+              "Ask only questions relevant to the specific role."
+            ]
+          },
+          {
+            "title": "2. Separate the project from the person’s contribution",
+            "paragraphs": [
+              "A successful development does not by itself show what one project developer contributed. Start with verifiable context: asset type, location, project phase, period, team structure and reporting line.",
+              "Then clarify personal ownership. Was the candidate responsible for site analysis, feasibility, planning, approvals, marketing or handover? Did they prepare decisions, make them or implement someone else’s direction? This distinction prevents a team result from being attributed to one person."
+            ],
+            "items": [
+              "During which project phase did you work directly with the candidate?",
+              "Which outcomes and decisions were personally theirs?",
+              "Which tasks belonged to managers, consultants or external partners?",
+              "What was the scale of the team, budget or coordination responsibility?",
+              "Which responsibilities expanded or reduced during the project?"
+            ]
+          },
+          {
+            "title": "3. Ask eight questions that produce useful evidence",
+            "paragraphs": [
+              "Use the same core questions with every referee. Follow-ups may explore a concrete example, but should not change the assessment standard. Ask for direct observations rather than assumptions about personality.",
+              "Record whether an answer comes from direct observation, project records or information from someone else. This keeps the strength of the evidence visible."
+            ],
+            "items": [
+              "Which project decision did the candidate prepare or manage particularly well?",
+              "How did they handle incomplete site, cost or schedule information?",
+              "How did they make assumptions, risks and required decisions visible?",
+              "How did they work with planning, authorities, investment, construction and marketing?",
+              "Describe a situation where they had to change a recommendation.",
+              "How dependable were their documentation, handovers and follow-through?",
+              "Which management, structure or support helped them perform best?",
+              "For which project phase or responsibility would you employ them again?"
+            ]
+          },
+          {
+            "title": "4. Connect answers to the selection scorecard",
+            "paragraphs": [
+              "Do not treat a reference as a separate yes-or-no vote. Map each relevant statement to the criteria already used in the hiring process. A difference between the CV, interview and reference calls for clarification rather than automatic rejection.",
+              "Keep notes concise and factual. Also record when a referee could not assess an area. A lack of observation is not evidence of a lack of capability."
+            ],
+            "items": [
+              "Project ownership: personal contribution and decision authority.",
+              "Commercial judgement: treatment of cost, revenue, time and risk.",
+              "Process management: priorities, dependencies and next actions.",
+              "Stakeholder management: collaboration and escalation.",
+              "Documentation: clear assumptions, decisions and handovers."
+            ]
+          },
+          {
+            "title": "5. Apply data protection in Germany and Switzerland",
+            "paragraphs": [
+              "In Germany, personal-data processing is subject to principles including lawfulness, transparency, purpose limitation and data minimisation under Article 5 GDPR. In Switzerland, the Federal Data Protection and Information Commissioner states that employers must obtain an applicant’s consent before requesting information from current or former employers and must keep the information relevant to the role.",
+              "Before the first call, agree with HR or data protection who may be contacted, which questions are necessary, who may see the notes and when they will be deleted. Cross-border recruitment processes also require the specific data flow to be reviewed."
+            ],
+            "items": [
+              "Explain the purpose, contact and scope clearly to the candidate.",
+              "Collect only necessary information related to the position.",
+              "Limit access to reference notes to the people who need them.",
+              "Do not use unverified personal or private information in the decision.",
+              "Set retention and deletion through the organisation’s data process."
+            ],
+            "paragraphs_after": [
+              "A useful reference conversation does more than confirm dates on a CV. It shows how a project developer worked, made decisions and collaborated across disciplines. When purpose, permission, core questions and documentation are defined in advance, the reference becomes a fair and traceable additional source for the hiring decision."
+            ]
+          }
+        ],
+        "source_note": "MuJobs editorial practice guide, published on 29 October 2026. The questions are adaptable selection aids, not legal advice. Data-protection processes and legal bases must be reviewed for the organisation, role and specific data flow.",
+        "related_label": "Project development recruitment",
+        "cta_title": "Hiring for real estate project development?",
+        "cta_text": "Tell us the project phase, region and scope of responsibility. MuJobs can support the search brief, direct outreach and an evidence-led shortlist.",
+        "cta_label": "Discuss the role"
+      }
+    },
+    "sources": [
+      {
+        "label": "EUR-Lex: General Data Protection Regulation, Article 5",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679"
+      },
+      {
+        "label": "FDPIC: Different phases of the employment relationship",
+        "url": "https://www.edoeb.admin.ch/en/different-phases-of-the-employment-relationship"
+      }
+    ]
+  },
+  {
     "slug": "leiter-immobilienvermarktung-onboarding-90-tage",
     "published": "2026-10-28",
     "modified": "2026-10-28",

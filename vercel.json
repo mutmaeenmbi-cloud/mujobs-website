@@ -116,6 +116,11 @@
       "permanent": true
     },
     {
+      "source": "/insight-projektentwickler-referenzpruefung.html",
+      "destination": "/insight-projektentwickler-referenzpruefung",
+      "permanent": true
+    },
+    {
       "source": "/insight-leiter-immobilienvermarktung-onboarding-90-tage.html",
       "destination": "/insight-leiter-immobilienvermarktung-onboarding-90-tage",
       "permanent": true
@@ -286,6 +291,11 @@
       "permanent": true
     },
     {
+      "source": "/de/insight-projektentwickler-referenzpruefung.html",
+      "destination": "/de/insight-projektentwickler-referenzpruefung",
+      "permanent": true
+    },
+    {
       "source": "/de/insight-leiter-immobilienvermarktung-onboarding-90-tage.html",
       "destination": "/de/insight-leiter-immobilienvermarktung-onboarding-90-tage",
       "permanent": true
@@ -432,6 +442,10 @@
       "destination": "/insights.html"
     },
     {
+      "source": "/insight-projektentwickler-referenzpruefung",
+      "destination": "/insight-projektentwickler-referenzpruefung.html"
+    },
+    {
       "source": "/insight-leiter-immobilienvermarktung-onboarding-90-tage",
       "destination": "/insight-leiter-immobilienvermarktung-onboarding-90-tage.html"
     },
@@ -562,6 +576,10 @@
     {
       "source": "/de/einblicke",
       "destination": "/de/insights.html"
+    },
+    {
+      "source": "/de/insight-projektentwickler-referenzpruefung",
+      "destination": "/de/insight-projektentwickler-referenzpruefung.html"
     },
     {
       "source": "/de/insight-leiter-immobilienvermarktung-onboarding-90-tage",
