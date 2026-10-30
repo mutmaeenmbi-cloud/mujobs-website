@@ -116,6 +116,11 @@
       "permanent": true
     },
     {
+      "source": "/insight-grundstuecksakquisition-stellenprofil-briefing.html",
+      "destination": "/insight-grundstuecksakquisition-stellenprofil-briefing",
+      "permanent": true
+    },
+    {
       "source": "/insight-projektentwickler-referenzpruefung.html",
       "destination": "/insight-projektentwickler-referenzpruefung",
       "permanent": true
@@ -291,6 +296,11 @@
       "permanent": true
     },
     {
+      "source": "/de/insight-grundstuecksakquisition-stellenprofil-briefing.html",
+      "destination": "/de/insight-grundstuecksakquisition-stellenprofil-briefing",
+      "permanent": true
+    },
+    {
       "source": "/de/insight-projektentwickler-referenzpruefung.html",
       "destination": "/de/insight-projektentwickler-referenzpruefung",
       "permanent": true
@@ -442,6 +452,10 @@
       "destination": "/insights.html"
     },
     {
+      "source": "/insight-grundstuecksakquisition-stellenprofil-briefing",
+      "destination": "/insight-grundstuecksakquisition-stellenprofil-briefing.html"
+    },
+    {
       "source": "/insight-projektentwickler-referenzpruefung",
       "destination": "/insight-projektentwickler-referenzpruefung.html"
     },
@@ -576,6 +590,10 @@
     {
       "source": "/de/einblicke",
       "destination": "/de/insights.html"
+    },
+    {
+      "source": "/de/insight-grundstuecksakquisition-stellenprofil-briefing",
+      "destination": "/de/insight-grundstuecksakquisition-stellenprofil-briefing.html"
     },
     {
       "source": "/de/insight-projektentwickler-referenzpruefung",
