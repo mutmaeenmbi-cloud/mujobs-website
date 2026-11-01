@@ -116,6 +116,11 @@
       "permanent": true
     },
     {
+      "source": "/insight-projektentwickler-angebot-checkliste.html",
+      "destination": "/insight-projektentwickler-angebot-checkliste",
+      "permanent": true
+    },
+    {
       "source": "/insight-immobilienvermarktung-arbeitsprobe-scorecard.html",
       "destination": "/insight-immobilienvermarktung-arbeitsprobe-scorecard",
       "permanent": true
@@ -301,6 +306,11 @@
       "permanent": true
     },
     {
+      "source": "/de/insight-projektentwickler-angebot-checkliste.html",
+      "destination": "/de/insight-projektentwickler-angebot-checkliste",
+      "permanent": true
+    },
+    {
       "source": "/de/insight-immobilienvermarktung-arbeitsprobe-scorecard.html",
       "destination": "/de/insight-immobilienvermarktung-arbeitsprobe-scorecard",
       "permanent": true
@@ -462,6 +472,10 @@
       "destination": "/insights.html"
     },
     {
+      "source": "/insight-projektentwickler-angebot-checkliste",
+      "destination": "/insight-projektentwickler-angebot-checkliste.html"
+    },
+    {
       "source": "/insight-immobilienvermarktung-arbeitsprobe-scorecard",
       "destination": "/insight-immobilienvermarktung-arbeitsprobe-scorecard.html"
     },
@@ -604,6 +618,10 @@
     {
       "source": "/de/einblicke",
       "destination": "/de/insights.html"
+    },
+    {
+      "source": "/de/insight-projektentwickler-angebot-checkliste",
+      "destination": "/de/insight-projektentwickler-angebot-checkliste.html"
     },
     {
       "source": "/de/insight-immobilienvermarktung-arbeitsprobe-scorecard",

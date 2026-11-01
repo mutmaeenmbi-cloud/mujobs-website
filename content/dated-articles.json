@@ -1,5 +1,208 @@
 [
   {
+    "slug": "projektentwickler-angebot-checkliste",
+    "published": "2026-11-01",
+    "modified": "2026-11-01",
+    "locales": {
+      "de": {
+        "title": "Projektentwickler einstellen: Angebots-Checkliste für Arbeitgeber",
+        "intro": "Ein klares Angebotsbriefing verbindet Projektmandat, Entscheidungsspielraum und Arbeitsbedingungen, bevor der ausgewählte Kandidat zusagt.",
+        "category": "IMMOBILIEN · PROJEKTENTWICKLUNG",
+        "opening": [
+          "Nach dem letzten Interview ist die Auswahl noch nicht abgeschlossen. Ein Projektentwickler muss beurteilen können, welche Projekte, Entscheidungen und Schnittstellen die neue Rolle tatsächlich umfasst. Allgemeine Formulierungen wie „ganzheitliche Projektentwicklung“ helfen dabei wenig.",
+          "Diese Checkliste übersetzt die Ergebnisse aus Interviews und Referenzen in ein konkretes Angebotsbriefing. Sie eignet sich für Immobilienunternehmen in Deutschland und der Schweiz und unterstützt die interne Abstimmung vor dem Vertragsentwurf."
+        ],
+        "sections": [
+          {
+            "title": "1. Die Rolle mit einem Projektmandat beschreiben",
+            "paragraphs": [
+              "Beginnen Sie nicht mit der Stellenbezeichnung, sondern mit den Vorhaben, die die Person übernehmen soll. Benennen Sie Projektart, Region, Phase und den erwarteten Beitrag in den ersten Monaten. Trennen Sie sicher zugesagte Projekte von einer möglichen späteren Pipeline.",
+              "Das Briefing sollte auch zeigen, wo die Verantwortung beginnt und endet. So kann der Kandidat einschätzen, ob die Rolle hauptsächlich analysiert, koordiniert, entscheidet oder ein Projekt bis zur Übergabe steuert."
+            ],
+            "items": [
+              "Welche ein bis drei Projekte oder Projektphasen gehören zum Startmandat?",
+              "Welche Ergebnisse werden in den ersten 90 Tagen erwartet?",
+              "Welche Aufgaben bleiben bei Akquisition, Asset Management, Planung oder Geschäftsführung?",
+              "Welche Annahmen sind noch offen und dürfen nicht als Zusage dargestellt werden?"
+            ]
+          },
+          {
+            "title": "2. Entscheidungsspielraum und Schnittstellen klären",
+            "paragraphs": [
+              "Projektentwickler arbeiten zwischen Grundstück, Nutzungskonzept, Planung, Wirtschaftlichkeit, Behörden und internen Gremien. Das Angebot sollte deshalb nicht nur Aufgaben aufzählen, sondern Entscheidungswege sichtbar machen.",
+              "Definieren Sie, welche Entscheidungen die Person vorbereitet, welche sie selbst treffen kann und welche eine Freigabe benötigen. Benennen Sie außerdem Berichtslinie, Projektteam und die wichtigsten internen sowie externen Partner."
+            ],
+            "items": [
+              "Budget- und Unterschriftsgrenzen sowie erforderliche Freigaben.",
+              "Verantwortung für Machbarkeit, Wirtschaftlichkeit und Projektberichte.",
+              "Führung ohne oder mit disziplinarischer Verantwortung.",
+              "Zusammenarbeit mit Planung, Bau, Vermarktung, Finanzierung und externen Beratern.",
+              "Eskalationsweg bei Zielkonflikten zwischen Kosten, Termin, Qualität und Nutzung."
+            ]
+          },
+          {
+            "title": "3. Arbeitsbedingungen vollständig abstimmen",
+            "paragraphs": [
+              "Klären Sie die praktischen Bedingungen intern, bevor das Angebot ausgesprochen wird. Dazu gehören Vergütung, möglicher Bonus, Arbeitsort, Präsenz, Reisen, Arbeitszeit, Urlaub, Eintrittstermin und Probezeit. Wenn ein Bestandteil noch nicht entschieden ist, kennzeichnen Sie ihn offen statt eine unverbindliche Erwartung entstehen zu lassen.",
+              "Für projektbezogene Rollen sollten Arbeitgeber außerdem erklären, wie häufig Baustellen, Behörden, Partner oder andere Standorte besucht werden und welche Mobilitätsregelungen gelten. Der Umfang muss zur tatsächlichen Rolle passen und darf nicht erst nach der Zusage sichtbar werden."
+            ],
+            "items": [
+              "Fixvergütung und getrennt dargestellte variable Bestandteile.",
+              "Arbeitsort, mobiles Arbeiten und erwartete Präsenz an Projektstandorten.",
+              "Reisegebiet, Häufigkeit und verfügbare Mobilitätsregelungen.",
+              "Arbeitszeit, Urlaub, Probezeit und gewünschter Eintrittstermin.",
+              "Befristung, falls vorgesehen, sowie alle noch offenen Genehmigungen."
+            ]
+          },
+          {
+            "title": "4. Deutschland und Schweiz: Pflichtangaben nicht mit dem Recruiting-Briefing verwechseln",
+            "paragraphs": [
+              "Das Angebotsbriefing ersetzt keinen rechtlich geprüften Arbeitsvertrag und keinen vorgeschriebenen Nachweis. In Deutschland nennt das Nachweisgesetz unter anderem Vertragsparteien, Beginn, Arbeitsort, Tätigkeitsbeschreibung, Probezeit, Vergütung, Arbeitszeit, Urlaub und das Kündigungsverfahren als nachzuweisende wesentliche Bedingungen. Fristen und Formanforderungen müssen für den konkreten Fall geprüft werden.",
+              "In der Schweiz verpflichtet Artikel 330b des Obligationenrechts Arbeitgeber bei unbefristeten oder länger als einen Monat dauernden Arbeitsverhältnissen zur schriftlichen Information über Vertragsparteien, Beginn, Funktion, Lohn und Lohnzuschläge sowie wöchentliche Arbeitszeit, spätestens einen Monat nach Beginn. Weitere vertragliche und gesetzliche Anforderungen können hinzukommen.",
+              "Nutzen Sie dieselben abgestimmten Angaben in Gespräch, Angebotsbriefing und Vertragsunterlagen. Widersprüche zwischen diesen Dokumenten sind ein Signal, die interne Freigabe nochmals zu prüfen."
+            ]
+          },
+          {
+            "title": "5. Die Angebotsentscheidung intern dokumentieren",
+            "paragraphs": [
+              "Fassen Sie vor dem Angebot zusammen, warum der ausgewählte Kandidat die vereinbarten Muss-Kriterien erfüllt und welche Punkte offen bleiben. Das verhindert, dass im letzten Schritt neue Anforderungen auftauchen oder Intervieweindrücke die zuvor vereinbarten Kriterien ersetzen.",
+              "Bestimmen Sie außerdem eine verantwortliche Person für Rückfragen. Vereinbaren Sie einen realistischen Zeitpunkt für die Rückmeldung und halten Sie alternative Kandidaten respektvoll informiert, ohne eine Zusage vorwegzunehmen."
+            ],
+            "items": [
+              "Nachweise zu den Muss-Kriterien mit konkreten Interview- oder Referenzbelegen.",
+              "Offene Punkte und die Person, die sie vor Versand klärt.",
+              "Freigabe von Rolle, Vergütung und Vertragsbedingungen durch die zuständigen Stellen.",
+              "Ein Ansprechpartner für fachliche und vertragliche Rückfragen.",
+              "Ein dokumentierter Kommunikationsplan für alle Kandidaten im Abschlussprozess."
+            ]
+          },
+          {
+            "title": "6. Abschluss-Checkliste vor dem Angebot",
+            "items": [
+              "Startprojekte, Projektphase und erwartete Ergebnisse sind benannt.",
+              "Entscheidungsspielraum, Berichtslinie und Schnittstellen sind geklärt.",
+              "Vergütung, Arbeitsort, Reisen, Arbeitszeit und Eintrittstermin sind intern freigegeben.",
+              "Gespräch, Angebotsbriefing und Vertragsentwurf verwenden dieselben Eckdaten.",
+              "Offene Bedingungen sind ausdrücklich als offen gekennzeichnet.",
+              "Ansprechpartner, Rückmeldezeitpunkt und Kandidatenkommunikation stehen fest."
+            ],
+            "paragraphs_after": [
+              "Ein gutes Angebot ist keine Wiederholung der Stellenanzeige. Es macht das konkrete Mandat und die Bedingungen der Zusammenarbeit verständlich. So können Arbeitgeber und Kandidat offene Punkte vor der Zusage klären und mit einem gemeinsamen Bild der Rolle starten."
+            ]
+          }
+        ],
+        "source_note": "Redaktioneller Praxisleitfaden von MuJobs, veröffentlicht am 1. November 2026. Die Checkliste unterstützt die Recruiting-Abstimmung und ist keine Rechtsberatung. Vertragsunterlagen, Nachweisfristen und Formanforderungen sollten für Unternehmen und Einzelfall geprüft werden.",
+        "related_label": "Projektentwickler rekrutieren",
+        "cta_title": "Sie möchten einen Projektentwickler einstellen?",
+        "cta_text": "Senden Sie uns Projektart, Standort und Verantwortungsumfang. MuJobs unterstützt beim Suchbriefing, der gezielten Direktansprache und einer nachvollziehbaren Vorauswahl.",
+        "cta_label": "Projektentwickler-Suche besprechen"
+      },
+      "en": {
+        "title": "Hiring a real estate developer: an employer offer checklist",
+        "intro": "A clear offer brief connects the project mandate, decision authority and working conditions before the selected candidate accepts.",
+        "category": "REAL ESTATE · DEVELOPMENT",
+        "opening": [
+          "Selection is not finished after the final interview. A real estate developer needs to understand which projects, decisions and interfaces the new role actually covers. General phrases such as “end-to-end development” provide little clarity.",
+          "This checklist turns evidence from interviews and references into a concrete offer brief. It is designed for real estate employers in Germany and Switzerland and supports internal alignment before the employment contract is drafted."
+        ],
+        "sections": [
+          {
+            "title": "1. Describe the role through a project mandate",
+            "paragraphs": [
+              "Start with the work rather than the job title. State the asset type, region, project phase and expected contribution during the first months. Separate confirmed starting projects from a possible future pipeline.",
+              "The brief should also show where responsibility starts and ends. This helps the candidate understand whether the role mainly analyses, coordinates, decides or leads a project through to handover."
+            ],
+            "items": [
+              "Which one to three projects or project phases form the starting mandate?",
+              "Which outcomes are expected during the first 90 days?",
+              "Which responsibilities remain with acquisitions, asset management, planning or the executive team?",
+              "Which assumptions are still open and must not be presented as commitments?"
+            ]
+          },
+          {
+            "title": "2. Clarify decision authority and interfaces",
+            "paragraphs": [
+              "Real estate developers work across land, concept, planning, viability, public authorities and internal committees. The offer should therefore show how decisions are made, not simply list tasks.",
+              "Define which decisions the person prepares, which they may make and which require approval. Also name the reporting line, project team and principal internal and external partners."
+            ],
+            "items": [
+              "Budget and signature limits, plus the approvals required.",
+              "Responsibility for feasibility, viability and project reporting.",
+              "Leadership responsibilities, with or without direct line management.",
+              "Collaboration with planning, construction, marketing, finance and external advisers.",
+              "The escalation route for conflicts between cost, timing, quality and use."
+            ]
+          },
+          {
+            "title": "3. Align the practical working conditions",
+            "paragraphs": [
+              "Settle the practical conditions internally before making the offer. These include compensation, any bonus, work location, on-site presence, travel, working hours, holiday, start date and probation. If an element has not been decided, label it openly rather than creating an informal expectation.",
+              "For project-based roles, employers should also explain how often the employee will visit sites, authorities, partners or other offices and which mobility arrangements apply. The scope should reflect the real role and should not first become visible after acceptance."
+            ],
+            "items": [
+              "Base compensation and separately stated variable elements.",
+              "Work location, remote work and expected presence at project sites.",
+              "Travel region, frequency and available mobility arrangements.",
+              "Working time, holiday, probation and preferred start date.",
+              "Fixed term, if applicable, and any approvals still outstanding."
+            ]
+          },
+          {
+            "title": "4. Germany and Switzerland: do not confuse the offer brief with mandatory information",
+            "paragraphs": [
+              "An offer brief does not replace a legally reviewed employment contract or a mandatory statement. In Germany, the Evidence Act lists essential conditions including the parties, start date, place of work, job description, probation, compensation, working time, holiday and termination procedure. The applicable deadlines and form requirements should be checked for the individual case.",
+              "In Switzerland, Article 330b of the Code of Obligations requires employers in indefinite employment relationships or those lasting more than one month to provide written information on the parties, start date, role, salary and allowances, and weekly working time no later than one month after the start. Further contractual and statutory requirements may apply.",
+              "Use the same agreed information in the conversation, offer brief and contract documents. Contradictions between them are a signal to review the internal approval again."
+            ]
+          },
+          {
+            "title": "5. Document the offer decision internally",
+            "paragraphs": [
+              "Before making the offer, summarise why the selected candidate meets the agreed essential criteria and which points remain open. This helps prevent new requirements appearing at the final stage or interview impressions replacing the criteria agreed earlier.",
+              "Appoint one person to answer questions. Agree a realistic response point and keep alternative candidates respectfully informed without implying an outcome before it is confirmed."
+            ],
+            "items": [
+              "Evidence for each essential criterion from interviews or references.",
+              "Open points and the person who will resolve them before the offer is sent.",
+              "Approval of role, compensation and contract terms by the responsible functions.",
+              "One contact for professional and contractual questions.",
+              "A documented communication plan for every candidate in the final process."
+            ]
+          },
+          {
+            "title": "6. Final checklist before making the offer",
+            "items": [
+              "Starting projects, project phase and expected outcomes are named.",
+              "Decision authority, reporting line and interfaces are clear.",
+              "Compensation, work location, travel, working time and start date are internally approved.",
+              "The conversation, offer brief and draft contract use the same core information.",
+              "Open conditions are explicitly marked as open.",
+              "Contact person, response point and candidate communication are agreed."
+            ],
+            "paragraphs_after": [
+              "A good offer is not a repeat of the job advertisement. It makes the specific mandate and the working conditions understandable. This allows employer and candidate to resolve open points before acceptance and begin with a shared view of the role."
+            ]
+          }
+        ],
+        "source_note": "An editorial MuJobs practice guide published on 1 November 2026. The checklist supports recruitment alignment and is not legal advice. Contract documents, information deadlines and form requirements should be reviewed for the company and individual case.",
+        "related_label": "Recruiting real estate developers",
+        "cta_title": "Are you hiring a real estate developer?",
+        "cta_text": "Send us the asset type, location and scope of responsibility. MuJobs supports employers with the search brief, focused direct outreach and an evidence-led shortlist.",
+        "cta_label": "Discuss the search"
+      }
+    },
+    "sources": [
+      {
+        "label": "Germany: Evidence Act (Nachweisgesetz), Section 2",
+        "url": "https://www.gesetze-im-internet.de/nachwg/BJNR094610995.html"
+      },
+      {
+        "label": "Switzerland: Code of Obligations, Article 330b",
+        "url": "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_330_b"
+      }
+    ]
+  },
+  {
     "slug": "immobilienvermarktung-arbeitsprobe-scorecard",
     "published": "2026-10-31",
     "modified": "2026-10-31",
