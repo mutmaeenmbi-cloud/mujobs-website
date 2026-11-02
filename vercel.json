@@ -116,6 +116,11 @@
       "permanent": true
     },
     {
+      "source": "/insight-stellenanzeige-keine-passenden-bewerbungen-active-sourcing.html",
+      "destination": "/insight-stellenanzeige-keine-passenden-bewerbungen-active-sourcing",
+      "permanent": true
+    },
+    {
       "source": "/insight-projektentwickler-angebot-checkliste.html",
       "destination": "/insight-projektentwickler-angebot-checkliste",
       "permanent": true
@@ -306,6 +311,11 @@
       "permanent": true
     },
     {
+      "source": "/de/insight-stellenanzeige-keine-passenden-bewerbungen-active-sourcing.html",
+      "destination": "/de/insight-stellenanzeige-keine-passenden-bewerbungen-active-sourcing",
+      "permanent": true
+    },
+    {
       "source": "/de/insight-projektentwickler-angebot-checkliste.html",
       "destination": "/de/insight-projektentwickler-angebot-checkliste",
       "permanent": true
@@ -472,6 +482,10 @@
       "destination": "/insights.html"
     },
     {
+      "source": "/insight-stellenanzeige-keine-passenden-bewerbungen-active-sourcing",
+      "destination": "/insight-stellenanzeige-keine-passenden-bewerbungen-active-sourcing.html"
+    },
+    {
       "source": "/insight-projektentwickler-angebot-checkliste",
       "destination": "/insight-projektentwickler-angebot-checkliste.html"
     },
@@ -618,6 +632,10 @@
     {
       "source": "/de/einblicke",
       "destination": "/de/insights.html"
+    },
+    {
+      "source": "/de/insight-stellenanzeige-keine-passenden-bewerbungen-active-sourcing",
+      "destination": "/de/insight-stellenanzeige-keine-passenden-bewerbungen-active-sourcing.html"
     },
     {
       "source": "/de/insight-projektentwickler-angebot-checkliste",

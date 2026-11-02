@@ -131,14 +131,19 @@ def journal_entries():
     topics={'passive-candidate-sourcing':'sourcing','active-sourcing-vs-job-advertising':'sourcing','building-candidate-pipelines':'sourcing','evidence-led-candidate-shortlists':'assessment','recruitment-germany-switzerland':'sourcing'}
     for ar in sorted(dated_articles,key=lambda ar:ar['published'],reverse=True):
         d=ar['locales'][LANG]
-        entries.append({'ar':ar,'data':d,'slug':ar['slug'],'dated':True,'topic':'real-estate','category':t(P('Real estate recruitment','Immobilien-Recruiting'))})
+        topic=ar.get('topic','real-estate')
+        category=d.get('category') if ar.get('topic') else None
+        category=category or (t(P('Active sourcing','Active Sourcing')) if topic=='sourcing' else t(P('Candidate assessment','Kandidatenauswahl')) if topic=='assessment' else t(P('Real estate recruitment','Immobilien-Recruiting')))
+        entries.append({'ar':ar,'data':d,'slug':ar['slug'],'dated':True,'topic':topic,'category':category})
     for i,ar in enumerate(articles):
         d=ar['locales'][LANG];topic=topics.get(ar['slug'],'real-estate')
         entries.append({'ar':ar,'data':d,'slug':ar['slug'],'dated':False,'index':i,'topic':topic,'category':t(P('Candidate assessment','Kandidatenauswahl')) if topic=='assessment' else t(P('Active sourcing','Active Sourcing')) if topic=='sourcing' else t(P('Real estate recruitment','Immobilien-Recruiting'))})
     for en in entries:
         d=en['data'];paras=d['opening'][:]
         if en['dated']:
-            for sec in d['sections']:paras+=sec.get('paragraphs',[])+sec.get('items',[])+sec.get('paragraphs_after',[])
+            for sec in d['sections']:
+                paras+=sec.get('paragraphs',[])+sec.get('items',[])+sec.get('paragraphs_after',[])
+                for group in sec.get('comparison',[]):paras+=group.get('items',[])
         else:paras += [t(sec[1]) for sec in ARTICLE_SECTIONS[en['index']]]
         en['minutes']=max(3,math.ceil(len(' '.join(paras).split())/180))
         en['date']=en['ar'].get('published','')
@@ -157,12 +162,12 @@ def journal_card(en,featured=False):
     if featured:
         out+='<div class="journal-feature-copy"><span class="journal-kicker">'+tx('LATEST ARTICLE','AKTUELLER ARTIKEL')+'</span>'
     out+='<div class="journal-meta"><span>'+e(en['category'])+'</span><span>'+e(date)+'</span></div><h2><a href="'+link+'">'+e(d['title'])+'</a></h2><p>'+e(d['intro'])+'</p><div class="journal-card-bottom"><span>'+e(mins)+'</span><a href="'+link+'" class="journal-read">'+tx('Read article','Artikel lesen')+' <span aria-hidden="true">↗</span></a></div>'
-    if featured:out+='</div><a href="'+link+'" class="journal-feature-image" tabindex="-1" aria-hidden="true"><img src="/preview-assets/architecture.jpg" alt="" width="1400" height="933" fetchpriority="high"><span>'+tx('UNDERSTAND THE SECTOR. RECRUIT WITH PURPOSE.','DIE BRANCHE VERSTEHEN. GEZIELT REKRUTIEREN.')+'</span></a>'
+    if featured:out+='</div><a href="'+link+'" class="journal-feature-image" tabindex="-1" aria-hidden="true"><img src="/preview-assets/workplace.jpg" alt="" width="1400" height="933" fetchpriority="high"><span>'+tx('REACH THE MARKET. START THE RIGHT CONVERSATIONS.','DEN MARKT ERREICHEN. DIE RICHTIGEN GESPRÄCHE STARTEN.')+'</span></a>'
     return out+'</article>'
 
 def insight_pages():
     entries=journal_entries()
-    body='<section class="wrap journal-intro"><div><span class="journal-kicker">'+tx('MUJOBS / INSIGHTS','MUJOBS / EINBLICKE')+'</span><h1>'+tx('Recruitment knowledge.','Recruiting-Wissen.')+'<br><em>'+tx('Better decisions.','Fundierte Entscheidungen.')+'</em></h1></div><p>'+tx('Practical perspectives on specialist recruitment, active sourcing and hiring in the real estate sector. Written for the people making the decisions.','Praxiswissen zu Personalberatung, Active Sourcing und Besetzungen in der Immobilienbranche. Für Unternehmen, die qualifiziertes Personal rekrutieren möchten.')+'</p></section>'
+    body='<section class="wrap journal-intro"><div><span class="journal-kicker">'+tx('MUJOBS / INSIGHTS','MUJOBS / EINBLICKE')+'</span><h1>'+tx('Recruitment knowledge.','Recruiting-Wissen.')+'<br><em>'+tx('Better decisions.','Fundierte Entscheidungen.')+'</em></h1></div><p>'+tx('Practical guidance for founders, hiring managers and HR teams recruiting specialist and leadership talent across technology, marketing, commercial functions and real estate.','Praxiswissen für Gründer, Hiring Manager und HR-Teams, die Fach- und Führungskräfte in Technologie, Marketing, kaufmännischen Funktionen und Immobilien rekrutieren.')+'</p></section>'
     body+='<section class="wrap journal-library" aria-label="'+tx('Articles and guides','Artikel und Leitfäden')+'"><div class="journal-tools"><div class="journal-filters" hidden aria-label="'+tx('Filter by topic','Nach Thema filtern')+'">'
     for key,label in [('all',P('All articles','Alle Artikel')),('real-estate',P('Real estate','Immobilien')),('sourcing',P('Active sourcing','Active Sourcing')),('assessment',P('Selection','Auswahl'))]:
         body+=f'<button type="button" data-blog-filter="{key}" aria-pressed="'+('true' if key=='all' else 'false')+'">'+e(t(label))+'</button>'
@@ -175,7 +180,15 @@ def insight_pages():
 def journal_article(en,entries):
     d=en['data'];ar=en['ar'];file='insight-'+en['slug']+'.html';mins=str(en['minutes'])+' '+t(P('min read','Min. Lesezeit'))
     if en['dated']:
-        sections=[(sec['title'],''.join(p(x) for x in sec.get('paragraphs',[]))+bullets(sec.get('items',[]))+''.join(p(x) for x in sec.get('paragraphs_after',[]))) for sec in d['sections']]
+        sections=[]
+        for sec in d['sections']:
+            content=''.join(p(x) for x in sec.get('paragraphs',[]))+bullets(sec.get('items',[]))
+            if sec.get('comparison'):
+                content+='<div class="journal-comparison">'+''.join('<div><span class="journal-kicker">'+e(group['label'])+'</span>'+bullets(group.get('items',[]))+'</div>' for group in sec['comparison'])+'</div>'
+            if sec.get('links'):
+                content+='<nav class="journal-inline-links" aria-label="'+tx('Related MuJobs services','Passende MuJobs-Leistungen')+'">'+''.join('<a href="'+e(link['path'])+'">'+e(link['label'])+' ↗</a>' for link in sec['links'])+'</nav>'
+            content+=''.join(p(x) for x in sec.get('paragraphs_after',[]))
+            sections.append((sec['title'],content))
     else:sections=[(t(head),p(t(para))) for head,para in ARTICLE_SECTIONS[en['index']]]
     body='<div class="wrap journal-back">'+a('insights.html',t(P('← All insights','← Alle Einblicke')))+'</div><header class="wrap journal-article-header"><div class="journal-meta"><span>'+e(en['category'])+'</span><span>'+e(journal_date(en['date']))+'</span><span>'+e(mins)+'</span></div><h1>'+e(d['title'])+'</h1><p class="journal-deck">'+e(d['intro'])+'</p><div class="journal-author"><span class="journal-avatar" aria-hidden="true">m.</span><div><strong>MuJobs</strong><span>'+tx('Specialist recruitment · Germany & Switzerland','Personalberatung · Deutschland & Schweiz')+'</span></div></div></header>'
     body+='<div class="wrap journal-article-layout"><aside class="journal-toc"><details open><summary>'+tx('In this article','In diesem Artikel')+'</summary><nav aria-label="'+tx('Article contents','Artikelinhalt')+'">'+''.join('<a href="#part-'+str(i)+'"><span>'+str(i+1).zfill(2)+'</span>'+e(re.sub(r'^\d+\.\s*','',head))+'</a>' for i,(head,content) in enumerate(sections))+'</nav></details><div class="journal-aside-note"><span class="journal-kicker">'+tx('YOUR NEXT HIRE','IHRE NÄCHSTE BESETZUNG')+'</span><p>'+tx('Recruitment starts with a clear brief.','Gutes Recruiting beginnt mit klaren Anforderungen.')+'</p><a href="mailto:mujtaba@mujobs.de">'+tx('Talk to MuJobs ↗','Mit MuJobs sprechen ↗')+'</a></div></aside><article class="journal-reading"><div class="journal-opening">'+''.join(p(x) for x in d['opening'])+'</div>'
@@ -185,7 +198,9 @@ def journal_article(en,entries):
         title,copy,label=d['cta_title'],d['cta_text'],d['cta_label']
     else:title=t(P('Turn the guidance into a recruitment brief.','Nutzen Sie dieses Wissen für Ihre nächste Besetzung.'));copy=t(P('Tell us about your vacancy and the experience you need. We will help you define a clear brief and a focused recruitment approach.','Beschreiben Sie uns Ihre offene Position und die erforderliche Erfahrung. Gemeinsam entwickeln wir ein klares Anforderungsprofil und einen gezielten Recruiting-Ansatz.'));label=t(P('Discuss your vacancy','Personalbedarf besprechen'))
     body+='<aside class="journal-article-cta"><span class="journal-kicker">'+tx('TAKE THE NEXT STEP','DER NÄCHSTE SCHRITT')+'</span><h2>'+e(title)+'</h2>'+p(copy)+'<a class="button light" href="mailto:mujtaba@mujobs.de">'+e(label)+' ↗</a></aside></article></div>'
-    related=[x for x in entries if x['slug']!=en['slug']];related.sort(key=lambda x:x['topic']!=en['topic'])
+    related_pool=entries if en['slug']=='stellenanzeige-keine-passenden-bewerbungen-active-sourcing' else [x for x in entries if x['slug']!='stellenanzeige-keine-passenden-bewerbungen-active-sourcing']
+    related=[x for x in related_pool if x['slug']!=en['slug']]
+    related.sort(key=lambda x:x['topic']!=en['topic'])
     body+='<section class="wrap journal-related"><div class="journal-grid-heading"><h2>'+tx('Continue reading','Weitere Einblicke')+'</h2>'+a('insights.html',t(P('All articles ↗','Alle Artikel ↗')),'text-link')+'</div><div class="journal-grid">'+''.join(journal_card(x) for x in related[:3])+'</div></section>'
     schema={'@context':'https://schema.org','@type':'Article','headline':d['title'],'description':d['intro'],'inLanguage':LANG,'author':{'@type':'Organization','name':'MuJobs','url':BASE},'publisher':{'@type':'Organization','name':'MuJobs'},'mainEntityOfPage':BASE+url(file)}
     if en['dated']:schema.update(datePublished=ar['published'],dateModified=ar['modified'])

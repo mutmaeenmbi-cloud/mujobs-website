@@ -1,5 +1,259 @@
 [
   {
+    "slug": "stellenanzeige-keine-passenden-bewerbungen-active-sourcing",
+    "published": "2026-11-02",
+    "modified": "2026-11-02",
+    "topic": "sourcing",
+    "locales": {
+      "de": {
+        "title": "Stellenanzeige online, aber keine passenden Bewerbungen? So erweitert Active Sourcing den Kandidatenmarkt",
+        "intro": "Wenn eine Vakanz sichtbar ist, aber die passenden Profile ausbleiben, braucht es meist mehr als eine weitere Veröffentlichung: ein klares Suchprofil, gezielte Marktrecherche und persönliche Direktansprache.",
+        "category": "ACTIVE SOURCING · ARBEITGEBER",
+        "opening": [
+          "Die Stellenanzeige ist veröffentlicht. Es kommen Bewerbungen – aber nicht die Erfahrung, die das Team wirklich benötigt. Oder die Resonanz bleibt ganz aus. Währenddessen übernehmen Kolleginnen und Kollegen zusätzliche Aufgaben, Entscheidungen werden vertagt und wichtige Projekte warten auf die fehlende Kompetenz.",
+          "Das bedeutet nicht automatisch, dass es keine geeigneten Menschen gibt. Eine Anzeige erreicht vor allem Personen, die gerade suchen und das Inserat finden. MuJobs ergänzt diesen Kanal durch gezielte Marktrecherche und persönliche Ansprache von passenden Fach- und Führungskräften – auch wenn sie nicht aktiv auf Stellenportalen unterwegs sind."
+        ],
+        "sections": [
+          {
+            "title": "1. Erst klären, warum die Anzeige nicht die richtigen Menschen erreicht",
+            "paragraphs": [
+              "Mehr Reichweite löst kein ungenaues Anforderungsprofil. Bevor MuJobs mit der Direktansprache beginnt, klären wir gemeinsam, welche Verantwortung die neue Person tatsächlich übernimmt, welche Erfahrung nachweisbar sein muss und welche Bedingungen flexibel sind.",
+              "Dabei prüfen wir drei mögliche Ursachen: Ist die Rolle verständlich beschrieben? Passt das Angebot zum erreichbaren Markt? Und sucht das Unternehmen in den richtigen Berufsbezeichnungen, Regionen und Nachbarbranchen? Diese Diagnose verhindert, dass dieselbe unklare Suche lediglich auf einem weiteren Kanal wiederholt wird."
+            ],
+            "items": [
+              "Welche Ergebnisse soll die Person in der Rolle verantworten?",
+              "Welche zwei oder drei Erfahrungen sind unverzichtbar – und was kann erlernt werden?",
+              "Welche Arbeitsorte, Präsenzregeln, Sprachen oder Vergütungsrahmen begrenzen den Markt?",
+              "Welche alternativen Titel und angrenzenden Branchen beschreiben vergleichbare Erfahrung?",
+              "Warum sollte eine passende Person ein Gespräch über genau diese Aufgabe führen?"
+            ]
+          },
+          {
+            "title": "2. Stellenanzeige und Active Sourcing erfüllen unterschiedliche Aufgaben",
+            "paragraphs": [
+              "Eine Stellenanzeige bleibt sinnvoll: Sie macht die Vakanz öffentlich auffindbar und gibt aktiv Suchenden eine klare Möglichkeit zur Bewerbung. Sie sollte deshalb präzise, glaubwürdig und aus Kandidatensicht verständlich sein.",
+              "Active Sourcing beginnt dort, wo Abwarten nicht genügt. MuJobs erstellt aus dem Suchbriefing eine Marktübersicht, identifiziert relevante Profile und spricht ausgewählte Personen persönlich an. Die Nachricht erklärt, warum gerade ihr Hintergrund zur Aufgabe passen könnte, statt eine allgemeine Massennachricht zu versenden."
+            ],
+            "comparison": [
+              {
+                "label": "Stellenanzeige",
+                "items": [
+                  "Erreicht Menschen, die aktiv suchen oder das Inserat entdecken.",
+                  "Erklärt Rolle, Unternehmen und Bewerbungsweg öffentlich.",
+                  "Erzeugt einen eingehenden Bewerbungsstrom, der intern geprüft werden muss."
+                ]
+              },
+              {
+                "label": "Gezieltes Active Sourcing mit MuJobs",
+                "items": [
+                  "Kartiert den relevanten Markt nach Erfahrung, Region und Rolle.",
+                  "Erreicht ausgewählte Personen mit einer persönlichen Ansprache.",
+                  "Prüft Interesse und relevante Erfahrung vor der Vorauswahl."
+                ]
+              }
+            ]
+          },
+          {
+            "title": "3. So baut MuJobs eine gezielte Suche auf",
+            "paragraphs": [
+              "MuJobs verbindet fünf Arbeitsschritte zu einem nachvollziehbaren Suchprozess. Zuerst übersetzen wir den Personalbedarf in ein klares Briefing. Danach recherchieren wir Unternehmen, Funktionsbereiche und Profile, die als relevante Talentmärkte infrage kommen.",
+              "Die Ansprache wird auf Rolle und Person abgestimmt. Rückmeldungen liefern zugleich Marktsignale: Unklare Verantwortlichkeiten, ein zu enger Suchradius oder fehlende Rahmenbedingungen werden sichtbar und können mit dem Arbeitgeber besprochen werden. Interessierte Personen werden anhand der vereinbarten Kriterien geprüft, bevor MuJobs eine begründete Vorauswahl erstellt."
+            ],
+            "items": [
+              "Rolle klären: Verantwortung, Muss-Kriterien und flexible Punkte festlegen.",
+              "Markt abbilden: passende Titel, Arbeitgeber, Regionen und Nachbarfelder recherchieren.",
+              "Persönlich ansprechen: den konkreten Bezug zwischen Profil und Aufgabe erklären.",
+              "Relevant vorprüfen: Interesse, Erfahrung, Standort und offene Fragen erfassen.",
+              "Fundiert auswählen: passende Profile mit Begründung und sichtbaren Klärungspunkten vorstellen."
+            ],
+            "links": [
+              {"label": "Recruiting für Technologie-Positionen", "path": "/de/technologie"},
+              {"label": "Marketing- und Kreativrollen besetzen", "path": "/de/marketing-kreation"},
+              {"label": "Vertriebspositionen rekrutieren", "path": "/de/vertrieb"},
+              {"label": "Immobilien-Recruiting", "path": "/de/immobilien"}
+            ]
+          },
+          {
+            "title": "4. Wann gezielte Direktansprache besonders sinnvoll ist",
+            "paragraphs": [
+              "Active Sourcing ist kein Ersatz für jede Stellenanzeige. Es ist besonders hilfreich, wenn die benötigte Erfahrung selten im eingehenden Bewerberfeld erscheint, wenn eine Schlüsselrolle über längere Zeit offen bleibt oder wenn dem internen Team die Kapazität für strukturierte Marktrecherche und konsequente Nachverfolgung fehlt.",
+              "Die Arbeitsmarktdaten sollten dabei differenziert gelesen werden. Die Bundesagentur für Arbeit weist für 2025 Engpässe in 157 Berufsgattungen aus, betont aber zugleich, dass kein allgemeiner Arbeitskräftemangel belegt ist. Entscheidend sind Beruf, Qualifikation und Region. Auch das Schweizer Bundesamt für Statistik beobachtet Rekrutierungsschwierigkeiten nach Branche und Ausbildungsniveau. Eine konkrete Suche braucht deshalb einen konkreten Markt – keine pauschale Fachkräftemangel-Erzählung."
+            ],
+            "items": [
+              "Eine geschäftskritische Fach- oder Führungsposition bleibt trotz Veröffentlichung offen.",
+              "Es gibt Bewerbungen, aber die entscheidende Erfahrung fehlt wiederholt.",
+              "Das interne Recruiting kann die nötige Marktanalyse und persönliche Ansprache nicht kontinuierlich leisten.",
+              "Die passenden Profile arbeiten häufig in vergleichbaren Rollen und bewerben sich nicht aktiv.",
+              "Die Vakanz verzögert Projekte, Kundenarbeit, Umsatzverantwortung oder wichtige interne Entscheidungen."
+            ]
+          },
+          {
+            "title": "5. Was Arbeitgeber vor dem Start bereitstellen sollten",
+            "paragraphs": [
+              "Eine gute Direktansprache braucht mehr als eine Stellenbeschreibung. Entscheider sollten vor dem Start die tatsächliche Verantwortung, die Berichtslinie, den Arbeitsort, die wichtigsten Bedingungen und den Auswahlprozess abstimmen. Ebenso wichtig ist eine verlässliche Rückmeldung zu vorgestellten Profilen.",
+              "MuJobs nutzt diese Informationen, um den Markt präzise einzugrenzen und Kandidatenfragen glaubwürdig zu beantworten. Wenn ein Punkt noch offen ist, wird er als offen behandelt – nicht als Versprechen. Das schützt die Qualität der Ansprache und erleichtert spätere Gespräche."
+            ],
+            "items": [
+              "Ein fachlicher Ansprechpartner mit Entscheidungskompetenz.",
+              "Ein priorisiertes Anforderungsprofil statt einer langen Wunschliste.",
+              "Transparente Informationen zu Standort, Arbeitsmodell und Auswahlprozess.",
+              "Zeitnahe, konkrete Rückmeldung zu vorgestellten Profilen.",
+              "Bereitschaft, das Suchprofil anhand belastbarer Marktreaktionen zu justieren."
+            ]
+          },
+          {
+            "title": "6. Entscheidungshilfe: Reicht die Anzeige oder braucht es einen aktiven Suchauftrag?",
+            "items": [
+              "Die Anzeige läuft seit einer angemessenen Zeit, ohne dass die Muss-Kriterien im Bewerberfeld sichtbar werden.",
+              "Die Rolle ist intern klar beschrieben und die Rahmenbedingungen sind abgestimmt.",
+              "Relevante Profile lassen sich in bestimmten Unternehmen, Funktionen oder Regionen eingrenzen.",
+              "Das Unternehmen kann qualifizierte Gespräche und Feedback zeitnah organisieren.",
+              "Die Kosten einer weiter offenen Position sind höher als der Aufwand einer strukturierten Direktansprache."
+            ],
+            "paragraphs_after": [
+              "Wenn mehrere Punkte zutreffen, sollte die Anzeige nicht einfach nur länger online bleiben. MuJobs kann den erreichbaren Kandidatenmarkt strukturieren, relevante Personen gezielt ansprechen und eine begründete Vorauswahl aufbauen. Der erste Schritt ist ein kurzes Gespräch über die Rolle, den bisherigen Bewerbungsmarkt und die Hindernisse der Suche."
+            ]
+          }
+        ],
+        "source_note": "Redaktioneller Praxisbeitrag von MuJobs, veröffentlicht am 2. November 2026. Die genannten Arbeitsmarktdaten beschreiben den Gesamtmarkt und ersetzen keine rollen- und regionsspezifische Analyse.",
+        "related_label": "Active Sourcing für Fach- und Führungspositionen",
+        "cta_title": "Ihre Stellenanzeige bringt nicht die passenden Profile?",
+        "cta_text": "Senden Sie uns die Position, den Standort und die bisherigen Schwierigkeiten. MuJobs klärt das Suchprofil, recherchiert den relevanten Markt, spricht passende Personen gezielt an und erstellt eine nachvollziehbare Vorauswahl.",
+        "cta_label": "Personalbedarf mit MuJobs besprechen"
+      },
+      "en": {
+        "title": "Your job advert is live, but suitable applicants are missing: how active sourcing expands the candidate market",
+        "intro": "When a vacancy is visible but the right profiles do not apply, another posting is rarely enough. Employers need a clear search brief, focused market research and personal outreach.",
+        "category": "ACTIVE SOURCING · EMPLOYERS",
+        "opening": [
+          "The job advert is live. Applications arrive, but not the experience the team actually needs. Or there is almost no response. Meanwhile, colleagues absorb extra work, decisions are postponed and important projects wait for the missing expertise.",
+          "This does not automatically mean that suitable people do not exist. An advert mainly reaches people who are currently searching and find the posting. MuJobs adds focused market research and personal outreach to relevant specialists and leaders, including people who are not actively browsing job boards."
+        ],
+        "sections": [
+          {
+            "title": "1. First identify why the advert is not reaching the right people",
+            "paragraphs": [
+              "More reach does not solve an imprecise role brief. Before MuJobs starts direct outreach, we clarify what the new hire will actually own, which experience must be evidenced and which conditions are flexible.",
+              "We examine three possible causes: Is the role understandable? Does the offer fit the reachable market? Is the company searching across the right job titles, locations and adjacent sectors? This diagnosis prevents the same unclear search from simply being repeated on another channel."
+            ],
+            "items": [
+              "Which outcomes will the person own in the role?",
+              "Which two or three experiences are essential, and what can be learned?",
+              "Which location, presence, language or compensation constraints shape the market?",
+              "Which alternative titles and adjacent sectors contain comparable experience?",
+              "Why should a relevant person discuss this specific opportunity?"
+            ]
+          },
+          {
+            "title": "2. Job advertising and active sourcing do different jobs",
+            "paragraphs": [
+              "A job advert remains useful. It makes the vacancy publicly discoverable and gives active jobseekers a clear route to apply. It should therefore be precise, credible and understandable from the candidate's perspective.",
+              "Active sourcing begins where waiting is not enough. MuJobs turns the search brief into a market map, identifies relevant profiles and approaches selected people personally. The message explains why their particular background may fit the work instead of sending a generic mass message."
+            ],
+            "comparison": [
+              {
+                "label": "Job advert",
+                "items": [
+                  "Reaches people who are actively searching or discover the posting.",
+                  "Explains the role, employer and application route publicly.",
+                  "Creates an inbound application flow that must be screened internally."
+                ]
+              },
+              {
+                "label": "Focused active sourcing with MuJobs",
+                "items": [
+                  "Maps the relevant market by experience, location and role.",
+                  "Reaches selected people through personal outreach.",
+                  "Checks interest and relevant experience before shortlisting."
+                ]
+              }
+            ]
+          },
+          {
+            "title": "3. How MuJobs builds a focused search",
+            "paragraphs": [
+              "MuJobs connects five steps into a transparent search process. We first turn the hiring need into a clear brief. We then research the employers, functions and profiles that may form the relevant talent market.",
+              "Outreach is tailored to the role and the person. Responses also provide market signals: unclear responsibilities, an overly narrow search radius or missing conditions become visible and can be discussed with the employer. Interested people are assessed against the agreed criteria before MuJobs creates a reasoned shortlist."
+            ],
+            "items": [
+              "Clarify the role: agree ownership, essential criteria and flexible points.",
+              "Map the market: research relevant titles, employers, locations and adjacent fields.",
+              "Approach personally: explain the specific connection between profile and opportunity.",
+              "Qualify what matters: establish interest, experience, location and open questions.",
+              "Shortlist with evidence: present relevant profiles with reasoning and visible points to clarify."
+            ],
+            "links": [
+              {"label": "Recruiting technology professionals", "path": "/technology"},
+              {"label": "Hiring marketing and creative talent", "path": "/creative-marketing"},
+              {"label": "Recruiting sales professionals", "path": "/sales"},
+              {"label": "Real estate recruitment", "path": "/real-estate"}
+            ]
+          },
+          {
+            "title": "4. When focused outreach is particularly useful",
+            "paragraphs": [
+              "Active sourcing is not a replacement for every job advert. It is particularly useful when the required experience rarely appears in the inbound applicant pool, when a key role remains open, or when the internal team lacks capacity for structured market research and consistent follow-up.",
+              "Labour-market evidence should be read carefully. Germany's Federal Employment Agency identified shortages in 157 occupational categories for 2025, while also stating that the evidence does not support a general labour shortage. Occupation, qualification and region matter. The Swiss Federal Statistical Office likewise monitors recruitment difficulty by sector and education level. A concrete vacancy therefore needs a concrete market analysis, not a blanket skills-shortage narrative."
+            ],
+            "items": [
+              "A business-critical specialist or leadership role remains open despite advertising.",
+              "Applications arrive, but the essential experience is repeatedly missing.",
+              "Internal recruitment cannot sustain the necessary market research and personal follow-up.",
+              "Relevant profiles are usually employed in comparable roles and are not actively applying.",
+              "The vacancy delays projects, customer work, revenue ownership or important internal decisions."
+            ]
+          },
+          {
+            "title": "5. What employers should provide before the search starts",
+            "paragraphs": [
+              "Effective direct outreach needs more than a job description. Decision-makers should align the actual ownership, reporting line, location, principal conditions and selection process before the search begins. Reliable feedback on introduced profiles matters too.",
+              "MuJobs uses this information to focus the market and answer candidate questions credibly. If something remains undecided, it is treated as open rather than presented as a promise. This protects the quality of the approach and makes later conversations easier."
+            ],
+            "items": [
+              "A subject-matter contact with decision authority.",
+              "A prioritised brief rather than a long wish list.",
+              "Transparent information about location, working model and selection process.",
+              "Timely, specific feedback on introduced profiles.",
+              "Readiness to adjust the search in response to credible market evidence."
+            ]
+          },
+          {
+            "title": "6. Decision check: is the advert enough, or is an active search needed?",
+            "items": [
+              "The advert has run for a reasonable period without the essential criteria appearing in the applicant pool.",
+              "The role is clear internally and the main conditions are aligned.",
+              "Relevant profiles can be narrowed to particular employers, functions or locations.",
+              "The company can arrange qualified conversations and feedback promptly.",
+              "The cost of the role remaining open outweighs the effort of structured direct outreach."
+            ],
+            "paragraphs_after": [
+              "If several points apply, the advert should not simply remain online for longer. MuJobs can structure the reachable candidate market, approach relevant people directly and build a reasoned shortlist. The first step is a short discussion about the role, the applicant market so far and the obstacles to the search."
+            ]
+          }
+        ],
+        "source_note": "An editorial MuJobs practice article published on 2 November 2026. The labour-market evidence describes the wider market and does not replace a role- and region-specific analysis.",
+        "related_label": "Active sourcing for specialist and leadership roles",
+        "cta_title": "Is your job advert failing to attract the right profiles?",
+        "cta_text": "Send us the role, location and challenges so far. MuJobs clarifies the brief, researches the relevant market, approaches suitable people directly and creates a transparent shortlist.",
+        "cta_label": "Discuss your hiring need with MuJobs"
+      }
+    },
+    "sources": [
+      {
+        "label": "Bundesagentur für Arbeit: Fachkräfteengpassanalyse 2025",
+        "url": "https://statistik.arbeitsagentur.de/DE/Statischer-Content/Statistiken/Themen-im-Fokus/Fachkraeftebedarf/Fachkraefteengpassanalyse/Fachkraefteengpassanalyse/"
+      },
+      {
+        "label": "Bundesagentur für Arbeit: Stellenangebote online veröffentlichen",
+        "url": "https://www.arbeitsagentur.de/unternehmen/arbeitskraefte/stellenangebot-online-aufgeben"
+      },
+      {
+        "label": "Bundesamt für Statistik: Schwierigkeiten bei der Personalrekrutierung",
+        "url": "https://www.pxweb-admin-a.bfs.admin.ch/pxweb/de/px-x-0602000000_107/-/px-x-0602000000_107.px/"
+      }
+    ]
+  },
+  {
     "slug": "projektentwickler-angebot-checkliste",
     "published": "2026-11-01",
     "modified": "2026-11-01",
