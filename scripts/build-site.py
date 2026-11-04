@@ -162,7 +162,10 @@ def journal_card(en,featured=False):
     if featured:
         out+='<div class="journal-feature-copy"><span class="journal-kicker">'+tx('LATEST ARTICLE','AKTUELLER ARTIKEL')+'</span>'
     out+='<div class="journal-meta"><span>'+e(en['category'])+'</span><span>'+e(date)+'</span></div><h2><a href="'+link+'">'+e(d['title'])+'</a></h2><p>'+e(d['intro'])+'</p><div class="journal-card-bottom"><span>'+e(mins)+'</span><a href="'+link+'" class="journal-read">'+tx('Read article','Artikel lesen')+' <span aria-hidden="true">↗</span></a></div>'
-    if featured:out+='</div><a href="'+link+'" class="journal-feature-image" tabindex="-1" aria-hidden="true"><img src="/preview-assets/workplace.jpg" alt="" width="1400" height="933" fetchpriority="high"><span>'+tx('REACH THE MARKET. START THE RIGHT CONVERSATIONS.','DEN MARKT ERREICHEN. DIE RICHTIGEN GESPRÄCHE STARTEN.')+'</span></a>'
+    if featured:
+        hero_image=en['ar'].get('hero_image','/preview-assets/workplace.jpg')
+        hero_caption=d.get('hero_caption',t(P('Reach the market. Start the right conversations.','Den Markt erreichen. Die richtigen Gespräche starten.')))
+        out+='</div><a href="'+link+'" class="journal-feature-image" tabindex="-1" aria-hidden="true"><img src="'+e(hero_image)+'" alt="" width="1400" height="933" fetchpriority="high"><span>'+e(hero_caption)+'</span></a>'
     return out+'</article>'
 
 def insight_pages():
@@ -198,7 +201,13 @@ def journal_article(en,entries):
         title,copy,label=d['cta_title'],d['cta_text'],d['cta_label']
     else:title=t(P('Turn the guidance into a recruitment brief.','Nutzen Sie dieses Wissen für Ihre nächste Besetzung.'));copy=t(P('Tell us about your vacancy and the experience you need. We will help you define a clear brief and a focused recruitment approach.','Beschreiben Sie uns Ihre offene Position und die erforderliche Erfahrung. Gemeinsam entwickeln wir ein klares Anforderungsprofil und einen gezielten Recruiting-Ansatz.'));label=t(P('Discuss your vacancy','Personalbedarf besprechen'))
     body+='<aside class="journal-article-cta"><span class="journal-kicker">'+tx('TAKE THE NEXT STEP','DER NÄCHSTE SCHRITT')+'</span><h2>'+e(title)+'</h2>'+p(copy)+'<a class="button light" href="mailto:mujtaba@mujobs.de">'+e(label)+' ↗</a></aside></article></div>'
-    related_pool=entries if en['slug']=='stellenanzeige-keine-passenden-bewerbungen-active-sourcing' else [x for x in entries if x['slug']!='stellenanzeige-keine-passenden-bewerbungen-active-sourcing']
+    sales_led_slugs={'stellenanzeige-keine-passenden-bewerbungen-active-sourcing','zu-viele-lebenslaeufe-fundierte-vorauswahl'}
+    if en['slug']=='zu-viele-lebenslaeufe-fundierte-vorauswahl':
+        related_pool=entries
+    elif en['slug']=='stellenanzeige-keine-passenden-bewerbungen-active-sourcing':
+        related_pool=[x for x in entries if x['slug']!='zu-viele-lebenslaeufe-fundierte-vorauswahl']
+    else:
+        related_pool=[x for x in entries if x['slug'] not in sales_led_slugs]
     related=[x for x in related_pool if x['slug']!=en['slug']]
     related.sort(key=lambda x:x['topic']!=en['topic'])
     body+='<section class="wrap journal-related"><div class="journal-grid-heading"><h2>'+tx('Continue reading','Weitere Einblicke')+'</h2>'+a('insights.html',t(P('All articles ↗','Alle Artikel ↗')),'text-link')+'</div><div class="journal-grid">'+''.join(journal_card(x) for x in related[:3])+'</div></section>'

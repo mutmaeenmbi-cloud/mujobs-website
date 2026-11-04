@@ -116,6 +116,11 @@
       "permanent": true
     },
     {
+      "source": "/insight-zu-viele-lebenslaeufe-fundierte-vorauswahl.html",
+      "destination": "/insight-zu-viele-lebenslaeufe-fundierte-vorauswahl",
+      "permanent": true
+    },
+    {
       "source": "/insight-stellenanzeige-keine-passenden-bewerbungen-active-sourcing.html",
       "destination": "/insight-stellenanzeige-keine-passenden-bewerbungen-active-sourcing",
       "permanent": true
@@ -311,6 +316,11 @@
       "permanent": true
     },
     {
+      "source": "/de/insight-zu-viele-lebenslaeufe-fundierte-vorauswahl.html",
+      "destination": "/de/insight-zu-viele-lebenslaeufe-fundierte-vorauswahl",
+      "permanent": true
+    },
+    {
       "source": "/de/insight-stellenanzeige-keine-passenden-bewerbungen-active-sourcing.html",
       "destination": "/de/insight-stellenanzeige-keine-passenden-bewerbungen-active-sourcing",
       "permanent": true
@@ -482,6 +492,10 @@
       "destination": "/insights.html"
     },
     {
+      "source": "/insight-zu-viele-lebenslaeufe-fundierte-vorauswahl",
+      "destination": "/insight-zu-viele-lebenslaeufe-fundierte-vorauswahl.html"
+    },
+    {
       "source": "/insight-stellenanzeige-keine-passenden-bewerbungen-active-sourcing",
       "destination": "/insight-stellenanzeige-keine-passenden-bewerbungen-active-sourcing.html"
     },
@@ -632,6 +646,10 @@
     {
       "source": "/de/einblicke",
       "destination": "/de/insights.html"
+    },
+    {
+      "source": "/de/insight-zu-viele-lebenslaeufe-fundierte-vorauswahl",
+      "destination": "/de/insight-zu-viele-lebenslaeufe-fundierte-vorauswahl.html"
     },
     {
       "source": "/de/insight-stellenanzeige-keine-passenden-bewerbungen-active-sourcing",

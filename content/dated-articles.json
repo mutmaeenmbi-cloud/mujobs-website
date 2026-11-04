@@ -1,4 +1,258 @@
+Warning: truncated output (original token count: 50926)
+Total output lines: 2440
+
 [
+  {
+    "slug": "zu-viele-lebenslaeufe-fundierte-vorauswahl",
+    "published": "2026-11-04",
+    "modified": "2026-11-04",
+    "topic": "assessment",
+    "hero_image": "/preview-assets/team.jpg",
+    "locales": {
+      "de": {
+        "title": "Zu viele Lebensläufe, zu wenig passende Erfahrung? So entlastet eine fundierte Vorauswahl Ihr Team",
+        "intro": "Wenn Führungskräfte und HR immer wieder unpassende Bewerbungen prüfen, fehlt Zeit für das eigentliche Geschäft. Eine klare, belegbare Vorauswahl macht aus Bewerbungsvolumen entscheidungsfähige Gespräche.",
+        "category": "KANDIDATENAUSWAHL · ARBEITGEBER",
+        "hero_caption": "WENIGER SICHTUNG. KLARERE ENTSCHEIDUNGEN.",
+        "opening": [
+          "Der Posteingang ist voll, aber die entscheidende Erfahrung fehlt. HR prüft Lebensläufe, die Fachabteilung führt Erstgespräche ohne klare Passung und die Vakanz bleibt trotzdem offen. Der Aufwand steigt, während Projekte, Kundenarbeit oder Führungsaufgaben weiter auf die fehlende Person warten.",
+          "MuJobs setzt früher an: Wir klären mit dem Arbeitgeber, welche Ergebnisse die Rolle verantwortet und welche Erfahrung dafür nachweisbar sein muss. Danach recherchieren und prüfen wir gezielt, statt Bewerbungsvolumen als Erfolg zu behandeln. Das Ziel ist eine kleinere Vorauswahl, deren Relevanz für Entscheider nachvollziehbar ist."
+        ],
+        "sections": [
+          {
+            "title": "1. Vor der Sichtung festlegen, was eine passende Bewerbung belegen muss",
+            "paragraphs": [
+              "Eine lange Stellenbeschreibung ist noch kein Auswahlmaßstab. Bevor MuJobs Profile recherchiert oder bewertet, übersetzen wir die Rolle in wenige konkrete Kriterien: Verantwortung, relevante Situationen, erwartete Ergebnisse und praktische Rahmenbedingungen.",
+              "Dabei trennen wir unverzichtbare Nachweise von Präferenzen. Eine Person muss nicht denselben Titel getragen haben, wenn sie bereits vergleichbare Aufgaben, Märkte oder Entscheidungen verantwortet hat. Umgekehrt ersetzt ein vertrauter Titel keinen Beleg für die benötigte Erfahrung."
+            ],
+            "items": [
+              "Welche Aufgaben und Entscheidungen übernimmt die Person selbst?",
+              "Welche Erfahrung muss anhand konkreter Projekte oder Ergebnisse erkennbar sein?",
+              "Welche Kenntnisse können nach dem Einstieg aufgebaut werden?",
+              "Welche Bedingungen zu Standort, Sprache oder Arbeitsmodell sind wirklich erforderlich?",
+              "Welche offenen Punkte müssen im Erstgespräch geklärt werden?"
+            ]
+          },
+          {
+            "title": "2. Warum mehr Bewerbungen nicht automatisch zu einer besseren Auswahl führen",
+            "paragraphs": [
+              "Jede zusätzliche Bewerbung erzeugt Sichtungs- und Kommunikationsaufwand. Wenn die Kriterien unklar sind, sortieren verschiedene Beteiligte nach unterschiedlichen Signalen: Arbeitgebernamen, Jobtiteln, Branchen oder persönlichem Eindruck. Dadurch entstehen Rückfragen, Wiederholungen und Gespräche mit geringer Entscheidungsrelevanz.",
+              "MuJobs strukturiert die Suche um die tatsächliche Aufgabe. Wir nutzen Titel und Unternehmen als Recherchehinweise, prüfen aber anschließend die persönliche Verantwortung, den Kontext und die Motivation. So wird sichtbar, warum ein Profil zur Rolle passen könnte und was noch nicht belegt ist."
+            ],
+            "comparison": [
+              {
+                "label": "Unstrukturierte Lebenslaufsichtung",
+                "items": [
+                  "Viele Profile werden ohne priorisierte Muss-Kriterien verglichen.",
+                  "Bekannte Titel und Arbeitgeber erhalten zu viel Gewicht.",
+                  "Offene Fragen werden erst spät im Interviewprozess sichtbar.",
+                  "HR und Fachbereich prüfen dieselben Informationen mehrfach."
+                ]
+              },
+              {
+                "label": "Fundierte MuJobs-Vorauswahl",
+                "items": [
+                  "Profile werden gegen vorab vereinbarte Kriterien geprüft.",
+                  "Relevante Verantwortung und Ergebnisse werden konkret eingeordnet.",
+                  "Interesse, Rahmenbedingungen und offene Punkte werden früh erfasst.",
+                  "Entscheider erhalten eine begründete Auswahl für gezielte Gespräche."
+                ]
+              }
+            ]
+          },
+          {
+            "title": "3. So entsteht eine nachvollziehbare MuJobs-Shortlist",
+            "paragraphs": [
+              "MuJobs verbindet Briefing, Marktrecherche, persönliche Ansprache und eine erste Qualifizierung. Die Schritte greifen ineinander: Das Briefing bestimmt den Zielmarkt, Reaktionen aus dem Markt schärfen die Suche und die Vorauswahl dokumentiert die relevanten Nachweise.",
+              "Wir stellen keine Profile allein aufgrund von Stichworten vor. Für jede Empfehlung halten wir fest, welcher Teil der Erfahrung zur Aufgabe passt, weshalb die Person offen für ein Gespräch ist und welche Punkte der Arbeitgeber noch prüfen sollte."
+            ],
+            "items": [
+              "Suchbriefing: Verantwortung, Muss-Kriterien und flexible Punkte vereinbaren.",
+              "Marktrecherche: passende Funktionen, Unternehmen, Regionen und angrenzende Felder identifizieren.",
+              "Persönliche Ansprache: den konkreten Bezug zwischen Erfahrung und Rolle erklären.",
+              "Erste Qualifizierung: Motivation, relevante Erfahrung und praktische Bedingungen besprechen.",
+              "Begründete Vorauswahl: passende Profile mit Nachweisen und offenen Fragen vorstellen."
+            ],
+            "links": [
+              {"label": "Technologie-Fachkräfte rekrutieren", "path": "/de/technologie"},
+              {"label": "Marketing- und Kreativrollen besetzen", "path": "/de/marketing-kreation"},
+              {"label": "Vertriebspositionen rekrutieren", "path": "/de/vertrieb"},
+              {"label": "Immobilien-Recruiting", "path": "/de/immobilien"}
+            ]
+          },
+          {
+            "title": "4. Was Entscheider mit der Vorauswahl erhalten sollten",
+            "paragraphs": [
+              "Eine gute Shortlist ist keine Sammlung weitergeleiteter Lebensläufe. Sie soll dem Hiring Manager helfen, ein fokussiertes Gespräch vorzubereiten und Profile nach denselben Kriterien zu vergleichen.",
+              "MuJobs macht deshalb sowohl Passung als auch Unsicherheit sichtbar. Wenn eine erforderliche Erfahrung nur teilweise belegt ist, wird das als Klärungspunkt benannt. Diese Transparenz ist wertvoller als eine übertriebene Kandidatenbeschreibung, die im Interview nicht standhält."
+            ],
+            "items": [
+              "Kurze Begründung, warum das Profil für die konkrete Rolle relevant ist.",
+              "Beispiele für vergleichbare Verantwortung, Projekte oder Ergebnisse.",
+              "Bestätigtes Interesse an Rolle, Standort und nächstem Gespräch.",
+              "Praktische Rahmenbedingungen, soweit sie im ersten Kontakt geklärt wurden.",
+              "Offene fachliche oder organisatorische Fragen für das Interview."
+            ]
+          },
+          {
+            "title": "5. Auswahlkriterien müssen tätigkeitsbezogen und fair bleiben",
+            "paragraphs": [
+              "In Deutschland erfasst das Allgemeine Gleichbehandlungsgesetz ausdrücklich Auswahlkriterien und Einstellungsbedingungen. Die Antidiskriminierungsstelle des Bundes empfiehlt, nur Informationen abzufragen, die für die Qualifikationsprüfung relevant sind, und Auswahlverfahren sorgfältig vorzubereiten.",
+              "Auch der Eidgenössische Datenschutz- und Öffentlichkeitsbeauftragte stellt für die Schweiz klar: Arbeitgeber dürfen im Auswahlverfahren nur Angaben verlangen und bearbeiten, die zeigen, ob eine Person die Anforderungen der konkreten Stelle erfüllt. Referenzauskünfte von aktuellen oder früheren Arbeitgebern setzen grundsätzlich die Einwilligung der Bewerbenden voraus.",
+              "Für die praktische Vorauswahl bedeutet das: Kriterien aus der Tätigkeit ableiten, dieselben Maßstäbe anwenden und nur relevante Kandidateninformationen weitergeben. Dieser Beitrag ersetzt keine rechtliche Prüfung des einzelnen Auswahlverfahrens."
+            ]
+          },
+          {
+            "title": "6. Check: Ist Ihr Bewerbungsprozess bereit für eine gezielte Vorauswahl?",
+            "items": [
+              "Die drei bis fünf wichtigsten Auswahlkriterien sind priorisiert.",
+              "Fachbereich und HR bewerten Profile nach denselben Nachweisen.",
+              "Ein verantwortlicher Entscheider kann zeitnah Feedback geben.",
+              "Die Kandidatenansprache erklärt Aufgabe und Wechselgrund glaubwürdig.",
+              "Jede Empfehlung enthält Passungsgründe und offene Klärungspunkte.",
+              "Ungeeignete Profile werden respektvoll und ohne unnötige Datenspeicherung behandelt."
+            ],
+            "paragraphs_after": [
+              "Wenn Ihr Team viel Zeit mit Bewerbungen verbringt, aber nur wenige entscheidungsfähige Gespräche führt, sollte nicht nur die Sichtung schneller werden. Die Suche braucht klarere Kriterien und einen gezielteren Kandidatenmarkt. MuJobs kann diese Vorarbeit übernehmen und eine begründete Vorauswahl für Ihre nächste Fach- oder Führungsposition aufbauen."
+            ]
+          }
+        ],
+        "source_note": "Redaktioneller Praxisbeitrag von MuJobs, veröffentlicht am 4. November 2026. Die Hinweise unterstützen die Recruiting-Abstimmung und sind keine Rechtsberatung.",
+        "related_label": "Vorauswahl für Fach- und Führungspositionen",
+        "cta_title": "Ihr Team prüft viele Lebensläufe, aber findet zu wenig passende Erfahrung?",
+        "cta_text": "Senden Sie uns die Position, den Standort und die wichtigsten Anforderungen. MuJobs klärt das Suchprofil, recherchiert den relevanten Markt, spricht passende Personen persönlich an und erstellt eine nachvollziehbare Vorauswahl.",
+        "cta_label": "Personalbedarf mit MuJobs besprechen"
+      },
+      "en": {
+        "title": "Too many CVs, too little relevant experience? How a reasoned shortlist gives your team time back",
+        "intro": "When hiring managers and HR repeatedly screen unsuitable applications, time is taken away from the business. A clear, evidence-based shortlist turns application volume into decision-ready conversations.",
+        "category": "CANDIDATE SELECTION · EMPLOYERS",
+        "hero_caption": "LESS SCREENING. CLEARER DECISIONS.",
+        "opening": [
+          "The inbox is full, but the essential experience is missing. HR screens CVs, the business holds first interviews without a clear fit and the vacancy remains open. The workload grows while projects, customer work or leadership responsibilities continue to wait for the missing person.",
+          "MuJobs starts earlier. We clarify which outcomes the role owns and what evidence of experience is needed. We then research and qualify people against those criteria instead of treating application volume as success. The aim is a smaller shortlist whose relevance decision-makers can understand."
+        ],
+        "sections": [
+          {
+            "title": "1. Define what a relevant application must evidence before screening starts",
+            "paragraphs": [
+              "A long job description is not yet a selection framework. Before MuJobs researches or assesses profiles, we translate the role into a small number of concrete criteria: ownership, relevant situations, expected outcomes and practical conditions.",
+              "We separate essential evidence from preferences. A person does not need the identical title if they have owned comparable work, markets or decisions. Equally, a familiar title does not prove the experience the role requires."
+            ],
+            "items": [
+              "Which work and decisions will the person own?",
+              "Which experience must be visible through specific projects or outcomes?",
+              "Which knowledge can be developed after joining?",
+              "Which location, language or working-model conditions are genuinely required?",
+              "Which open points must be clarified in the first conversation?"
+            ]
+          },
+          {
+            "title": "2. Why more applications do not automatically improve selection",
+            "paragraphs": [
+              "Every additional application creates screening and communication work. When criteria are unclear, different stakeholders sort by different signals: employer names, job titles, sectors or personal impressions. The result is repeated review, additional questions and conversations with little decision value.",
+              "MuJobs structures the search around the actual work. We use titles and employers as research signals, then examine personal ownership, context and motivation. This shows why a profile may fit the role and what remains unproven."
+            ],
+            "comparison": [
+              {
+                "label": "Unstructured CV screening",
+                "items": [
+                  "Many profiles are compared without prioritised essential criteria.",
+                  "Recognisable titles and employers receive too much weight.",
+                  "Open questions emerge late in the interview process.",
+                  "HR and the business review the same information repeatedly."
+                ]
+              },
+              {
+                "label": "A reasoned MuJobs shortlist",
+                "items": [
+                  "Profiles are assessed against criteria agreed in advance.",
+                  "Relevant ownership and outcomes are placed in context.",
+                  "Interest, conditions and open points are established early.",
+                  "Decision-makers receive a reasoned selection for focused conversations."
+                ]
+              }
+            ]
+          },
+          {
+            "title": "3. How MuJobs builds a transparent shortlist",
+            "paragraphs": [
+              "MuJobs connects the search brief, market research, personal outreach and initial qualification. Each step informs the next: the brief defines the target market, market responses sharpen the search and the shortlist records the relevant evidence.",
+              "We do not introduce profiles based on keywords alone. For every recommendation, we state which experience connects to the work, why the person is open to a conversation and which points the employer should still examine."
+            ],
+            "items": [
+              "Search brief: agree ownership, essential criteria and flexible points.",
+              "Market research: identify relevant functions, employers, locations and adjacent fields.",
+              "Personal outreach: explain the concrete connection between experience and role.",
+              "Initial qualification: discuss motivation, relevant experience and practical conditions.",
+              "Reasoned shortlist: present relevant profiles with evidence and open questions."
+            ],
+            "links": [
+              {"label": "Recruiting technology professionals", "path": "/technology"},
+              {"label": "Hiring marketing and creative talent", "path": "/creative-marketing"},
+              {"label": "Recruiting sales professionals", "path": "/sales"},
+              {"label": "Real estate recruitment", "path": "/real-estate"}
+            ]
+          },
+          {
+            "title": "4. What decision-makers should receive with the shortlist",
+            "paragraphs": [
+              "A useful shortlist is more than a collection of forwarded CVs. It should help the hiring manager prepare a focused conversation and compare profiles against the same criteria.",
+              "MuJobs therefore makes fit and uncertainty visible. If required experience is only partly evidenced, we name it as a point to clarify. This transparency is more useful than an exaggerated candidate description that does not survive the interview."
+            ],
+            "items": [
+              "A concise reason why the profile is relevant to the specific role.",
+              "Examples of comparable ownership, projects or outcomes.",
+              "Confirmed interest in the role, location and next conversation.",
+              "Practical conditions, where they were discussed during the first contact.",
+              "Open professional or organisational questions for the interview."
+            ]
+          },
+          {
+            "title": "5. Selection criteria must remain job-related and fair",
+            "paragraphs": [
+              "In Germany, the General Equal Treatment Act expressly covers selection criteria and recruitment conditions. The Federal Anti-Discrimination Agency advises employers to request only information relevant to assessing qualifications and to prepare selection processes carefully.",
+              "Switzerland's Federal Data Protection and Information Commissioner likewise states that employers may request and process only information that shows whether a person meets the requirements of the specific role. References from current or former employers generally require the applicant's prior consent.",
+              "For practical screening, this means deriving criteria from the work, applying the same standards and sharing only relevant candidate information. This article does not replace legal review of an individual selection process."
+            ]
+          },
+          {
+            "title": "6. Check: is your hiring process ready for focused shortlisting?",
+            "items": [
+              "The three to five most important selection criteria are prioritised.",
+              "HR and the business assess profiles against the same evidence.",
+              "One accountable decision-maker can provide timely feedback.",
+              "Candidate outreach explains the work and reason to consider the move credibly.",
+              "Every recommendation includes reasons for fit and open points to clarify.",
+              "Unsuccessful profiles are treated respectfully without unnecessary data retention."
+            ],
+            "paragraphs_after": [
+              "If your team spends substantial time on applications but conducts few decision-ready conversations, faster screening alone will not solve the problem. The search needs clearer criteria and a more focused candidate market. MuJobs can take on that preparation and build a reasoned shortlist for your next specialist or leadership hire."
+            ]
+          }
+        ],
+        "source_note": "An editorial MuJobs practice article published on 4 November 2026. The guidance supports recruitment alignment and is not legal advice.",
+        "related_label": "Shortlisting for specialist and leadership roles",
+        "cta_title": "Is your team screening many CVs but finding too little relevant experience?",
+        "cta_text": "Send us the role, location and essential requirements. MuJobs clarifies the search, researches the relevant market, approaches suitable people personally and creates a transparent shortlist.",
+        "cta_label": "Discuss your hiring need with MuJobs"
+      }
+    },
+    "sources": [
+      {
+        "label": "Germany: General Equal Treatment Act, Section 2",
+        "url": "https://www.gesetze-im-internet.de/agg/BJNR189710006.html"
+      },
+      {
+        "label": "Federal Anti-Discrimination Agency: Fair recruitment procedures",
+        "url": "https://www.antidiskriminierungsstelle.de/SharedDocs/downloads/DE/publikationen/Leitfaeden/leitfaden_fair_in_den_job.pdf?__blob=publicationFile&v=3"
+      },
+      {
+        "label": "Switzerland: Data processing during recruitment",
+        "url": "https://www.edoeb.admin.ch/de/verschiedene-phasen-des-arbeitsverhaeltnisses"
+      }
+    ]
+  },
   {
     "slug": "stellenanzeige-keine-passenden-bewerbungen-active-sourcing",
     "published": "2026-11-02",
@@ -954,51 +1208,7 @@
       "en": {
         "title": "Reference checks for real estate project developers: an employer guide",
         "intro": "With permission, clear project questions and consistent notes, employers can verify personal ownership, decision scope and collaboration more reliably.",
-        "category": "REAL ESTATE · PROJECT DEVELOPMENT",
-        "opening": [
-          "A reference check should go beyond a general question about strengths and weaknesses. For a project developer, employers need to understand which phase the person personally managed, which decisions they prepared or made and how they handled risk, timing and interfaces.",
-          "This guide helps real estate employers prepare structured reference conversations. It complements interviews and work samples, while the employer remains responsible for the suitability decision and the lawful design of the process."
-        ],
-        "sections": [
-          {
-            "title": "1. Set the purpose, timing and permission first",
-            "paragraphs": [
-              "Run reference conversations only after the role and remaining questions are clear. The useful point is usually after the professional interviews and before the final decision, when the employer knows which claim still needs confirmation or context.",
-              "Tell the candidate which reference you want to contact and why. Use contact details they have approved and record the role and project experience the conversation is intended to cover."
-            ],
-            "items": [
-              "Record the purpose and scope of the reference check.",
-              "Confirm consent or another required legal basis with HR or data protection.",
-              "Verify the referee’s name, role and working relationship with the candidate.",
-              "Do not contact current employers or other third parties without prior approval.",
-              "Ask only questions relevant to the specific role."
-            ]
-          },
-          {
-            "title": "2. Separate the project from the person’s contribution",
-            "paragraphs": [
-              "A successful development does not by itself show what one project developer contributed. Start with verifiable context: asset type, location, project phase, period, team structure and reporting line.",
-              "Then clarify personal ownership. Was the candidate responsible for site analysis, feasibility, planning, approvals, marketing or handover? Did they prepare decisions, make them or implement someone else’s direction? This distinction prevents a team result from being attributed to one person."
-            ],
-            "items": [
-              "During which project phase did you work directly with the candidate?",
-              "Which outcomes and decisions were personally theirs?",
-              "Which tasks belonged to managers, consultants or external partners?",
-              "What was the scale of the team, budget or coordination responsibility?",
-              "Which responsibilities expanded or reduced during the project?"
-            ]
-          },
-          {
-            "title": "3. Ask eight questions that produce useful evidence",
-            "paragraphs": [
-              "Use the same core questions with every referee. Follow-ups may explore a concrete example, but should not change the assessment standard. Ask for direct observations rather than assumptions about personality.",
-              "Record whether an answer comes from direct observation, project records or information from someone else. This keeps the strength of the evidence visible."
-            ],
-            "items": [
-              "Which project decision did the candidate prepare or manage particularly well?",
-              "How did they handle incomplete site, cost or schedule information?",
-              "How did they make assumptions, risks and required decisions visible?",
-              "How did they work with planning, authorities, investment, construction and marketing?",
+        "category": "REAL E…926 tokens truncated… and marketing?",
               "Describe a situation where they had to change a recommendation.",
               "How dependable were their documentation, handovers and follow-through?",
               "Which management, structure or support helped them perform best?",
