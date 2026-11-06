@@ -1,6 +1,3 @@
-Warning: truncated output (original token count: 50926)
-Total output lines: 2440
-
 [
   {
     "slug": "zu-viele-lebenslaeufe-fundierte-vorauswahl",
@@ -1208,7 +1205,51 @@ Total output lines: 2440
       "en": {
         "title": "Reference checks for real estate project developers: an employer guide",
         "intro": "With permission, clear project questions and consistent notes, employers can verify personal ownership, decision scope and collaboration more reliably.",
-        "category": "REAL E…926 tokens truncated… and marketing?",
+        "category": "REAL ESTATE · PROJECT DEVELOPMENT",
+        "opening": [
+          "A reference check should go beyond a general question about strengths and weaknesses. For a project developer, employers need to understand which phase the person personally managed, which decisions they prepared or made and how they handled risk, timing and interfaces.",
+          "This guide helps real estate employers prepare structured reference conversations. It complements interviews and work samples, while the employer remains responsible for the suitability decision and the lawful design of the process."
+        ],
+        "sections": [
+          {
+            "title": "1. Set the purpose, timing and permission first",
+            "paragraphs": [
+              "Run reference conversations only after the role and remaining questions are clear. The useful point is usually after the professional interviews and before the final decision, when the employer knows which claim still needs confirmation or context.",
+              "Tell the candidate which reference you want to contact and why. Use contact details they have approved and record the role and project experience the conversation is intended to cover."
+            ],
+            "items": [
+              "Record the purpose and scope of the reference check.",
+              "Confirm consent or another required legal basis with HR or data protection.",
+              "Verify the referee’s name, role and working relationship with the candidate.",
+              "Do not contact current employers or other third parties without prior approval.",
+              "Ask only questions relevant to the specific role."
+            ]
+          },
+          {
+            "title": "2. Separate the project from the person’s contribution",
+            "paragraphs": [
+              "A successful development does not by itself show what one project developer contributed. Start with verifiable context: asset type, location, project phase, period, team structure and reporting line.",
+              "Then clarify personal ownership. Was the candidate responsible for site analysis, feasibility, planning, approvals, marketing or handover? Did they prepare decisions, make them or implement someone else’s direction? This distinction prevents a team result from being attributed to one person."
+            ],
+            "items": [
+              "During which project phase did you work directly with the candidate?",
+              "Which outcomes and decisions were personally theirs?",
+              "Which tasks belonged to managers, consultants or external partners?",
+              "What was the scale of the team, budget or coordination responsibility?",
+              "Which responsibilities expanded or reduced during the project?"
+            ]
+          },
+          {
+            "title": "3. Ask eight questions that produce useful evidence",
+            "paragraphs": [
+              "Use the same core questions with every referee. Follow-ups may explore a concrete example, but should not change the assessment standard. Ask for direct observations rather than assumptions about personality.",
+              "Record whether an answer comes from direct observation, project records or information from someone else. This keeps the strength of the evidence visible."
+            ],
+            "items": [
+              "Which project decision did the candidate prepare or manage particularly well?",
+              "How did they handle incomplete site, cost or schedule information?",
+              "How did they make assumptions, risks and required decisions visible?",
+              "How did they work with planning, authorities, investment, construction and marketing?",
               "Describe a situation where they had to change a recommendation.",
               "How dependable were their documentation, handovers and follow-through?",
               "Which management, structure or support helped them perform best?",
@@ -2393,7 +2434,279 @@ Total output lines: 2440
         "url": "https://www.sfpkiw.ch/deutsch/berufsbilder/entwicklung/"
       }
     ]
+  },
+  {
+    "slug": "schluesselposition-offen-recruiting-kapazitaet",
+    "published": "2026-11-06",
+    "modified": "2026-11-06",
+    "topic": "sourcing",
+    "hero_image": "/preview-assets/workplace.jpg",
+    "locales": {
+      "de": {
+        "title": "Die Schlüsselposition bleibt offen – und Ihr Fachteam übernimmt das Recruiting? So schafft MuJobs gezielt Kapazität",
+        "intro": "Wenn Führungskräfte neben dem Tagesgeschäft Profile recherchieren, Nachrichten schreiben und Lebensläufe prüfen, wird die Vakanz zum Kapazitätsproblem. Ein klar geteilter Suchprozess bringt die Besetzung wieder voran.",
+        "category": "RECRUITING-KAPAZITÄT · ARBEITGEBER",
+        "hero_caption": "MEHR SUCHKAPAZITÄT. KLARE VERANTWORTUNG.",
+        "opening": [
+          "Die Position ist wichtig, aber niemand kann die Suche konsequent betreiben. HR koordiniert mehrere Vakanzen, die Führungskraft recherchiert zwischen Kundenterminen und Fachkollegen prüfen immer wieder Profile. Die Stelle bleibt offen, während Entscheidungen, Projekte oder Kundenarbeit weiterhin auf die fehlende Kompetenz warten.",
+          "MuJobs ergänzt die interne Mannschaft genau an diesem Engpass. Der Arbeitgeber behält die fachliche und geschäftliche Entscheidung. MuJobs übernimmt die arbeitsintensive Vorbereitung: Rolle klären, Zielmarkt recherchieren, passende Personen persönlich ansprechen, relevante Erfahrung vorprüfen und eine begründete Vorauswahl zusammenstellen."
+        ],
+        "sections": [
+          {
+            "title": "1. Erkennen, wann die Vakanz zum Kapazitätsproblem wird",
+            "paragraphs": [
+              "Nicht jede offene Stelle braucht externe Unterstützung. Entscheidend ist, ob das interne Team die Suche mit der nötigen Qualität und Regelmäßigkeit ausführen kann. Eine halbe Stunde Recherche zwischen anderen Aufgaben erzeugt selten einen belastbaren Marktüberblick; unregelmäßige Rückmeldungen lassen gute Gespräche versanden.",
+              "MuJobs beginnt deshalb mit einer kurzen Prozessdiagnose. Wir klären nicht nur das Stellenprofil, sondern auch, welche Sucharbeit bereits läuft, wo Zeit verloren geht und wer die fachliche Entscheidung trifft. So wird externe Recruiting-Kapazität dort eingesetzt, wo sie den internen Prozess tatsächlich entlastet."
+            ],
+            "items": [
+              "Die Rolle ist geschäftlich wichtig, hat intern aber keinen festen Suchverantwortlichen.",
+              "HR oder Fachbereich recherchieren nur punktuell und ohne vollständige Marktübersicht.",
+              "Profile werden mehrfach geprüft, weil Muss-Kriterien nicht priorisiert sind.",
+              "Interessierte Personen warten zu lange auf Rückmeldung oder einen Gesprächstermin.",
+              "Die Fachabteilung braucht eine relevante Vorauswahl, kann aber die Ansprache nicht selbst skalieren."
+            ]
+          },
+          {
+            "title": "2. Fachliche Entscheidung intern halten, Sucharbeit gezielt auslagern",
+            "paragraphs": [
+              "Eine erfolgreiche Zusammenarbeit ersetzt den Hiring Manager nicht. Das Unternehmen muss entscheiden, welche Verantwortung die neue Person übernimmt, welche Bedingungen gelten und wer eingestellt wird. MuJobs organisiert die Suche so, dass diese Entscheidungen auf besser vorbereiteten Gesprächen beruhen.",
+              "Vor dem Start vereinbaren wir eine klare Aufgabenteilung. Dadurch wissen alle Beteiligten, wer Kriterien bestätigt, wer den Markt bearbeitet und bis wann Rückmeldungen erfolgen."
+            ],
+            "comparison": [
+              {
+                "label": "Bleibt beim Arbeitgeber",
+                "items": [
+                  "Geschäftlicher Anlass und Erfolgskriterien der Position festlegen.",
+                  "Vergütung, Arbeitsmodell, Berichtslinie und Entscheidungsspielraum bestätigen.",
+                  "Fachliche Interviews führen und zeitnahes Feedback geben.",
+                  "Einstellungsentscheidung und Vertragsangebot verantworten."
+                ]
+              },
+              {
+                "label": "Übernimmt MuJobs",
+                "items": [
+                  "Suchbriefing in priorisierte Muss-Kriterien und flexible Punkte übersetzen.",
+                  "Relevante Funktionen, Unternehmen, Regionen und Nachbarfelder recherchieren.",
+                  "Ausgewählte Fach- und Führungskräfte persönlich ansprechen und nachfassen.",
+                  "Interesse, relevante Erfahrung und praktische Rahmenbedingungen vorprüfen.",
+                  "Begründete Vorauswahl und Gesprächskoordination vorbereiten."
+                ]
+              }
+            ]
+          },
+          {
+            "title": "3. So baut MuJobs zusätzliche Recruiting-Kapazität auf",
+            "paragraphs": [
+              "Zusätzliche Kapazität bedeutet nicht, möglichst viele Profile zu versenden. MuJobs arbeitet von der Aufgabe zum Kandidatenmarkt. Das Briefing definiert, welche Erfahrung zählt; die Recherche erweitert den Blick über identische Jobtitel hinaus; die persönliche Ansprache erklärt den konkreten Bezug zur Rolle.",
+              "Im Erstkontakt prüfen wir, ob Interesse und relevante Erfahrung grundsätzlich zusammenpassen. Die Vorauswahl zeigt danach sowohl belegte Passung als auch offene Fragen. So kann der Hiring Manager seine Zeit auf Gespräche konzentrieren, die eine echte Entscheidungsgrundlage bieten."
+            ],
+            "items": [
+              "Rolle klären: Verantwortung, Ergebnisse und unverzichtbare Erfahrung vereinbaren.",
+              "Markt strukturieren: passende Titel, Arbeitgeber, Regionen und angrenzende Felder abbilden.",
+              "Persönlich ansprechen: den Zusammenhang zwischen Profil, Aufgabe und Wechselgrund erklären.",
+              "Relevant vorprüfen: Motivation, Erfahrung, Standort und wesentliche Rahmenbedingungen besprechen.",
+              "Fundiert auswählen: passende Profile mit Begründung und offenen Prüfpunkten vorstellen."
+            ],
+            "links": [
+              {
+                "label": "Technologie-Fachkräfte rekrutieren",
+                "path": "/de/technologie"
+              },
+              {
+                "label": "Marketing- und Kreativrollen besetzen",
+                "path": "/de/marketing-kreation"
+              },
+              {
+                "label": "Vertriebspositionen rekrutieren",
+                "path": "/de/vertrieb"
+              },
+              {
+                "label": "Ausgewählte Recruiting-Projekte",
+                "path": "/de/projekte"
+              }
+            ]
+          },
+          {
+            "title": "4. Schnelle Rückmeldung ist Teil der Suchleistung",
+            "paragraphs": [
+              "Mehr Recherche allein löst keine Vakanz. Wenn Kriterien während der Suche wechseln oder vorgestellte Profile ohne Rückmeldung liegen bleiben, verliert der Prozess an Verbindlichkeit. Deshalb gehört eine feste Abstimmung zur Zusammenarbeit mit MuJobs.",
+              "Zu Beginn benennen wir einen Entscheider und vereinbaren, wie Profile bewertet werden. Marktreaktionen werden nicht als Versprechen verkauft, sondern als Hinweise genutzt: Ist der Suchradius zu eng? Fehlt eine wichtige Information zur Aufgabe? Ist eine Anforderung wirklich unverzichtbar? Anpassungen werden dokumentiert und anschließend für alle Profile einheitlich angewendet."
+            ],
+            "items": [
+              "Ein benannter fachlicher Entscheider steht für Rückfragen zur Verfügung.",
+              "Vorgestellte Profile werden nach denselben priorisierten Kriterien bewertet.",
+              "Feedback wird konkret und innerhalb eines vereinbarten Zeitfensters gegeben.",
+              "Interviewtermine und nächste Schritte sind vor der aktiven Ansprache planbar.",
+              "Änderungen am Suchprofil werden begründet und transparent übernommen."
+            ]
+          },
+          {
+            "title": "5. Arbeitsmarktdaten einordnen, statt die Vakanz pauschal zu erklären",
+            "paragraphs": [
+              "Die Bundesagentur für Arbeit weist für 2025 Engpässe in 157 Berufsgattungen aus, betont aber zugleich, dass kein allgemeiner Arbeitskräftemangel belegt ist. Beruf, Qualifikation und Region entscheiden. Das Schweizer Bundesamt für Statistik meldete für das zweite Quartal 2026 im Jahresvergleich mehr offene Stellen und zunehmende Schwierigkeiten bei der Rekrutierung von Fachpersonen, veröffentlicht die Daten jedoch ebenfalls differenziert nach Branche und Ausbildung.",
+              "Für Arbeitgeber folgt daraus keine pauschale Ausrede für eine schwierige Besetzung. Die konkrete Rolle braucht eine konkrete Marktanalyse. MuJobs nutzt offizielle Arbeitsmarktdaten als Kontext, prüft die reale Erreichbarkeit aber über das Suchbriefing, den relevanten Zielmarkt und die Reaktionen aus der persönlichen Ansprache."
+            ]
+          },
+          {
+            "title": "6. Entscheidungshilfe: Brauchen Sie zusätzliche Recruiting-Kapazität?",
+            "items": [
+              "Die Vakanz verzögert konkrete Entscheidungen, Projekte oder Kundenarbeit.",
+              "Das interne Team kann Marktrecherche und persönliche Ansprache nicht kontinuierlich abdecken.",
+              "Die Rolle und ihre wichtigsten Bedingungen lassen sich mit einem Entscheider klären.",
+              "Relevante Profile befinden sich wahrscheinlich außerhalb des aktiven Bewerberfelds.",
+              "Der Hiring Manager kann fokussierte Interviews und zeitnahes Feedback sicherstellen."
+            ],
+            "paragraphs_after": [
+              "Wenn diese Punkte zutreffen, muss Ihr Fachteam nicht zusätzlich zur eigentlichen Arbeit eine vollständige Direktansprache aufbauen. MuJobs kann den Suchprozess strukturieren, den relevanten Markt bearbeiten und eine begründete Vorauswahl vorbereiten. Der nächste Schritt ist ein kurzes Gespräch über die Rolle, den bisherigen Suchverlauf und den Engpass im internen Prozess."
+            ]
+          }
+        ],
+        "source_note": "Redaktioneller Praxisbeitrag von MuJobs, veröffentlicht am 6. November 2026. Die Arbeitsmarktdaten beschreiben den breiteren Kontext und ersetzen keine rollen- und regionsspezifische Analyse.",
+        "related_label": "Zusätzliche Recruiting-Kapazität für Fach- und Führungspositionen",
+        "cta_title": "Ihre Schlüsselposition bleibt offen, aber intern fehlt die Zeit für eine aktive Suche?",
+        "cta_text": "Senden Sie uns die Position, den Standort und den bisherigen Suchverlauf. MuJobs klärt das Briefing, recherchiert den relevanten Markt, spricht passende Personen persönlich an und erstellt eine nachvollziehbare Vorauswahl.",
+        "cta_label": "Recruiting-Engpass mit MuJobs besprechen"
+      },
+      "en": {
+        "title": "Your key role is still open—and the business is running the search? How MuJobs adds focused recruiting capacity",
+        "intro": "When managers research profiles, write outreach and screen CVs alongside their day jobs, the vacancy becomes a capacity problem. A clearly divided search process gets hiring moving again.",
+        "category": "RECRUITING CAPACITY · EMPLOYERS",
+        "hero_caption": "MORE SEARCH CAPACITY. CLEAR OWNERSHIP.",
+        "opening": [
+          "The role matters, but nobody can run the search consistently. HR coordinates several vacancies, the hiring manager researches between customer meetings and specialists repeatedly review profiles. The position remains open while decisions, projects or customer work continue to wait for the missing expertise.",
+          "MuJobs adds capacity exactly at this bottleneck. The employer retains the professional and business decision. MuJobs takes on the labour-intensive preparation: clarify the role, research the target market, approach relevant people personally, check the essential experience and build a reasoned shortlist."
+        ],
+        "sections": [
+          {
+            "title": "1. Recognise when the vacancy has become a capacity problem",
+            "paragraphs": [
+              "Not every open role needs external support. The question is whether the internal team can run the search with the required quality and consistency. Half an hour of research between other tasks rarely creates a credible market view; irregular follow-up allows promising conversations to go cold.",
+              "MuJobs therefore starts with a short process diagnosis. We clarify the role and examine what search work is already happening, where time is being lost and who owns the professional decision. External recruiting capacity is then applied where it genuinely relieves the internal process."
+            ],
+            "items": [
+              "The role is business-critical but has no dedicated internal search owner.",
+              "HR or the business researches only intermittently and without a complete market view.",
+              "Profiles are reviewed repeatedly because essential criteria are not prioritised.",
+              "Interested people wait too long for feedback or an interview date.",
+              "The function needs a relevant shortlist but cannot scale outreach itself."
+            ]
+          },
+          {
+            "title": "2. Keep the professional decision inside and outsource focused search work",
+            "paragraphs": [
+              "An effective partnership does not replace the hiring manager. The company must decide what the new hire will own, which conditions apply and who should be employed. MuJobs organises the search so those decisions are based on better-prepared conversations.",
+              "Before the search starts, we agree a clear division of work. Everyone knows who confirms criteria, who works the market and when feedback is due."
+            ],
+            "comparison": [
+              {
+                "label": "Remains with the employer",
+                "items": [
+                  "Define the business need and success criteria for the role.",
+                  "Confirm compensation, working model, reporting line and decision authority.",
+                  "Run professional interviews and provide timely feedback.",
+                  "Own the hiring decision and employment offer."
+                ]
+              },
+              {
+                "label": "MuJobs takes on",
+                "items": [
+                  "Translate the brief into prioritised essentials and flexible points.",
+                  "Research relevant functions, employers, locations and adjacent fields.",
+                  "Approach selected specialists and leaders personally and follow up.",
+                  "Check interest, relevant experience and practical conditions.",
+                  "Prepare a reasoned shortlist and interview coordination."
+                ]
+              }
+            ]
+          },
+          {
+            "title": "3. How MuJobs adds recruiting capacity",
+            "paragraphs": [
+              "Additional capacity does not mean sending the largest possible number of profiles. MuJobs works from the assignment to the candidate market. The brief defines which experience matters; research looks beyond identical titles; personal outreach explains the specific connection to the role.",
+              "During the first conversation, we establish whether interest and relevant experience broadly align. The shortlist then makes evidenced fit and open questions visible. The hiring manager can focus time on conversations that provide a real basis for a decision."
+            ],
+            "items": [
+              "Clarify the role: agree ownership, outcomes and essential experience.",
+              "Structure the market: map relevant titles, employers, locations and adjacent fields.",
+              "Approach personally: explain the connection between profile, assignment and reason to move.",
+              "Qualify what matters: discuss motivation, experience, location and essential conditions.",
+              "Shortlist with evidence: present relevant profiles with reasoning and open points to test."
+            ],
+            "links": [
+              {
+                "label": "Recruiting technology professionals",
+                "path": "/technology"
+              },
+              {
+                "label": "Hiring marketing and creative talent",
+                "path": "/creative-marketing"
+              },
+              {
+                "label": "Recruiting sales professionals",
+                "path": "/sales"
+              },
+              {
+                "label": "Selected recruitment projects",
+                "path": "/work"
+              }
+            ]
+          },
+          {
+            "title": "4. Timely feedback is part of search delivery",
+            "paragraphs": [
+              "More research alone will not fill a vacancy. If criteria change during the search or introduced profiles sit without feedback, the process loses credibility. A fixed feedback rhythm is therefore part of working with MuJobs.",
+              "We identify one decision-maker and agree how profiles will be assessed. Market responses are treated as evidence rather than promises: Is the search radius too narrow? Is important role information missing? Is a requirement truly essential? Any change is documented and then applied consistently to all profiles."
+            ],
+            "items": [
+              "A named professional decision-maker is available for role questions.",
+              "Introduced profiles are assessed against the same prioritised criteria.",
+              "Feedback is specific and provided within an agreed timeframe.",
+              "Interview availability and next steps are predictable before outreach begins.",
+              "Changes to the search are reasoned and incorporated transparently."
+            ]
+          },
+          {
+            "title": "5. Use labour-market evidence as context, not a blanket explanation",
+            "paragraphs": [
+              "Germany's Federal Employment Agency identified shortages in 157 occupational categories for 2025, while also stressing that the evidence does not support a general labour shortage. Occupation, qualification and region matter. Switzerland's Federal Statistical Office reported year-on-year growth in vacancies and increasing difficulty recruiting qualified people in the second quarter of 2026, while publishing the data by sector and education level.",
+              "This is not a blanket excuse for a difficult vacancy. A concrete role needs a concrete market analysis. MuJobs uses official labour-market evidence as context, then tests actual reach through the search brief, the relevant target market and responses to personal outreach."
+            ]
+          },
+          {
+            "title": "6. Decision check: do you need additional recruiting capacity?",
+            "items": [
+              "The vacancy is delaying specific decisions, projects or customer work.",
+              "The internal team cannot sustain market research and personal outreach.",
+              "The role and its principal conditions can be clarified with a decision-maker.",
+              "Relevant profiles are likely to sit outside the active applicant market.",
+              "The hiring manager can provide focused interviews and timely feedback."
+            ],
+            "paragraphs_after": [
+              "If these points apply, your professional team does not need to build a complete direct-search operation alongside its core work. MuJobs can structure the search, work the relevant market and prepare a reasoned shortlist. The next step is a short conversation about the role, the search so far and the bottleneck in the internal process."
+            ]
+          }
+        ],
+        "source_note": "An editorial MuJobs practice article published on 6 November 2026. The labour-market evidence describes the wider context and does not replace a role- and region-specific analysis.",
+        "related_label": "Additional recruiting capacity for specialist and leadership roles",
+        "cta_title": "Is your key role still open because the team lacks time for an active search?",
+        "cta_text": "Send us the role, location and search history. MuJobs clarifies the brief, researches the relevant market, approaches suitable people personally and creates a transparent shortlist.",
+        "cta_label": "Discuss your recruiting bottleneck with MuJobs"
+      }
+    },
+    "sources": [
+      {
+        "label": "Bundesagentur für Arbeit: Fachkräfteengpassanalyse 2025",
+        "url": "https://statistik.arbeitsagentur.de/DE/Statischer-Content/Statistiken/Themen-im-Fokus/Fachkraeftebedarf/Fachkraefteengpassanalyse/Fachkraefteengpassanalyse/"
+      },
+      {
+        "label": "Bundesamt für Statistik: Beschäftigungsbarometer im 2. Quartal 2026",
+        "url": "https://statistik.admin.ch/de/news/2026-0249"
+      },
+      {
+        "label": "Bundesamt für Statistik: Rekrutierungsschwierigkeiten nach Branche und Ausbildungsniveau",
+        "url": "https://www.pxweb-admin-a.bfs.admin.ch/pxweb/de/px-x-0602000000_107/-/px-x-0602000000_107.px/"
+      }
+    ]
   }
 ]
-
 
