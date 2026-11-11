@@ -2707,6 +2707,283 @@
         "url": "https://www.pxweb-admin-a.bfs.admin.ch/pxweb/de/px-x-0602000000_107/-/px-x-0602000000_107.px/"
       }
     ]
+  },
+  {
+    "slug": "passende-profile-einstellungsentscheidung-stockt",
+    "published": "2026-11-11",
+    "modified": "2026-11-11",
+    "topic": "assessment",
+    "hero_image": "/preview-assets/team.jpg",
+    "locales": {
+      "de": {
+        "title": "Passende Profile, aber keine Entscheidung? So bringt MuJobs Struktur in den Auswahlprozess",
+        "intro": "Wenn Interviews stattfinden, aber niemand den nächsten Schritt verantwortet, bleibt die Vakanz trotz guter Gespräche offen. Ein klarer Entscheidungsprozess verbindet Kandidatenbelege, Feedback und Verbindlichkeit.",
+        "category": "EINSTELLUNGSENTSCHEIDUNG · ARBEITGEBER",
+        "hero_caption": "GUTE GESPRÄCHE. KLARE ENTSCHEIDUNGEN.",
+        "opening": [
+          "Relevante Profile sind gefunden, erste Gespräche waren positiv – und trotzdem bewegt sich die Besetzung nicht. Der Fachbereich möchte weitere Vergleiche, HR wartet auf Feedback und Kandidatinnen oder Kandidaten wissen nicht, wann eine Entscheidung fällt. Währenddessen bleibt die Position offen und die fehlende Verantwortung liegt weiter im bestehenden Team.",
+          "MuJobs behandelt die Vorauswahl deshalb nicht als Übergabe von Lebensläufen. Wir klären vor der Suche, welche Nachweise eine Entscheidung tragen, halten offene Punkte pro Profil sichtbar und koordinieren die nächsten Schritte. Der Arbeitgeber entscheidet; MuJobs sorgt dafür, dass diese Entscheidung auf vergleichbaren Informationen und einem verlässlichen Prozess beruht."
+        ],
+        "sections": [
+          {
+            "title": "1. Erkennen, ob die Suche oder die Entscheidung stockt",
+            "paragraphs": [
+              "Mehr Kandidaten lösen keinen Entscheidungsstau. Wenn mehrere passende Personen im Prozess sind, aber Beteiligte unterschiedliche Kriterien verwenden oder Feedback vertagen, liegt das Problem nicht mehr beim Marktzugang.",
+              "MuJobs prüft deshalb gemeinsam mit dem Arbeitgeber, an welcher Stelle der Prozess stehen bleibt. Fehlt ein fachlicher Nachweis? Ist die Verantwortung der Rolle noch umstritten? Gibt es keinen benannten Entscheider? Oder werden Gespräche geführt, ohne vorher festzulegen, welche Beobachtungen für die nächste Stufe zählen?"
+            ],
+            "items": [
+              "Interviewende bewerten Profile nach unterschiedlichen Erwartungen.",
+              "Nach Gesprächen bleibt unklar, wer Feedback bündelt und entscheidet.",
+              "Neue Wünsche werden ergänzt, obwohl die ursprünglichen Muss-Kriterien erfüllt sind.",
+              "Offene fachliche Fragen werden nicht in einen gezielten Folgeschritt übersetzt.",
+              "Kandidatinnen und Kandidaten erhalten keine verlässliche Information zum weiteren Ablauf."
+            ]
+          },
+          {
+            "title": "2. Den Entscheidungsweg vor dem nächsten Interview festlegen",
+            "paragraphs": [
+              "Ein guter Auswahlprozess beginnt nicht mit der ersten Interviewfrage, sondern mit einer klaren Entscheidungskette. Vor der aktiven Ansprache sollte der Arbeitgeber wissen, wer fachlich prüft, wer Bedingungen bestätigt und wer die finale Einstellungsentscheidung trifft.",
+              "MuJobs verbindet diese Zuständigkeiten mit dem Suchbriefing. Für jede Stufe wird festgelegt, welche Frage sie beantworten soll. Dadurch entstehen weniger Wiederholungen und offene Punkte werden gezielt geprüft, statt in einer weiteren allgemeinen Gesprächsrunde erneut aufzutauchen."
+            ],
+            "items": [
+              "Erstgespräch: Interesse, relevante Erfahrung und Rahmenbedingungen klären.",
+              "Fachgespräch: konkrete Verantwortung, Vorgehen und vergleichbare Situationen prüfen.",
+              "Vertiefung: nur die noch offenen, entscheidungsrelevanten Punkte bearbeiten.",
+              "Entscheidung: Belege, Risiken und Bedingungen gemeinsam abgleichen.",
+              "Rückmeldung: eine verantwortliche Person kommuniziert den nächsten Schritt."
+            ]
+          },
+          {
+            "title": "3. So macht MuJobs eine Kandidatenvorstellung entscheidungsfähig",
+            "paragraphs": [
+              "Eine Entscheidungsvorlage braucht mehr als einen Lebenslauf und eine allgemeine Empfehlung. MuJobs ordnet jedes relevante Profil gegen die vereinbarten Kriterien ein und trennt bestätigte Erfahrung von Punkten, die der Arbeitgeber noch prüfen sollte.",
+              "Dabei bleibt Unsicherheit sichtbar. Wenn eine Person verwandte statt identischer Branchenerfahrung mitbringt, erläutern wir die mögliche Übertragbarkeit und die passende Prüffrage. Wenn Vergütung, Standort oder Eintrittstermin noch nicht abschließend geklärt sind, werden diese Punkte nicht als bestätigt dargestellt."
+            ],
+            "items": [
+              "Warum das Profil zur konkreten Aufgabe passen kann.",
+              "Welche vergleichbare Verantwortung anhand eines Beispiels erkennbar ist.",
+              "Welche Motivation und praktischen Bedingungen besprochen wurden.",
+              "Welche fachlichen oder organisatorischen Fragen offen bleiben.",
+              "Welcher nächste Gesprächsschritt diese Fragen am besten klärt."
+            ],
+            "links": [
+              {
+                "label": "Technologie-Fachkräfte rekrutieren",
+                "path": "/de/technologie"
+              },
+              {
+                "label": "Marketing- und Kreativrollen besetzen",
+                "path": "/de/marketing-kreation"
+              },
+              {
+                "label": "Vertriebspositionen rekrutieren",
+                "path": "/de/vertrieb"
+              },
+              {
+                "label": "Ausgewählte Recruiting-Projekte",
+                "path": "/de/projekte"
+              }
+            ]
+          },
+          {
+            "title": "4. Verantwortung zwischen MuJobs und Arbeitgeber klar teilen",
+            "paragraphs": [
+              "MuJobs kann Recherche, Ansprache, Vorqualifizierung und Prozesskoordination übernehmen. Die fachliche Bewertung und die Einstellungsentscheidung bleiben beim Arbeitgeber. Eine klare Aufgabenteilung verhindert, dass Kandidatenkommunikation zwischen mehreren Beteiligten liegen bleibt."
+            ],
+            "comparison": [
+              {
+                "label": "MuJobs bereitet vor",
+                "items": [
+                  "Suchbriefing und priorisierte Auswahlkriterien dokumentieren.",
+                  "Relevante Profile recherchieren und persönlich ansprechen.",
+                  "Motivation, Erfahrung und wesentliche Bedingungen vorprüfen.",
+                  "Passungsgründe, Nachweise und offene Fragen zusammenfassen.",
+                  "Gespräche und vereinbarte Rückmeldungen koordinieren."
+                ]
+              },
+              {
+                "label": "Der Arbeitgeber entscheidet",
+                "items": [
+                  "Aufgaben, Entscheidungsspielraum und Arbeitsbedingungen bestätigen.",
+                  "Fachliche Belege in strukturierten Gesprächen prüfen.",
+                  "Feedback nach denselben vereinbarten Kriterien abgeben.",
+                  "Verbleibende Risiken und interne Voraussetzungen bewerten.",
+                  "Einstellungsentscheidung und Vertragsangebot verantworten."
+                ]
+              }
+            ]
+          },
+          {
+            "title": "5. Auswahlkriterien müssen tätigkeitsbezogen, nachvollziehbar und datensparsam bleiben",
+            "paragraphs": [
+              "In Deutschland erfasst das Allgemeine Gleichbehandlungsgesetz ausdrücklich Auswahlkriterien und Einstellungsbedingungen. Die Antidiskriminierungsstelle des Bundes empfiehlt, Einstellungsverfahren sorgfältig vorzubereiten und die fachliche Eignung anhand relevanter Informationen zu prüfen.",
+              "Für die Schweiz stellt der Eidgenössische Datenschutz- und Öffentlichkeitsbeauftragte klar, dass im Auswahlverfahren nur Angaben bearbeitet werden dürfen, die für die konkrete Stelle relevant sind. Informationen von aktuellen oder früheren Arbeitgebern setzen grundsätzlich die vorherige Einwilligung der betreffenden Person voraus.",
+              "Für MuJobs bedeutet das: Kriterien aus der Tätigkeit ableiten, dieselben Kernmaßstäbe anwenden, offene Punkte konkret benennen und nur entscheidungsrelevante Kandidateninformationen weitergeben. Dieser Beitrag ersetzt keine rechtliche Prüfung des einzelnen Verfahrens."
+            ]
+          },
+          {
+            "title": "6. Check: Ist Ihr Auswahlprozess bereit für eine klare Entscheidung?",
+            "items": [
+              "Ein benannter Entscheider verantwortet den Prozess bis zur Rückmeldung.",
+              "Die drei bis fünf wichtigsten Kriterien sind vor den Gesprächen priorisiert.",
+              "Jede Interviewstufe beantwortet eine klar definierte Frage.",
+              "Feedback trennt beobachtete Belege, Einschätzungen und offene Punkte.",
+              "Zusätzliche Anforderungen werden begründet statt stillschweigend ergänzt.",
+              "Kandidatinnen und Kandidaten kennen Ablauf, Ansprechpartner und nächsten Schritt."
+            ],
+            "paragraphs_after": [
+              "Wenn relevante Profile bereits im Prozess sind, aber Entscheidungen wiederholt vertagt werden, braucht es nicht automatisch mehr Reichweite. MuJobs kann Suchbriefing, Vorauswahl und Gesprächskoordination so strukturieren, dass der Arbeitgeber die entscheidenden Punkte schneller erkennt und fundiert abwägen kann. Eine Besetzung lässt sich nicht garantieren – ein klarer Prozess lässt sich jedoch vorbereiten."
+            ]
+          }
+        ],
+        "source_note": "Redaktioneller Praxisbeitrag von MuJobs, veröffentlicht am 11. November 2026. Die Hinweise unterstützen die Recruiting-Abstimmung und sind keine Rechtsberatung oder Einstellungszusage.",
+        "related_label": "Strukturierte Auswahl für Fach- und Führungspositionen",
+        "cta_title": "Ihre Gespräche sind gut, aber die Einstellungsentscheidung kommt nicht voran?",
+        "cta_text": "Senden Sie uns die Position, die wichtigsten Kriterien und den bisherigen Prozess. MuJobs klärt das Suchbriefing, recherchiert den Markt, qualifiziert relevante Profile und bereitet eine nachvollziehbare Entscheidungsgrundlage vor.",
+        "cta_label": "Auswahlprozess mit MuJobs besprechen"
+      },
+      "en": {
+        "title": "Relevant profiles, but no decision? How MuJobs structures the selection process",
+        "intro": "When interviews take place but nobody owns the next step, a vacancy remains open despite strong conversations. A clear decision process connects candidate evidence, feedback and commitment.",
+        "category": "HIRING DECISIONS · EMPLOYERS",
+        "hero_caption": "GOOD CONVERSATIONS. CLEAR DECISIONS.",
+        "opening": [
+          "Relevant profiles have been identified and the first conversations were positive, yet the hire is not moving. The business wants more comparisons, HR is waiting for feedback and candidates do not know when a decision will be made. The role remains open and its missing responsibilities stay with the existing team.",
+          "MuJobs therefore treats shortlisting as more than forwarding CVs. Before the search, we clarify which evidence should support the decision, keep open points visible for every profile and coordinate the next steps. The employer decides; MuJobs prepares comparable information and a reliable process for that decision."
+        ],
+        "sections": [
+          {
+            "title": "1. Identify whether the search or the decision has stalled",
+            "paragraphs": [
+              "More candidates do not resolve a decision bottleneck. When several relevant people are in the process but stakeholders use different criteria or postpone feedback, access to the market is no longer the main problem.",
+              "MuJobs works with the employer to locate the point where the process is stopping. Is professional evidence missing? Is ownership of the role still disputed? Is there no named decision-maker? Or are interviews taking place without agreement on which observations should lead to the next stage?"
+            ],
+            "items": [
+              "Interviewers assess profiles against different expectations.",
+              "After conversations, nobody clearly owns feedback and the decision.",
+              "New preferences are added although the original essential criteria are met.",
+              "Open professional questions are not translated into a focused next step.",
+              "Candidates receive no reliable information about what happens next."
+            ]
+          },
+          {
+            "title": "2. Define the decision path before the next interview",
+            "paragraphs": [
+              "A useful selection process starts before the first interview question, with a clear chain of decision-making. Before active outreach begins, the employer should know who assesses professional evidence, who confirms conditions and who owns the final hiring decision.",
+              "MuJobs connects these responsibilities to the search brief. Every stage has a defined question to answer. This reduces repetition and turns open points into focused checks instead of another general interview."
+            ],
+            "items": [
+              "Initial conversation: establish interest, relevant experience and practical conditions.",
+              "Professional interview: test specific ownership, approach and comparable situations.",
+              "Focused follow-up: address only the points that still matter to the decision.",
+              "Decision: compare evidence, risks and conditions together.",
+              "Feedback: one accountable person communicates the next step."
+            ]
+          },
+          {
+            "title": "3. How MuJobs makes candidate introductions decision-ready",
+            "paragraphs": [
+              "A decision brief needs more than a CV and a general recommendation. MuJobs places every relevant profile against the agreed criteria and separates confirmed experience from points the employer still needs to examine.",
+              "Uncertainty remains visible. If a person brings adjacent rather than identical sector experience, we explain the possible transfer and the right question to test it. If compensation, location or start date is not fully confirmed, it is not presented as settled."
+            ],
+            "items": [
+              "Why the profile may be relevant to the specific assignment.",
+              "Which example demonstrates comparable ownership.",
+              "Which motivation and practical conditions were discussed.",
+              "Which professional or organisational questions remain open.",
+              "Which next conversation is best suited to resolving them."
+            ],
+            "links": [
+              {
+                "label": "Recruiting technology professionals",
+                "path": "/technology"
+              },
+              {
+                "label": "Hiring marketing and creative talent",
+                "path": "/creative-marketing"
+              },
+              {
+                "label": "Recruiting sales professionals",
+                "path": "/sales"
+              },
+              {
+                "label": "Selected recruitment projects",
+                "path": "/work"
+              }
+            ]
+          },
+          {
+            "title": "4. Divide responsibility clearly between MuJobs and the employer",
+            "paragraphs": [
+              "MuJobs can take on research, outreach, initial qualification and process coordination. Professional assessment and the hiring decision remain with the employer. A clear division of work prevents candidate communication from falling between several stakeholders."
+            ],
+            "comparison": [
+              {
+                "label": "MuJobs prepares",
+                "items": [
+                  "Document the search brief and prioritised selection criteria.",
+                  "Research relevant profiles and approach them personally.",
+                  "Check motivation, experience and essential practical conditions.",
+                  "Summarise reasons for fit, evidence and open questions.",
+                  "Coordinate conversations and agreed feedback."
+                ]
+              },
+              {
+                "label": "The employer decides",
+                "items": [
+                  "Confirm responsibilities, decision authority and working conditions.",
+                  "Test professional evidence in structured conversations.",
+                  "Provide feedback against the same agreed criteria.",
+                  "Assess remaining risks and internal requirements.",
+                  "Own the hiring decision and employment offer."
+                ]
+              }
+            ]
+          },
+          {
+            "title": "5. Selection criteria should remain job-related, transparent and proportionate",
+            "paragraphs": [
+              "Germany's General Equal Treatment Act expressly covers selection criteria and recruitment conditions. The Federal Anti-Discrimination Agency advises employers to prepare recruitment processes carefully and assess professional suitability using relevant information.",
+              "In Switzerland, the Federal Data Protection and Information Commissioner states that employers may process only information relevant to suitability for the specific role. Information from current or former employers generally requires the candidate's prior consent.",
+              "For MuJobs, this means deriving criteria from the work, applying the same core standards, naming open points precisely and sharing only decision-relevant candidate information. This article does not replace legal review of an individual process."
+            ]
+          },
+          {
+            "title": "6. Check: is your selection process ready for a clear decision?",
+            "items": [
+              "One named decision-maker owns the process through to feedback.",
+              "The three to five most important criteria are prioritised before interviews.",
+              "Every interview stage answers a clearly defined question.",
+              "Feedback separates observed evidence, judgement and open points.",
+              "Additional requirements are reasoned rather than added silently.",
+              "Candidates know the process, contact and next step."
+            ],
+            "paragraphs_after": [
+              "If relevant profiles are already in the process but decisions are repeatedly postponed, more reach is not automatically the answer. MuJobs can structure the brief, shortlist and interview coordination so the employer can identify the decisive points and weigh them consistently. A hire cannot be guaranteed, but a clear process can be prepared."
+            ]
+          }
+        ],
+        "source_note": "An editorial MuJobs practice article published on 11 November 2026. The guidance supports recruitment alignment and is not legal advice or a hiring guarantee.",
+        "related_label": "Structured selection for specialist and leadership roles",
+        "cta_title": "Are conversations positive but the hiring decision is not moving?",
+        "cta_text": "Send us the role, essential criteria and process so far. MuJobs clarifies the brief, researches the market, qualifies relevant profiles and prepares a transparent basis for decision.",
+        "cta_label": "Discuss your selection process with MuJobs"
+      }
+    },
+    "sources": [
+      {
+        "label": "Germany: General Equal Treatment Act, Section 2",
+        "url": "https://www.gesetze-im-internet.de/agg/__2.html"
+      },
+      {
+        "label": "Federal Anti-Discrimination Agency: Fair recruitment procedures",
+        "url": "https://www.antidiskriminierungsstelle.de/SharedDocs/downloads/DE/publikationen/Leitfaeden/leitfaden_fair_in_den_job.pdf?__blob=publicationFile&v=3"
+      },
+      {
+        "label": "Switzerland: Data processing during recruitment",
+        "url": "https://www.edoeb.admin.ch/de/verschiedene-phasen-des-arbeitsverhaeltnisses"
+      }
+    ]
   }
 ]
 

@@ -116,6 +116,11 @@
       "permanent": true
     },
     {
+      "source": "/insight-passende-profile-einstellungsentscheidung-stockt.html",
+      "destination": "/insight-passende-profile-einstellungsentscheidung-stockt",
+      "permanent": true
+    },
+    {
       "source": "/insight-schluesselposition-offen-recruiting-kapazitaet.html",
       "destination": "/insight-schluesselposition-offen-recruiting-kapazitaet",
       "permanent": true
@@ -321,6 +326,11 @@
       "permanent": true
     },
     {
+      "source": "/de/insight-passende-profile-einstellungsentscheidung-stockt.html",
+      "destination": "/de/insight-passende-profile-einstellungsentscheidung-stockt",
+      "permanent": true
+    },
+    {
       "source": "/de/insight-schluesselposition-offen-recruiting-kapazitaet.html",
       "destination": "/de/insight-schluesselposition-offen-recruiting-kapazitaet",
       "permanent": true
@@ -502,6 +512,10 @@
       "destination": "/insights.html"
     },
     {
+      "source": "/insight-passende-profile-einstellungsentscheidung-stockt",
+      "destination": "/insight-passende-profile-einstellungsentscheidung-stockt.html"
+    },
+    {
       "source": "/insight-schluesselposition-offen-recruiting-kapazitaet",
       "destination": "/insight-schluesselposition-offen-recruiting-kapazitaet.html"
     },
@@ -660,6 +674,10 @@
     {
       "source": "/de/einblicke",
       "destination": "/de/insights.html"
+    },
+    {
+      "source": "/de/insight-passende-profile-einstellungsentscheidung-stockt",
+      "destination": "/de/insight-passende-profile-einstellungsentscheidung-stockt.html"
     },
     {
       "source": "/de/insight-schluesselposition-offen-recruiting-kapazitaet",
