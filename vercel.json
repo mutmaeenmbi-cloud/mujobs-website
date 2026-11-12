@@ -116,6 +116,11 @@
       "permanent": true
     },
     {
+      "source": "/insight-hybride-rollen-rekrutieren-anforderungsprofil-active-sourcing.html",
+      "destination": "/insight-hybride-rollen-rekrutieren-anforderungsprofil-active-sourcing",
+      "permanent": true
+    },
+    {
       "source": "/insight-passende-profile-einstellungsentscheidung-stockt.html",
       "destination": "/insight-passende-profile-einstellungsentscheidung-stockt",
       "permanent": true
@@ -326,6 +331,11 @@
       "permanent": true
     },
     {
+      "source": "/de/insight-hybride-rollen-rekrutieren-anforderungsprofil-active-sourcing.html",
+      "destination": "/de/insight-hybride-rollen-rekrutieren-anforderungsprofil-active-sourcing",
+      "permanent": true
+    },
+    {
       "source": "/de/insight-passende-profile-einstellungsentscheidung-stockt.html",
       "destination": "/de/insight-passende-profile-einstellungsentscheidung-stockt",
       "permanent": true
@@ -512,6 +522,10 @@
       "destination": "/insights.html"
     },
     {
+      "source": "/insight-hybride-rollen-rekrutieren-anforderungsprofil-active-sourcing",
+      "destination": "/insight-hybride-rollen-rekrutieren-anforderungsprofil-active-sourcing.html"
+    },
+    {
       "source": "/insight-passende-profile-einstellungsentscheidung-stockt",
       "destination": "/insight-passende-profile-einstellungsentscheidung-stockt.html"
     },
@@ -674,6 +688,10 @@
     {
       "source": "/de/einblicke",
       "destination": "/de/insights.html"
+    },
+    {
+      "source": "/de/insight-hybride-rollen-rekrutieren-anforderungsprofil-active-sourcing",
+      "destination": "/de/insight-hybride-rollen-rekrutieren-anforderungsprofil-active-sourcing.html"
     },
     {
       "source": "/de/insight-passende-profile-einstellungsentscheidung-stockt",

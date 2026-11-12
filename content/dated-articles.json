@@ -2984,6 +2984,233 @@
         "url": "https://www.edoeb.admin.ch/de/verschiedene-phasen-des-arbeitsverhaeltnisses"
       }
     ]
+  },
+  {
+    "slug": "hybride-rollen-rekrutieren-anforderungsprofil-active-sourcing",
+    "published": "2026-11-12",
+    "modified": "2026-11-12",
+    "topic": "sourcing",
+    "hero_image": "/preview-assets/workplace.jpg",
+    "locales": {
+      "de": {
+        "title": "Ihre Rolle passt in keine Standardschublade? So rekrutiert MuJobs für hybride Positionen",
+        "intro": "Wenn eine Position Technologie, Marketing, Vertrieb oder operative Verantwortung verbindet, zieht ein vertrauter Stellentitel oft die falschen Profile an. MuJobs übersetzt die tatsächliche Aufgabe in ein präzises Suchfeld.",
+        "category": "HYBRIDE ROLLEN · ACTIVE SOURCING",
+        "hero_caption": "DIE AUFGABE VERSTEHEN. DEN RICHTIGEN MARKT ÖFFNEN.",
+        "opening": [
+          "Das Unternehmen braucht keine klassische Stellenbesetzung, sondern eine Person, die mehrere Verantwortungsbereiche verbindet: etwa Produktverständnis und B2B-Vertrieb, Performance Marketing und kreative Steuerung oder Projektentwicklung und kommerzielle Verantwortung. Die Stellenanzeige trägt trotzdem nur einen bekannten Titel. Dadurch bewerben sich Personen, die einen Teil der Aufgabe verstehen, während relevante Profile den Zusammenhang nicht erkennen.",
+          "MuJobs beginnt bei solchen Suchen nicht mit einer Liste von Titeln. Wir klären, welche Ergebnisse die Person verantworten soll, welche Aufgaben wirklich zusammengehören und welche Erfahrung übertragbar ist. Daraus entstehen ein belastbares Anforderungsprofil, mehrere relevante Suchrichtungen und eine persönliche Ansprache, die die besondere Aufgabe verständlich macht."
+        ],
+        "sections": [
+          {
+            "title": "1. Warum ein einzelner Stellentitel die Suche zu eng machen kann",
+            "paragraphs": [
+              "Berufsbezeichnungen sind nützliche Orientierung, bilden aber nicht jede Kombination von Aufgaben ab. Die europäische ESCO-Klassifikation verbindet Berufe deshalb mit Kenntnissen, Fähigkeiten und Kompetenzen; auch der Kompetenzkatalog der Bundesagentur für Arbeit ordnet Berufen Kern- und weitere Kompetenzen zu.",
+              "Für Arbeitgeber bedeutet das praktisch: Wenn die Rolle ungewöhnlich geschnitten ist, sollte die Suche nicht nur nach einer exakten Bezeichnung erfolgen. Entscheidend ist, welche Verantwortung jemand bereits getragen hat und welche Kompetenzkombination für die neue Aufgabe benötigt wird."
+            ],
+            "items": [
+              "Der Titel beschreibt nur einen Teil der tatsächlichen Verantwortung.",
+              "Verschiedene Branchen verwenden andere Bezeichnungen für vergleichbare Aufgaben.",
+              "Einige passende Personen erkennen sich in der Anzeige nicht wieder.",
+              "Unpassende Bewerbungen entstehen, weil der Titel breiter wirkt als die Aufgabe.",
+              "Die interne Auswahl bewertet Titel, obwohl konkrete Arbeitsergebnisse wichtiger wären."
+            ]
+          },
+          {
+            "title": "2. MuJobs zerlegt die hybride Rolle in entscheidungsrelevante Bausteine",
+            "paragraphs": [
+              "Im Suchbriefing trennt MuJobs Ergebnisverantwortung, tägliche Aufgaben, notwendiges Fachwissen und praktische Rahmenbedingungen. So wird sichtbar, welche Elemente zwingend in einer Person zusammenkommen müssen und welche durch das Team ergänzt werden können.",
+              "Statt einer langen Wunschliste priorisieren wir die wenigen Nachweise, die eine Kandidatenvorstellung tragen. Das schafft ein Suchprofil, das breit genug für angrenzende Laufbahnen und zugleich präzise genug für eine nachvollziehbare Vorauswahl ist."
+            ],
+            "comparison": [
+              {
+                "label": "Vor der Klärung",
+                "items": [
+                  "Ein vertrauter Titel mit vielen unsortierten Anforderungen.",
+                  "Keine klare Trennung zwischen Muss-Kriterien und Lernfeldern.",
+                  "Suche nur in einer Branche oder Funktionsfamilie.",
+                  "Lebensläufe werden nach Ähnlichkeit statt nach Nachweisen bewertet."
+                ]
+              },
+              {
+                "label": "Nach dem MuJobs-Briefing",
+                "items": [
+                  "Konkrete Ergebnisse und Verantwortungsbereiche sind benannt.",
+                  "Drei bis fünf zentrale Nachweise sind priorisiert.",
+                  "Angrenzende Titel und Branchen werden bewusst einbezogen.",
+                  "Offene Lernfelder bleiben in der Vorauswahl sichtbar."
+                ]
+              }
+            ]
+          },
+          {
+            "title": "3. Aus einem Suchprofil entstehen mehrere relevante Talentmärkte",
+            "paragraphs": [
+              "MuJobs recherchiert nicht nur Personen mit dem vermeintlich perfekten Titel. Wir bilden mehrere Suchrichtungen: direkte Vergleichsrollen, angrenzende Funktionen und Profile mit übertragbarer Verantwortung. Für jede Richtung definieren wir, welcher Nachweis die Verbindung zur Position plausibel macht.",
+              "Bei einer hybriden Marketing- und Vertriebsrolle können das beispielsweise Kampagnenverantwortung, Pipeline-Beitrag und Führung externer Partner sein. Bei einer technologiebezogenen kommerziellen Rolle können Produktverständnis, beratender Verkauf und Zusammenarbeit mit technischen Teams zählen."
+            ],
+            "items": [
+              "Vergleichbare Verantwortung unter einem anderen Titel.",
+              "Relevante Erfahrung aus einer angrenzenden Branche.",
+              "Nachweisbare Schnittstellenarbeit zwischen zwei Funktionen.",
+              "Passende Aufgabenbreite in einem kleineren Unternehmen.",
+              "Entwicklungsschritt, bei dem nur ein klar benanntes Element neu ist."
+            ],
+            "links": [
+              {"label": "Technologie-Fachkräfte rekrutieren", "path": "/de/technologie"},
+              {"label": "Marketing- und Kreativrollen besetzen", "path": "/de/marketing-kreation"},
+              {"label": "Vertriebspositionen rekrutieren", "path": "/de/vertrieb"},
+              {"label": "Ausgewählte Recruiting-Projekte", "path": "/de/projekte"}
+            ]
+          },
+          {
+            "title": "4. Die persönliche Ansprache erklärt die Aufgabe statt nur den Titel",
+            "paragraphs": [
+              "Passive Kandidatinnen und Kandidaten müssen schnell verstehen, warum ihre bisherige Erfahrung für eine ungewöhnlich geschnittene Rolle relevant sein könnte. MuJobs spricht deshalb nicht mit einer allgemeinen Stellenbeschreibung an. Die Nachricht verbindet einen konkreten Teil des Profils mit der Verantwortung, dem Unternehmenskontext und dem möglichen nächsten Schritt.",
+              "Im Erstgespräch prüfen wir Interesse, vergleichbare Verantwortung und die wesentlichen Bedingungen. Eine Kandidatenvorstellung zeigt anschließend, welche Anforderungen belegt sind, welche Erfahrung übertragbar erscheint und welche Frage der Arbeitgeber im Fachgespräch noch prüfen sollte."
+            ],
+            "items": [
+              "Welcher Profilbeleg hat den Kontakt ausgelöst?",
+              "Welche besondere Aufgabe verbindet die Position?",
+              "Warum könnte der Wechsel fachlich sinnvoll sein?",
+              "Welche Bedingungen sollten früh geklärt werden?",
+              "Welche offene Frage gehört in das nächste Gespräch?"
+            ]
+          },
+          {
+            "title": "5. Check: Ist Ihre hybride Position bereit für den Markt?",
+            "items": [
+              "Die wichtigsten Ergebnisse der ersten zwölf Monate sind beschrieben.",
+              "Es ist klar, welche Aufgaben zwingend in einer Person liegen müssen.",
+              "Muss-Kriterien sind von Präferenzen und Lernfeldern getrennt.",
+              "Angrenzende Titel, Branchen und Laufbahnen sind ausdrücklich erlaubt.",
+              "Interviewfragen prüfen Verantwortung und Beispiele statt Titelähnlichkeit.",
+              "Standort, Arbeitsmodell, Vergütung und Entscheidungsspielraum sind abgestimmt."
+            ],
+            "paragraphs_after": [
+              "Wenn eine Position mehrere Funktionen verbindet, braucht sie keine künstlich perfekte Berufsbezeichnung. Sie braucht ein klares Arbeitsprofil und eine Suche, die relevante Erfahrung über verschiedene Talentmärkte hinweg erkennt. MuJobs kann das Briefing, die Marktanalyse, die persönliche Ansprache und die qualifizierte Vorauswahl übernehmen. Eine Besetzung lässt sich nicht garantieren; ein präziserer Zugang zum Markt lässt sich vorbereiten."
+            ]
+          }
+        ],
+        "source_note": "Redaktioneller Praxisbeitrag von MuJobs, veröffentlicht am 12. November 2026. Die Hinweise unterstützen die Recruiting-Abstimmung und stellen keine Einstellungszusage dar.",
+        "related_label": "Active Sourcing für ungewöhnlich geschnittene Fach- und Führungsrollen",
+        "cta_title": "Ihre Position verbindet mehrere Funktionen und zieht trotzdem die falschen Profile an?",
+        "cta_text": "Senden Sie uns die Aufgaben, die erwarteten Ergebnisse und die bisher verwendete Stellenbezeichnung. MuJobs entwickelt daraus ein priorisiertes Suchprofil, relevante Talentmärkte und eine persönliche Ansprache.",
+        "cta_label": "Hybride Position mit MuJobs besprechen"
+      },
+      "en": {
+        "title": "Does your role fit no standard category? How MuJobs recruits for hybrid positions",
+        "intro": "When a role combines technology, marketing, sales or operational ownership, a familiar job title often attracts the wrong profiles. MuJobs translates the actual work into a precise search field.",
+        "category": "HYBRID ROLES · ACTIVE SOURCING",
+        "hero_caption": "UNDERSTAND THE WORK. OPEN THE RIGHT MARKET.",
+        "opening": [
+          "The company does not need a conventional replacement. It needs someone who combines several areas of ownership: product understanding and B2B sales, performance marketing and creative direction, or project development and commercial responsibility. Yet the vacancy still carries one familiar title. Applicants recognise only part of the work, while relevant profiles do not see the connection.",
+          "For these searches, MuJobs does not begin with a list of titles. We clarify the outcomes the person should own, which responsibilities genuinely belong together and which experience can transfer. This produces a practical brief, several relevant search directions and personal outreach that explains the unusual opportunity clearly."
+        ],
+        "sections": [
+          {
+            "title": "1. Why one job title can make the search too narrow",
+            "paragraphs": [
+              "Occupational titles are useful orientation, but they do not capture every combination of work. The European ESCO classification therefore connects occupations with knowledge, skills and competences; Germany's Federal Employment Agency also assigns core and additional competences to occupations in its competence catalogue.",
+              "For employers, the practical implication is clear: when a role has an unusual shape, the search should not depend only on an exact title. The relevant question is which responsibilities a person has already owned and which combination of skills the new assignment requires."
+            ],
+            "items": [
+              "The title describes only one part of the actual responsibility.",
+              "Different sectors use different names for comparable work.",
+              "Some relevant people do not recognise themselves in the advert.",
+              "Unsuitable applications arrive because the title appears broader than the work.",
+              "Internal selection compares titles although concrete outcomes matter more."
+            ]
+          },
+          {
+            "title": "2. MuJobs breaks the hybrid role into decision-relevant components",
+            "paragraphs": [
+              "In the search briefing, MuJobs separates outcome ownership, daily responsibilities, essential knowledge and practical conditions. This shows which elements must sit with one person and which the existing team can complement.",
+              "Instead of keeping a long wish list, we prioritise the few pieces of evidence that should support a candidate introduction. The result is a profile broad enough to include adjacent careers and precise enough for a transparent shortlist."
+            ],
+            "comparison": [
+              {
+                "label": "Before clarification",
+                "items": [
+                  "A familiar title with many unprioritised requirements.",
+                  "No clear separation between essentials and learning areas.",
+                  "Research limited to one sector or functional family.",
+                  "CVs assessed by similarity rather than evidence."
+                ]
+              },
+              {
+                "label": "After the MuJobs briefing",
+                "items": [
+                  "Concrete outcomes and areas of ownership are defined.",
+                  "Three to five central evidence points are prioritised.",
+                  "Adjacent titles and sectors are included deliberately.",
+                  "Open learning areas remain visible in the shortlist."
+                ]
+              }
+            ]
+          },
+          {
+            "title": "3. One search profile opens several relevant talent markets",
+            "paragraphs": [
+              "MuJobs does not research only people with the supposedly perfect title. We map several directions: directly comparable roles, adjacent functions and profiles with transferable ownership. For each direction, we define which evidence makes the connection to the position credible.",
+              "For a hybrid marketing and sales role, that evidence may include campaign ownership, pipeline contribution and management of external partners. For a technology-related commercial role, it may include product understanding, consultative selling and collaboration with technical teams."
+            ],
+            "items": [
+              "Comparable responsibility under a different title.",
+              "Relevant experience from an adjacent sector.",
+              "Proven interface work between two functions.",
+              "A similar breadth of responsibility in a smaller company.",
+              "A development step in which only one clearly named element is new."
+            ],
+            "links": [
+              {"label": "Recruiting technology professionals", "path": "/technology"},
+              {"label": "Hiring marketing and creative talent", "path": "/creative-marketing"},
+              {"label": "Recruiting sales professionals", "path": "/sales"},
+              {"label": "Selected recruitment projects", "path": "/work"}
+            ]
+          },
+          {
+            "title": "4. Personal outreach explains the assignment, not just the title",
+            "paragraphs": [
+              "Passive candidates need to understand quickly why their experience may be relevant to an unusually shaped role. MuJobs therefore avoids a generic vacancy message. The approach connects one concrete part of the profile with the responsibility, business context and possible next step.",
+              "In the initial conversation, we check interest, comparable ownership and essential conditions. The candidate introduction then shows which requirements are evidenced, which experience appears transferable and which question the employer should still test in the professional interview."
+            ],
+            "items": [
+              "Which profile evidence prompted the contact?",
+              "Which particular responsibilities does the position combine?",
+              "Why could the move make professional sense?",
+              "Which conditions should be clarified early?",
+              "Which open question belongs in the next conversation?"
+            ]
+          },
+          {
+            "title": "5. Check: is your hybrid position ready for the market?",
+            "items": [
+              "The most important outcomes for the first twelve months are described.",
+              "It is clear which responsibilities must sit with one person.",
+              "Essentials are separated from preferences and learning areas.",
+              "Adjacent titles, sectors and career paths are explicitly allowed.",
+              "Interview questions test ownership and examples rather than title similarity.",
+              "Location, working model, compensation and decision authority are aligned."
+            ],
+            "paragraphs_after": [
+              "When a position combines several functions, it does not need an artificially perfect title. It needs a clear work profile and research that recognises relevant experience across several talent markets. MuJobs can handle the briefing, market mapping, personal outreach and qualified shortlisting. A hire cannot be guaranteed, but a more precise route to the market can be prepared."
+            ]
+          }
+        ],
+        "source_note": "An editorial MuJobs practice article published on 12 November 2026. The guidance supports recruitment alignment and does not constitute a hiring guarantee.",
+        "related_label": "Active sourcing for unusually shaped specialist and leadership roles",
+        "cta_title": "Does your position combine several functions but still attract the wrong profiles?",
+        "cta_text": "Send us the responsibilities, expected outcomes and title used so far. MuJobs turns them into a prioritised search profile, relevant talent markets and personal outreach.",
+        "cta_label": "Discuss your hybrid position with MuJobs"
+      }
+    },
+    "sources": [
+      {"label": "European Commission: About ESCO", "url": "https://esco.ec.europa.eu/en/about-esco"},
+      {"label": "European Commission: ESCO occupations pillar", "url": "https://esco.ec.europa.eu/en/about-esco/escopedia/escopedia/occupations-pillar"},
+      {"label": "German Federal Employment Agency: competence catalogue", "url": "https://web.arbeitsagentur.de/berufenet/bba/berufe/vergleichbarkeitberuflicherqualifikationen/ba?region=baw"},
+      {"label": "Swiss career guidance: occupations and requirements", "url": "https://www.berufsberatung.ch/de/erwachsene"}
+    ]
   }
 ]
 
