@@ -3211,6 +3211,233 @@
       {"label": "German Federal Employment Agency: competence catalogue", "url": "https://web.arbeitsagentur.de/berufenet/bba/berufe/vergleichbarkeitberuflicherqualifikationen/ba?region=baw"},
       {"label": "Swiss career guidance: occupations and requirements", "url": "https://www.berufsberatung.ch/de/erwachsene"}
     ]
+  },
+  {
+    "slug": "passive-kandidaten-reagieren-nicht-ansprache",
+    "published": "2026-11-13",
+    "modified": "2026-11-13",
+    "topic": "sourcing",
+    "hero_image": "/preview-assets/team.jpg",
+    "locales": {
+      "de": {
+        "title": "Passende Kandidaten reagieren nicht? So macht MuJobs aus einer Vakanz eine relevante Wechselchance",
+        "intro": "Eine Direktansprache bleibt wirkungslos, wenn sie nur einen Stellentitel und eine Bitte um Rückruf enthält. Relevante Fach- und Führungskräfte brauchen einen nachvollziehbaren Grund für das Gespräch.",
+        "category": "KANDIDATENANSPRACHE · ACTIVE SOURCING",
+        "hero_caption": "RELEVANZ ZEIGEN. GESPRÄCHE ERMÖGLICHEN.",
+        "opening": [
+          "Das Zielprofil ist gefunden, die Erfahrung wirkt passend – doch auf die Nachricht kommt keine Antwort. Dann liegt das Problem nicht automatisch am Kandidatenmarkt. Häufig ist noch nicht klar, warum die Aufgabe für diese Person interessant sein könnte, welche Verantwortung tatsächlich übertragen wird oder welche Bedingungen für einen Wechsel relevant sind.",
+          "MuJobs bereitet die Direktansprache deshalb nicht als Seriennachricht vor. Wir klären die Rolle, recherchieren konkrete Profilbezüge und formulieren eine persönliche Einladung zum Gespräch. Dabei versprechen wir weder Interesse noch eine Besetzung. Wir schaffen eine belastbare Grundlage, auf der angesprochene Personen die Gelegenheit einordnen und Arbeitgeber qualifizierte Gespräche führen können."
+        ],
+        "sections": [
+          {
+            "title": "1. Warum ein passendes Profil noch keine relevante Ansprache ergibt",
+            "paragraphs": [
+              "Ein Lebenslauf kann fachlich passen und die Nachricht trotzdem austauschbar wirken. Passive Kandidatinnen und Kandidaten haben sich nicht aktiv beworben. Sie müssen deshalb zuerst verstehen, weshalb gerade ihre Erfahrung mit einer konkreten Aufgabe verbunden wird.",
+              "MuJobs trennt vor der Ansprache drei Fragen: Was soll die Person im Unternehmen bewirken? Welcher belegbare Teil ihres Profils macht den Kontakt plausibel? Und welche Informationen braucht sie, um ein erstes Gespräch sinnvoll bewerten zu können?"
+            ],
+            "items": [
+              "Die Nachricht nennt nur den Jobtitel, aber nicht die konkrete Verantwortung.",
+              "Der Profilbezug bleibt allgemein oder könnte an viele Personen gesendet worden sein.",
+              "Unternehmenskontext, Team und geschäftlicher Anlass der Rolle fehlen.",
+              "Standort, Arbeitsmodell oder Entscheidungsspielraum sind intern noch ungeklärt.",
+              "Der nächste Schritt verlangt bereits eine Bewerbung statt eines unverbindlichen Gesprächs."
+            ]
+          },
+          {
+            "title": "2. Erst die Wechselchance klären, dann den Markt ansprechen",
+            "paragraphs": [
+              "Eine Stellenbeschreibung listet Aufgaben und Anforderungen. Eine Wechselchance erklärt zusätzlich, weshalb die Rolle jetzt existiert, welches Ergebnis erwartet wird und welchen Gestaltungsspielraum die neue Person erhält. MuJobs erarbeitet diese Punkte im Suchbriefing mit dem Hiring Manager.",
+              "Die Bundesagentur für Arbeit empfiehlt Arbeitgebern, neben Anforderungen und Aufgaben auch das Unternehmen, betriebliche Leistungen sowie konkrete Angaben zu Arbeitszeit und Homeoffice darzustellen. Für Active Sourcing gilt derselbe Grundsatz: Relevanz entsteht durch klare, entscheidungsfähige Informationen – nicht durch Superlative."
+            ],
+            "items": [
+              "Geschäftlicher Anlass: Warum wird die Position jetzt besetzt?",
+              "Auftrag: Welche Ergebnisse und Entscheidungen gehören zur Rolle?",
+              "Umfeld: Mit welchem Team, Kundenkreis oder Produkt arbeitet die Person?",
+              "Entwicklung: Welche Verantwortung kann sie übernehmen oder ausbauen?",
+              "Bedingungen: Welche wesentlichen Rahmenpunkte sind bereits bestätigt?"
+            ]
+          },
+          {
+            "title": "3. So übersetzt MuJobs das Briefing in persönliche Direktansprache",
+            "paragraphs": [
+              "MuJobs verbindet Marktrecherche und Kommunikation. Für jedes Suchfeld definieren wir, welche Erfahrungen auf die Aufgabe übertragbar sind. Bei einem Technologieprofil kann das die Verbindung von Produktverständnis und Kundenberatung sein; bei Marketing- oder Vertriebsrollen eine nachweisbare Verantwortung für Kampagnen, Pipeline oder Partner; bei Immobilienpositionen ein bestimmter Projekt- oder Vermarktungskontext.",
+              "Die erste Nachricht bleibt kompakt. Sie zeigt den konkreten Profilbezug, benennt die zentrale Aufgabe und lädt zu einem vertraulichen, ergebnisoffenen Austausch ein. Im Gespräch prüfen wir Interesse, relevante Erfahrung und wesentliche Bedingungen, bevor ein Profil dem Arbeitgeber vorgestellt wird."
+            ],
+            "comparison": [
+              {
+                "label": "Austauschbare Ansprache",
+                "items": [
+                  "Allgemeines Lob ohne belegbaren Profilbezug.",
+                  "Langer Anforderungskatalog ohne Priorität.",
+                  "Unklare Aufgabe hinter einem bekannten Titel.",
+                  "Sofortige Bitte um Lebenslauf oder Bewerbung."
+                ]
+              },
+              {
+                "label": "MuJobs-Ansprache",
+                "items": [
+                  "Ein konkreter Erfahrungsbeleg erklärt den Kontakt.",
+                  "Die wichtigste Verantwortung steht im Mittelpunkt.",
+                  "Unternehmenskontext und Wechselchance werden verständlich.",
+                  "Der nächste Schritt ist ein klarer, unverbindlicher Austausch."
+                ]
+              }
+            ],
+            "links": [
+              {"label": "Technologie-Fachkräfte rekrutieren", "path": "/de/technologie"},
+              {"label": "Marketing- und Kreativrollen besetzen", "path": "/de/marketing-kreation"},
+              {"label": "Vertriebspositionen rekrutieren", "path": "/de/vertrieb"},
+              {"label": "Ausgewählte Recruiting-Projekte", "path": "/de/projekte"}
+            ]
+          },
+          {
+            "title": "4. Transparenz gehört zur ersten Kontaktaufnahme",
+            "paragraphs": [
+              "Bei Direktansprache werden personenbezogene Daten nicht immer unmittelbar bei der betroffenen Person erhoben. Der Europäische Datenschutzausschuss erläutert zu Artikel 14 DSGVO, dass bei einer beabsichtigten Kontaktaufnahme die erforderlichen Informationen spätestens bei der ersten Kommunikation bereitgestellt werden müssen. In der Schweiz betont der Eidgenössische Datenschutz- und Öffentlichkeitsbeauftragte Zweckbindung, Verhältnismäßigkeit und die Information der betroffenen Personen.",
+              "MuJobs beschränkt Recherche und Vorqualifizierung auf Informationen, die für die konkrete berufliche Eignung und Kontaktaufnahme relevant sind. Die Ansprache macht Absender und Zweck erkennbar. Weitergehende Prüfungen oder Informationen von Dritten werden nicht stillschweigend vorausgesetzt. Dieser Praxisbeitrag ersetzt keine Rechtsberatung zum Einzelfall."
+            ],
+            "items": [
+              "Absender, Auftrag und Anlass des Kontakts sind erkennbar.",
+              "Es werden nur tätigkeitsbezogene Informationen verwendet.",
+              "Die angesprochene Person kann den Zweck der Kontaktaufnahme verstehen.",
+              "Ein Nein wird respektiert und nicht als Einladung zu weiteren Nachrichten behandelt.",
+              "Kandidateninformationen werden nur im vereinbarten Prozess weitergegeben."
+            ]
+          },
+          {
+            "title": "5. Check: Ist Ihre Position bereit für eine glaubwürdige Direktansprache?",
+            "items": [
+              "Die wichtigsten Ergebnisse und Verantwortlichkeiten der Rolle sind priorisiert.",
+              "Der fachliche Entscheider kann den Unternehmens- und Teamkontext erklären.",
+              "Standort, Arbeitsmodell und wesentliche Bedingungen sind intern abgestimmt.",
+              "Der Suchmarkt umfasst direkte und angrenzende Profile mit nachvollziehbarer Verbindung.",
+              "Für jede Ansprache lässt sich ein konkreter Profilbezug benennen.",
+              "Ein klarer Ansprechpartner kann zeitnah ein erstes Gespräch führen."
+            ],
+            "paragraphs_after": [
+              "Wenn passende Personen nicht reagieren, ist die nächste Maßnahme nicht automatisch eine größere Nachrichtenmenge. MuJobs prüft zuerst, ob Rolle, Zielmarkt und Wechselchance klar genug sind. Danach übernehmen wir gezielte Recherche, persönliche Ansprache, erste Qualifizierung und eine begründete Vorauswahl. Interesse oder eine Besetzung lassen sich nicht garantieren; die Qualität und Relevanz des Suchprozesses lassen sich jedoch systematisch vorbereiten."
+            ]
+          }
+        ],
+        "source_note": "Redaktioneller Praxisbeitrag von MuJobs, veröffentlicht am 13. November 2026. Die Hinweise unterstützen die Recruiting-Abstimmung und sind keine Rechtsberatung oder Einstellungszusage.",
+        "related_label": "Persönliche Direktansprache für Fach- und Führungspositionen",
+        "cta_title": "Sie kennen den Zielmarkt, aber relevante Personen reagieren nicht auf Ihre Ansprache?",
+        "cta_text": "Senden Sie uns die Position, den Unternehmenskontext und die bisherige Ansprache. MuJobs klärt die Wechselchance, recherchiert passende Profile, spricht ausgewählte Personen persönlich an und qualifiziert relevante Gespräche vor.",
+        "cta_label": "Kandidatenansprache mit MuJobs besprechen"
+      },
+      "en": {
+        "title": "Relevant candidates do not respond? How MuJobs turns a vacancy into a credible opportunity",
+        "intro": "Direct outreach is ineffective when it contains only a job title and a request to call back. Relevant specialists and leaders need a credible reason to consider the conversation.",
+        "category": "CANDIDATE OUTREACH · ACTIVE SOURCING",
+        "hero_caption": "SHOW RELEVANCE. OPEN CONVERSATIONS.",
+        "opening": [
+          "The target profile has been identified and the experience appears relevant, yet the message receives no reply. That does not automatically mean the candidate market is inaccessible. Often, it is still unclear why the assignment could matter to this person, which responsibility will genuinely transfer or which conditions are relevant to a move.",
+          "MuJobs therefore does not prepare direct outreach as a bulk message. We clarify the role, research specific profile connections and write a personal invitation to a conversation. We promise neither interest nor a hire. We create a credible basis on which approached people can assess the opportunity and employers can hold qualified conversations."
+        ],
+        "sections": [
+          {
+            "title": "1. Why a relevant profile does not automatically create relevant outreach",
+            "paragraphs": [
+              "A CV can appear professionally relevant while the message still feels interchangeable. Passive candidates have not applied. They first need to understand why their particular experience connects to a specific assignment.",
+              "Before outreach, MuJobs separates three questions: what should the person achieve in the business? Which evidenced part of the profile makes the contact credible? Which information does the person need to judge whether an initial conversation is worthwhile?"
+            ],
+            "items": [
+              "The message gives a title but not the concrete responsibility.",
+              "The profile connection is generic and could apply to many people.",
+              "The company context, team and business reason for the role are missing.",
+              "Location, working model or decision authority remain unresolved internally.",
+              "The next step demands an application rather than offering an exploratory conversation."
+            ]
+          },
+          {
+            "title": "2. Clarify the opportunity before approaching the market",
+            "paragraphs": [
+              "A job description lists responsibilities and requirements. A credible opportunity also explains why the role exists now, what outcome is expected and which scope the new hire can shape. MuJobs develops these points with the hiring manager during the search briefing.",
+              "Germany's Federal Employment Agency advises employers to present the company, employer benefits and concrete information on working hours and home-working alongside responsibilities and requirements. The same principle applies to active sourcing: relevance comes from clear, decision-ready information rather than superlatives."
+            ],
+            "items": [
+              "Business reason: why is the position being filled now?",
+              "Assignment: which outcomes and decisions belong to the role?",
+              "Environment: which team, customers or product will the person work with?",
+              "Development: which responsibility can the person take on or expand?",
+              "Conditions: which essential parameters have already been confirmed?"
+            ]
+          },
+          {
+            "title": "3. How MuJobs turns the briefing into personal direct outreach",
+            "paragraphs": [
+              "MuJobs connects market research with communication. For each search field, we define which experience can transfer to the assignment. For a technology profile, this may be the combination of product understanding and customer advisory work; for marketing or sales roles, evidenced responsibility for campaigns, pipeline or partners; for real-estate positions, a particular project or marketing context.",
+              "The first message remains concise. It shows the specific profile connection, names the central assignment and invites a confidential, open-ended conversation. In that conversation, we check interest, relevant experience and essential conditions before introducing a profile to the employer."
+            ],
+            "comparison": [
+              {
+                "label": "Interchangeable outreach",
+                "items": [
+                  "General praise without an evidenced profile connection.",
+                  "A long requirements list without priorities.",
+                  "An unclear assignment behind a familiar title.",
+                  "An immediate request for a CV or application."
+                ]
+              },
+              {
+                "label": "MuJobs outreach",
+                "items": [
+                  "One concrete evidence point explains the contact.",
+                  "The most important responsibility is central.",
+                  "The company context and opportunity are understandable.",
+                  "The next step is a clear, exploratory conversation."
+                ]
+              }
+            ],
+            "links": [
+              {"label": "Recruiting technology professionals", "path": "/technology"},
+              {"label": "Hiring marketing and creative talent", "path": "/creative-marketing"},
+              {"label": "Recruiting sales professionals", "path": "/sales"},
+              {"label": "Selected recruitment projects", "path": "/work"}
+            ]
+          },
+          {
+            "title": "4. Transparency belongs in the first contact",
+            "paragraphs": [
+              "In direct sourcing, personal data is not always obtained directly from the individual. The European Data Protection Board explains that under Article 14 GDPR, when the data is intended for communication, the required information must be provided no later than the first contact. In Switzerland, the Federal Data Protection and Information Commissioner emphasises purpose limitation, proportionality and informing the people concerned.",
+              "MuJobs limits research and initial qualification to information relevant to the specific professional fit and contact. The approach makes the sender and purpose recognisable. Further checks or third-party information are not silently assumed. This practical guidance is not legal advice for an individual case."
+            ],
+            "items": [
+              "The sender, assignment and reason for contact are recognisable.",
+              "Only work-related information is used.",
+              "The approached person can understand the purpose of the contact.",
+              "A refusal is respected and is not treated as an invitation to further messages.",
+              "Candidate information is shared only within the agreed process."
+            ]
+          },
+          {
+            "title": "5. Check: is your position ready for credible direct outreach?",
+            "items": [
+              "The role's most important outcomes and responsibilities are prioritised.",
+              "The professional decision-maker can explain the business and team context.",
+              "Location, working model and essential conditions are internally aligned.",
+              "The search market includes direct and adjacent profiles with a credible connection.",
+              "Every message can name one specific profile reason for the contact.",
+              "A clear contact person can hold an initial conversation promptly."
+            ],
+            "paragraphs_after": [
+              "When relevant people do not reply, the next step is not automatically a larger volume of messages. MuJobs first examines whether the role, target market and opportunity are clear enough. We then handle focused research, personal outreach, initial qualification and a reasoned shortlist. Interest or a hire cannot be guaranteed, but the quality and relevance of the search process can be prepared systematically."
+            ]
+          }
+        ],
+        "source_note": "An editorial MuJobs practice article published on 13 November 2026. The guidance supports recruitment alignment and is neither legal advice nor a hiring guarantee.",
+        "related_label": "Personal direct outreach for specialist and leadership roles",
+        "cta_title": "You know the target market, but relevant people do not respond to your outreach?",
+        "cta_text": "Send us the position, business context and outreach used so far. MuJobs clarifies the opportunity, researches relevant profiles, approaches selected people personally and qualifies relevant conversations.",
+        "cta_label": "Discuss candidate outreach with MuJobs"
+      }
+    },
+    "sources": [
+      {"label": "German Federal Employment Agency: tips for job offers", "url": "https://www.arbeitsagentur.de/vor-ort/datei/tipps_stellenangebote_ba155021.pdf"},
+      {"label": "European Data Protection Board: respecting individuals' rights", "url": "https://www.edpb.europa.eu/sme/be-compliant/respect-individuals-rights_en"},
+      {"label": "Swiss FDPIC: data processing by the employer", "url": "https://www.edoeb.admin.ch/en/data-processing-by-the-employer"},
+      {"label": "Swiss FDPIC: different phases of the employment relationship", "url": "https://www.edoeb.admin.ch/en/different-phases-of-the-employment-relationship"}
+    ]
   }
 ]
 

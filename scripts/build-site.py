@@ -201,7 +201,7 @@ def journal_article(en,entries):
         title,copy,label=d['cta_title'],d['cta_text'],d['cta_label']
     else:title=t(P('Turn the guidance into a recruitment brief.','Nutzen Sie dieses Wissen für Ihre nächste Besetzung.'));copy=t(P('Tell us about your vacancy and the experience you need. We will help you define a clear brief and a focused recruitment approach.','Beschreiben Sie uns Ihre offene Position und die erforderliche Erfahrung. Gemeinsam entwickeln wir ein klares Anforderungsprofil und einen gezielten Recruiting-Ansatz.'));label=t(P('Discuss your vacancy','Personalbedarf besprechen'))
     body+='<aside class="journal-article-cta"><span class="journal-kicker">'+tx('TAKE THE NEXT STEP','DER NÄCHSTE SCHRITT')+'</span><h2>'+e(title)+'</h2>'+p(copy)+'<a class="button light" href="mailto:mujtaba@mujobs.de">'+e(label)+' ↗</a></aside></article></div>'
-    sales_led_slugs={'stellenanzeige-keine-passenden-bewerbungen-active-sourcing','zu-viele-lebenslaeufe-fundierte-vorauswahl','schluesselposition-offen-recruiting-kapazitaet','passende-profile-einstellungsentscheidung-stockt','hybride-rollen-rekrutieren-anforderungsprofil-active-sourcing'}
+    sales_led_slugs={'stellenanzeige-keine-passenden-bewerbungen-active-sourcing','zu-viele-lebenslaeufe-fundierte-vorauswahl','schluesselposition-offen-recruiting-kapazitaet','passende-profile-einstellungsentscheidung-stockt','hybride-rollen-rekrutieren-anforderungsprofil-active-sourcing','passive-kandidaten-reagieren-nicht-ansprache'}
     if en['slug']=='zu-viele-lebenslaeufe-fundierte-vorauswahl':
         related_pool=entries
     elif en['slug']=='stellenanzeige-keine-passenden-bewerbungen-active-sourcing':

@@ -116,6 +116,11 @@
       "permanent": true
     },
     {
+      "source": "/insight-passive-kandidaten-reagieren-nicht-ansprache.html",
+      "destination": "/insight-passive-kandidaten-reagieren-nicht-ansprache",
+      "permanent": true
+    },
+    {
       "source": "/insight-hybride-rollen-rekrutieren-anforderungsprofil-active-sourcing.html",
       "destination": "/insight-hybride-rollen-rekrutieren-anforderungsprofil-active-sourcing",
       "permanent": true
@@ -331,6 +336,11 @@
       "permanent": true
     },
     {
+      "source": "/de/insight-passive-kandidaten-reagieren-nicht-ansprache.html",
+      "destination": "/de/insight-passive-kandidaten-reagieren-nicht-ansprache",
+      "permanent": true
+    },
+    {
       "source": "/de/insight-hybride-rollen-rekrutieren-anforderungsprofil-active-sourcing.html",
       "destination": "/de/insight-hybride-rollen-rekrutieren-anforderungsprofil-active-sourcing",
       "permanent": true
@@ -522,6 +532,10 @@
       "destination": "/insights.html"
     },
     {
+      "source": "/insight-passive-kandidaten-reagieren-nicht-ansprache",
+      "destination": "/insight-passive-kandidaten-reagieren-nicht-ansprache.html"
+    },
+    {
       "source": "/insight-hybride-rollen-rekrutieren-anforderungsprofil-active-sourcing",
       "destination": "/insight-hybride-rollen-rekrutieren-anforderungsprofil-active-sourcing.html"
     },
@@ -688,6 +702,10 @@
     {
       "source": "/de/einblicke",
       "destination": "/de/insights.html"
+    },
+    {
+      "source": "/de/insight-passive-kandidaten-reagieren-nicht-ansprache",
+      "destination": "/de/insight-passive-kandidaten-reagieren-nicht-ansprache.html"
     },
     {
       "source": "/de/insight-hybride-rollen-rekrutieren-anforderungsprofil-active-sourcing",
